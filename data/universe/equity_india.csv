@@ -1,0 +1,36 @@
+asset_class,market,symbol,yf_ticker,name,gics_sector,industry,currency,market_cap_tier,market_cap_usd_bn
+Equity,India,RELIANCE,RELIANCE.NS,Reliance Industries Ltd.,Energy,Integrated Oil & Gas,INR,Mega Cap,210.0
+Equity,India,TCS,TCS.NS,Tata Consultancy Services,Information Technology,IT Services,INR,Large Cap,160.0
+Equity,India,HDFCBANK,HDFCBANK.NS,HDFC Bank Ltd.,Financials,Diversified Banks,INR,Large Cap,165.0
+Equity,India,ICICIBANK,ICICIBANK.NS,ICICI Bank Ltd.,Financials,Diversified Banks,INR,Large Cap,115.0
+Equity,India,INFY,INFY.NS,Infosys Ltd.,Information Technology,IT Services,INR,Large Cap,85.0
+Equity,India,SBIN,SBIN.NS,State Bank of India,Financials,Diversified Banks,INR,Large Cap,75.0
+Equity,India,BHARTIARTL,BHARTIARTL.NS,Bharti Airtel Ltd.,Communication Services,Wireless Telecom,INR,Large Cap,115.0
+Equity,India,ITC,ITC.NS,ITC Ltd.,Consumer Staples,Tobacco,INR,Large Cap,55.0
+Equity,India,HINDUNILVR,HINDUNILVR.NS,Hindustan Unilever Ltd.,Consumer Staples,Household Products,INR,Large Cap,65.0
+Equity,India,LT,LT.NS,Larsen & Toubro Ltd.,Industrials,Construction & Engineering,INR,Large Cap,50.0
+Equity,India,KOTAKBANK,KOTAKBANK.NS,Kotak Mahindra Bank Ltd.,Financials,Diversified Banks,INR,Mid Cap,45.0
+Equity,India,AXISBANK,AXISBANK.NS,Axis Bank Ltd.,Financials,Diversified Banks,INR,Mid Cap,40.0
+Equity,India,BAJFINANCE,BAJFINANCE.NS,Bajaj Finance Ltd.,Financials,Consumer Finance,INR,Large Cap,55.0
+Equity,India,MARUTI,MARUTI.NS,Maruti Suzuki India Ltd.,Consumer Discretionary,Automobiles,INR,Mid Cap,45.0
+Equity,India,SUNPHARMA,SUNPHARMA.NS,Sun Pharmaceutical Industries,Health Care,Pharmaceuticals,INR,Mid Cap,45.0
+Equity,India,HCLTECH,HCLTECH.NS,HCL Technologies Ltd.,Information Technology,IT Services,INR,Mid Cap,45.0
+Equity,India,TITAN,TITAN.NS,Titan Company Ltd.,Consumer Discretionary,Apparel & Luxury Goods,INR,Mid Cap,30.0
+Equity,India,ASIANPAINT,ASIANPAINT.NS,Asian Paints Ltd.,Materials,Specialty Chemicals,INR,Mid Cap,25.0
+Equity,India,ULTRACEMCO,ULTRACEMCO.NS,UltraTech Cement Ltd.,Materials,Construction Materials,INR,Mid Cap,35.0
+Equity,India,WIPRO,WIPRO.NS,Wipro Ltd.,Information Technology,IT Services,INR,Mid Cap,30.0
+Equity,India,ADANIENT,ADANIENT.NS,Adani Enterprises Ltd.,Industrials,Industrial Conglomerates,INR,Mid Cap,35.0
+Equity,India,ADANIPORTS,ADANIPORTS.NS,Adani Ports and SEZ Ltd.,Industrials,Marine Ports & Services,INR,Mid Cap,30.0
+Equity,India,TATAMOTORS,TATAMOTORS.NS,Tata Motors Ltd.,Consumer Discretionary,Automobiles,INR,Mid Cap,35.0
+Equity,India,TATASTEEL,TATASTEEL.NS,Tata Steel Ltd.,Materials,Steel,INR,Mid Cap,22.0
+Equity,India,M&M,M%26M.NS,Mahindra & Mahindra Ltd.,Consumer Discretionary,Automobiles,INR,Mid Cap,40.0
+Equity,India,NTPC,NTPC.NS,NTPC Ltd.,Utilities,Electric Utilities,INR,Mid Cap,40.0
+Equity,India,POWERGRID,POWERGRID.NS,Power Grid Corp of India,Utilities,Electric Utilities,INR,Mid Cap,30.0
+Equity,India,COALINDIA,COALINDIA.NS,Coal India Ltd.,Energy,Coal,INR,Mid Cap,25.0
+Equity,India,JSWSTEEL,JSWSTEEL.NS,JSW Steel Ltd.,Materials,Steel,INR,Mid Cap,25.0
+Equity,India,NESTLEIND,NESTLEIND.NS,Nestle India Ltd.,Consumer Staples,Packaged Foods,INR,Mid Cap,27.0
+Equity,India,BAJAJFINSV,BAJAJFINSV.NS,Bajaj Finserv Ltd.,Financials,Diversified Financial Services,INR,Mid Cap,30.0
+Equity,India,INDUSINDBK,INDUSINDBK.NS,IndusInd Bank Ltd.,Financials,Diversified Banks,INR,Mid Cap,10.0
+Equity,India,HINDALCO,HINDALCO.NS,Hindalco Industries Ltd.,Materials,Aluminum,INR,Mid Cap,18.0
+Equity,India,DRREDDY,DRREDDY.NS,Dr. Reddy's Laboratories,Health Care,Pharmaceuticals,INR,Mid Cap,15.0
+Equity,India,CIPLA,CIPLA.NS,Cipla Ltd.,Health Care,Pharmaceuticals,INR,Mid Cap,14.0

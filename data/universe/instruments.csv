@@ -1,0 +1,735 @@
+asset_class,market,symbol,yf_ticker,name,gics_sector,industry,currency,market_cap_tier,market_cap_usd_bn
+Equity,South Africa,BHG,BHG.JO,BHP Group Limited,Materials,Diversified Mining,ZAR,Mega Cap,197.3
+Equity,South Africa,ANH,ANH.JO,Anheuser-Busch InBev SA/NV,Consumer Staples,Brewers,ZAR,Mega Cap,145.41
+Equity,South Africa,CFR,CFR.JO,Compagnie Financière Richemont SA,Consumer Discretionary,Luxury Goods,ZAR,Mega Cap,124.32
+Equity,South Africa,BTI,BTI.JO,British American Tobacco p.l.c.,Consumer Staples,Tobacco,ZAR,Mega Cap,112.43
+Equity,South Africa,PRX,PRX.JO,Prosus N.V.,Consumer Discretionary,Internet & Direct Marketing Retail,ZAR,Mega Cap,90.81
+Equity,South Africa,GLN,GLN.JO,Glencore plc,Materials,Diversified Mining & Commodities Trading,ZAR,Mega Cap,77.3
+Equity,South Africa,AGL,AGL.JO,Anglo American plc,Materials,Diversified Mining,ZAR,Mega Cap,50.84
+Equity,South Africa,ANG,ANG.JO,AngloGold Ashanti plc,Materials,Gold Mining,ZAR,Mega Cap,42.94
+Equity,South Africa,NPN,NPN.JO,Naspers Limited,Consumer Discretionary,Internet & Direct Marketing Retail,ZAR,Mega Cap,37.18
+Equity,South Africa,GFI,GFI.JO,Gold Fields Limited,Materials,Gold Mining,ZAR,Mega Cap,32.08
+Equity,South Africa,FSR,FSR.JO,FirstRand Limited,Financials,Banks,ZAR,Mega Cap,30.39
+Equity,South Africa,CPI,CPI.JO,Capitec Limited,Financials,Banks,ZAR,Mega Cap,30.24
+Equity,South Africa,SBK,SBK.JO,Standard Bank Group Limited,Financials,Banks,ZAR,Mega Cap,29.11
+Equity,South Africa,VAL,VAL.JO,Valterra Platinum Limited,Materials,Platinum Group Metals,ZAR,Mega Cap,20.4
+Equity,South Africa,MTN,MTN.JO,MTN Group Limited,Communication Services,Wireless Telecom,ZAR,Mega Cap,20.36
+Equity,South Africa,VOD,VOD.JO,Vodacom Group Limited,Communication Services,Wireless Telecom,ZAR,Mega Cap,16.46
+Equity,South Africa,S32,S32.JO,South32 Limited,Materials,Diversified Mining,ZAR,Mega Cap,13.71
+Equity,South Africa,HAR,HAR.JO,Harmony Gold Mining Company Limited,Materials,Gold Mining,ZAR,Large Cap,10.77
+Equity,South Africa,ABG,ABG.JO,Absa Group Limited,Financials,Banks,ZAR,Large Cap,10.35
+Equity,South Africa,IMP,IMP.JO,Impala Platinum Holdings Limited,Materials,Platinum Group Metals,ZAR,Large Cap,10.34
+Equity,South Africa,SLM,SLM.JO,Sanlam Limited,Financials,Life Insurance,ZAR,Large Cap,10.07
+Equity,South Africa,DSY,DSY.JO,Discovery Limited,Financials,Life & Health Insurance,ZAR,Large Cap,9.6
+Equity,South Africa,SHP,SHP.JO,Shoprite Holdings Ltd,Consumer Staples,Food Retail,ZAR,Large Cap,8.36
+Equity,South Africa,BID,BID.JO,Bid Corporation Limited,Consumer Staples,Food Distribution & Wholesale,ZAR,Large Cap,7.9
+Equity,South Africa,NED,NED.JO,Nedbank Group Limited,Financials,Banks,ZAR,Large Cap,7.29
+Equity,South Africa,OUT,OUT.JO,OUTsurance Group Limited,Financials,Non-Life Insurance,ZAR,Large Cap,6.92
+Equity,South Africa,SSW,SSW.JO,Sibanye Stillwater Limited,Materials,Precious Metals Mining,ZAR,Large Cap,6.64
+Equity,South Africa,INL,INL.JO,Investec Group,Financials,Diversified Financial Services,ZAR,Large Cap,6.62
+Equity,South Africa,INP,INP.JO,Investec Group,Financials,Diversified Financial Services,ZAR,Large Cap,6.62
+Equity,South Africa,SOL,SOL.JO,Sasol Limited,Energy,Integrated Oil & Gas & Chemicals,ZAR,Large Cap,6.15
+Equity,South Africa,SOLBE1,SOLBE1.JO,Sasol Limited,Energy,Integrated Oil & Gas & Chemicals,ZAR,Large Cap,6.15
+Equity,South Africa,REM,REM.JO,Remgro Limited,Financials,Investment Holding Companies,ZAR,Large Cap,5.86
+Equity,South Africa,NRP,NRP.JO,NEPI Rockcastle N.V.,Real Estate,Retail REITs,ZAR,Large Cap,5.84
+Equity,South Africa,NPH,NPH.JO,Northam Platinum Holdings Limited,Materials,Platinum Group Metals,ZAR,Large Cap,5.73
+Equity,South Africa,MNP,MNP.JO,Mondi plc,Materials,Paper & Packaging,ZAR,Large Cap,4.79
+Equity,South Africa,BVT,BVT.JO,The Bidvest Group Limited,Industrials,Diversified Support Services,ZAR,Large Cap,4.56
+Equity,South Africa,RNI,RNI.JO,Reinet Investments S.C.A.,Financials,Investment Holding Companies,ZAR,Large Cap,4.56
+Equity,South Africa,KIO,KIO.JO,Kumba Iron Ore Limited,Materials,Iron Ore Mining,ZAR,Large Cap,4.49
+Equity,South Africa,PPH,PPH.JO,Pepkor Holdings Limited,Consumer Discretionary,Apparel & Discount Retail,ZAR,Large Cap,4.35
+Equity,South Africa,APN,APN.JO,Aspen Pharmacare Holdings Limited,Health Care,Pharmaceuticals,ZAR,Large Cap,3.65
+Equity,South Africa,GRT,GRT.JO,Growthpoint Properties Limited,Real Estate,Diversified REITs,ZAR,Large Cap,3.24
+Equity,South Africa,QLT,QLT.JO,Quilter plc,Financials,Asset Management,ZAR,Large Cap,3.14
+Equity,South Africa,SHC,SHC.JO,Shaftesbury Capital PLC,Real Estate,Retail REITs,ZAR,Large Cap,3.13
+Equity,South Africa,CNP,CNP.JO,Canal+ SA,Communication Services,Broadcasting,ZAR,Large Cap,3.1
+Equity,South Africa,OMU,OMU.JO,Old Mutual Limited,Financials,Life Insurance,ZAR,Large Cap,2.96
+Equity,South Africa,PHP,PHP.JO,Primary Health Properties Plc,Real Estate,Health Care REITs,ZAR,Large Cap,2.94
+Equity,South Africa,MTM,MTM.JO,Momentum Group Limited,Financials,Life Insurance,ZAR,Large Cap,2.9
+Equity,South Africa,PAN,PAN.JO,Pan African Resources PLC,Materials,Gold Mining,ZAR,Large Cap,2.76
+Equity,South Africa,CLS,CLS.JO,Clicks Group Limited,Consumer Staples,Drug & Health Retail,ZAR,Large Cap,2.73
+Equity,South Africa,HMN,HMN.JO,Hammerson Plc,Real Estate,Retail REITs,ZAR,Mid Cap,2.58
+Equity,South Africa,EXX,EXX.JO,Exxaro Resources Limited,Energy,Coal Mining,ZAR,Mid Cap,2.52
+Equity,South Africa,MRP,MRP.JO,Mr Price Group Limited,Consumer Discretionary,Apparel Retail,ZAR,Mid Cap,2.5
+Equity,South Africa,N91,N91.JO,Ninety One Group,Financials,Asset Management,ZAR,Mid Cap,2.5
+Equity,South Africa,NY1,NY1.JO,Ninety One Group,Financials,Asset Management,ZAR,Mid Cap,2.5
+Equity,South Africa,RDF,RDF.JO,Redefine Properties Limited,Real Estate,Diversified REITs,ZAR,Mid Cap,2.46
+Equity,South Africa,SNT,SNT.JO,Santam Ltd,Financials,Non-Life Insurance,ZAR,Mid Cap,2.42
+Equity,South Africa,KST,KST.JO,PSG Financial Services Limited,Financials,Diversified Financial Services,ZAR,Mid Cap,2.28
+Equity,South Africa,WHL,WHL.JO,Woolworths Holdings Limited,Consumer Discretionary,Multiline Retail,ZAR,Mid Cap,2.27
+Equity,South Africa,TBS,TBS.JO,Tiger Brands Limited,Consumer Staples,Packaged Foods,ZAR,Mid Cap,2.23
+Equity,South Africa,ARI,ARI.JO,African Rainbow Minerals Limited,Materials,Diversified Mining,ZAR,Mid Cap,2.1
+Equity,South Africa,BOX,BOX.JO,Boxer Retail Limited,Consumer Staples,Food Retail,ZAR,Mid Cap,1.92
+Equity,South Africa,VKE,VKE.JO,Vukile Property Fund Limited,Real Estate,Diversified REITs,ZAR,Mid Cap,1.85
+Equity,South Africa,SRE,SRE.JO,Sirius Real Estate Limited,Real Estate,Industrial REITs,ZAR,Mid Cap,1.85
+Equity,South Africa,DRD,DRD.JO,DRDGOLD Limited,Materials,Gold Mining,ZAR,Mid Cap,1.79
+Equity,South Africa,KRO,KRO.JO,Karooooo Ltd.,Information Technology,Software & IoT,ZAR,Mid Cap,1.75
+Equity,South Africa,FFB,FFB.JO,Fortress Real Estate Investments Limited,Real Estate,Industrial & Logistics REITs,ZAR,Mid Cap,1.67
+Equity,South Africa,AVI,AVI.JO,AVI Limited,Consumer Staples,Packaged Foods & Brands,ZAR,Mid Cap,1.63
+Equity,South Africa,PMR,PMR.JO,Premier Group Limited,Consumer Staples,Packaged Foods,ZAR,Mid Cap,1.62
+Equity,South Africa,RES,RES.JO,Resilient REIT Limited,Real Estate,Retail REITs,ZAR,Mid Cap,1.48
+Equity,South Africa,TKG,TKG.JO,Telkom SA SOC Ltd,Communication Services,Integrated Telecom,ZAR,Mid Cap,1.47
+Equity,South Africa,ADH,ADH.JO,ADvTECH Limited,Consumer Discretionary,Education Services,ZAR,Mid Cap,1.42
+Equity,South Africa,SRI,SRI.JO,Supermarket Income REIT plc,Real Estate,Retail REITs,ZAR,Mid Cap,1.4
+Equity,South Africa,DCP,DCP.JO,Dis-Chem Pharmacies Limited,Consumer Staples,Drug & Health Retail,ZAR,Mid Cap,1.39
+Equity,South Africa,HYP,HYP.JO,Hyprop Investments Limited,Real Estate,Retail REITs,ZAR,Mid Cap,1.33
+Equity,South Africa,APH,APH.JO,Alphamin Resources Corp.,Materials,Tin Mining,ZAR,Mid Cap,1.26
+Equity,South Africa,NTC,NTC.JO,Netcare Limited,Health Care,Health Care Facilities,ZAR,Mid Cap,1.21
+Equity,South Africa,BYI,BYI.JO,Bytes Technology Group plc,Information Technology,IT Services,ZAR,Mid Cap,1.15
+Equity,South Africa,DTC,DTC.JO,Datatec Limited,Information Technology,IT Services & Hardware Distribution,ZAR,Mid Cap,1.12
+Equity,South Africa,TRU,TRU.JO,Truworths International Limited,Consumer Discretionary,Apparel Retail,ZAR,Mid Cap,1.06
+Equity,South Africa,MTH,MTH.JO,Motus Holdings Limited,Consumer Discretionary,Automotive Retail,ZAR,Mid Cap,1.03
+Equity,South Africa,OPA,OPA.JO,Optasia Limited,Information Technology,Fintech Software,ZAR,Mid Cap,0.98
+Equity,South Africa,TFG,TFG.JO,The Foschini Group Limited,Consumer Discretionary,Apparel Retail,ZAR,Mid Cap,0.98
+Equity,South Africa,GND,GND.JO,Grindrod Limited,Industrials,Marine Transportation & Logistics,ZAR,Mid Cap,0.92
+Equity,South Africa,LTE,LTE.JO,Lighthouse Properties p.l.c.,Real Estate,Retail REITs,ZAR,Mid Cap,0.9
+Equity,South Africa,LHC,LHC.JO,Life Healthcare Group Holdings Limited,Health Care,Health Care Facilities,ZAR,Mid Cap,0.9
+Equity,South Africa,OMN,OMN.JO,Omnia Holdings Limited,Materials,Specialty Chemicals,ZAR,Mid Cap,0.89
+Equity,South Africa,GCT,GCT.JO,Greencoat Renewables PLC,Utilities,Renewable Electricity,ZAR,Mid Cap,0.85
+Equity,South Africa,EQU,EQU.JO,Equites Property Fund Limited,Real Estate,Industrial & Logistics REITs,ZAR,Mid Cap,0.83
+Equity,South Africa,CML,CML.JO,Coronation Fund Managers Limited,Financials,Asset Management,ZAR,Mid Cap,0.83
+Equity,South Africa,FTA,FTA.JO,Fairvest Limited,Real Estate,Retail REITs,ZAR,Mid Cap,0.81
+Equity,South Africa,FTB,FTB.JO,Fairvest Limited,Real Estate,Retail REITs,ZAR,Mid Cap,0.81
+Equity,South Africa,MSP,MSP.JO,MAS P.L.C.,Real Estate,Retail REITs,ZAR,Mid Cap,0.78
+Equity,South Africa,PIK,PIK.JO,Pick n Pay Stores Limited,Consumer Staples,Food Retail,ZAR,Mid Cap,0.76
+Equity,South Africa,WBC,WBC.JO,We Buy Cars Holdings Limited,Consumer Discretionary,Automotive Retail,ZAR,Mid Cap,0.73
+Equity,South Africa,HCI,HCI.JO,Hosken Consolidated Investments Limited,Financials,Investment Holding Companies,ZAR,Mid Cap,0.72
+Equity,South Africa,SSU,SSU.JO,Southern Sun Limited,Consumer Discretionary,Hotels & Leisure,ZAR,Mid Cap,0.72
+Equity,South Africa,AFE,AFE.JO,AECI Ltd,Materials,Specialty Chemicals,ZAR,Mid Cap,0.71
+Equity,South Africa,JSE,JSE.JO,JSE Limited,Financials,Financial Exchanges & Data,ZAR,Mid Cap,0.68
+Equity,South Africa,SUI,SUI.JO,Sun International Limited,Consumer Discretionary,Casinos & Gaming,ZAR,Mid Cap,0.67
+Equity,South Africa,TGA,TGA.JO,Thungela Resources Limited,Energy,Coal Mining,ZAR,Mid Cap,0.66
+Equity,South Africa,ATT,ATT.JO,Attacq Limited,Real Estate,Diversified REITs,ZAR,Mid Cap,0.66
+Equity,South Africa,ITE,ITE.JO,Italtile Limited,Consumer Discretionary,Home Improvement Retail,ZAR,Mid Cap,0.63
+Equity,South Africa,PPC,PPC.JO,PPC Ltd,Materials,Construction Materials,ZAR,Mid Cap,0.61
+Equity,South Africa,ISO,ISO.JO,ASP Isotopes Inc.,Materials,Specialty Chemicals,ZAR,Mid Cap,0.59
+Equity,South Africa,SDO,SDO.JO,Stadio Holdings Limited,Consumer Discretionary,Education Services,ZAR,Mid Cap,0.59
+Equity,South Africa,CVW,CVW.JO,Castleview Property Fund Limited,Real Estate,Diversified REITs,ZAR,Mid Cap,0.57
+Equity,South Africa,AEL,AEL.JO,Altron Limited,Information Technology,IT Services,ZAR,Mid Cap,0.57
+Equity,South Africa,SAC,SAC.JO,SA Corporate Real Estate Limited,Real Estate,Diversified REITs,ZAR,Small Cap,0.51
+Equity,South Africa,RLO,RLO.JO,Reunert Limited,Industrials,Electrical Equipment,ZAR,Small Cap,0.51
+Equity,South Africa,PWR,PWR.JO,PowerFleet Inc.,Information Technology,IoT Software,ZAR,Small Cap,0.51
+Equity,South Africa,AFH,AFH.JO,Alexander Forbes Group Holdings Limited,Financials,Insurance Brokers & Financial Services,ZAR,Small Cap,0.51
+Equity,South Africa,SAP,SAP.JO,Sappi Limited,Materials,Paper & Forest Products,ZAR,Small Cap,0.5
+Equity,South Africa,CCD,CCD.JO,Cell C Holdings Limited,Communication Services,Wireless Telecom,ZAR,Small Cap,0.49
+Equity,South Africa,SPP,SPP.JO,The SPAR Group Ltd,Consumer Staples,Food Distribution & Retail,ZAR,Small Cap,0.48
+Equity,South Africa,BAT,BAT.JO,Brait PLC,Financials,Private Equity / Investment Holding,ZAR,Small Cap,0.47
+Equity,South Africa,OCE,OCE.JO,Oceana Group Limited,Consumer Staples,Fish Processing & Packaged Foods,ZAR,Small Cap,0.46
+Equity,South Africa,SSS,SSS.JO,Stor-Age Property REIT Limited,Real Estate,Self Storage REITs,ZAR,Small Cap,0.45
+Equity,South Africa,CAA,CAA.JO,CA Sales Holdings Limited,Consumer Staples,FMCG Distribution,ZAR,Small Cap,0.45
+Equity,South Africa,HET,HET.JO,Heriot REIT Limited,Real Estate,Diversified REITs,ZAR,Small Cap,0.45
+Equity,South Africa,ARL,ARL.JO,Astral Foods Limited,Consumer Staples,Poultry & Agri Products,ZAR,Small Cap,0.44
+Equity,South Africa,WBO,WBO.JO,Wilson Bayly Holmes-Ovcon Limited,Industrials,Construction & Engineering,ZAR,Small Cap,0.44
+Equity,South Africa,RBX,RBX.JO,Raubex Group Limited,Industrials,Construction & Engineering,ZAR,Small Cap,0.43
+Equity,South Africa,BLU,BLU.JO,Blu Label Unlimited Group Limited,Information Technology,IT & Prepaid Distribution,ZAR,Small Cap,0.43
+Equity,South Africa,BTN,BTN.JO,Burstone Group Limited,Real Estate,Industrial & Logistics REITs,ZAR,Small Cap,0.42
+Equity,South Africa,THA,THA.JO,Tharisa plc,Materials,Platinum Group Metals & Chrome,ZAR,Small Cap,0.41
+Equity,South Africa,RCL,RCL.JO,RCL Foods Limited,Consumer Staples,Packaged Foods,ZAR,Small Cap,0.4
+Equity,South Africa,TSG,TSG.JO,Tsogo Sun Limited,Consumer Discretionary,Casinos & Gaming,ZAR,Small Cap,0.4
+Equity,South Africa,DIB,DIB.JO,Dipula Properties Limited,Real Estate,Diversified REITs,ZAR,Small Cap,0.39
+Equity,South Africa,SPG,SPG.JO,Super Group Limited,Industrials,Transportation & Logistics,ZAR,Small Cap,0.39
+Equity,South Africa,KAP,KAP.JO,KAP Limited,Industrials,Diversified Industrials,ZAR,Small Cap,0.36
+Equity,South Africa,LSK,LSK.JO,Lesaka Technologies Inc.,Information Technology,Fintech Software,ZAR,Small Cap,0.36
+Equity,South Africa,EMI,EMI.JO,Emira Property Fund Limited,Real Estate,Diversified REITs,ZAR,Small Cap,0.34
+Equity,South Africa,EXP,EXP.JO,Exemplar REITail Limited,Real Estate,Retail REITs,ZAR,Small Cap,0.33
+Equity,South Africa,GTC,GTC.JO,Globe Trade Centre S.A.,Real Estate,Diversified REITs,ZAR,Small Cap,0.31
+Equity,South Africa,WVR,WVR.JO,Weaver Fintech Ltd,Information Technology,Fintech Software,ZAR,Small Cap,0.3
+Equity,South Africa,HDC,HDC.JO,Hudaco Industries Limited,Industrials,Industrial Distribution,ZAR,Small Cap,0.29
+Equity,South Africa,RBO,RBO.JO,Rainbow Chicken Limited,Consumer Staples,Poultry,ZAR,Small Cap,0.29
+Equity,South Africa,SEA,SEA.JO,Spear Reit Limited,Real Estate,Diversified REITs,ZAR,Small Cap,0.29
+Equity,South Africa,FBR,FBR.JO,Famous Brands Limited,Consumer Discretionary,Restaurants,ZAR,Small Cap,0.29
+Equity,South Africa,SBP,SBP.JO,Sabvest Capital Limited,Financials,Investment Holding Companies,ZAR,Small Cap,0.28
+Equity,South Africa,SYG,SYG.JO,Sygnia Limited,Financials,Asset Management,ZAR,Small Cap,0.27
+Equity,South Africa,OCT,OCT.JO,Octodec Investments Limited,Real Estate,Diversified REITs,ZAR,Small Cap,0.25
+Equity,South Africa,LEW,LEW.JO,Lewis Group Limited,Consumer Discretionary,Furniture Retail,ZAR,Small Cap,0.23
+Equity,South Africa,CAT,CAT.JO,Caxton and CTP Publishers and Printers Limited,Communication Services,Publishing,ZAR,Small Cap,0.23
+Equity,South Africa,AFT,AFT.JO,Afrimat Limited,Materials,Construction Materials & Mining,ZAR,Small Cap,0.22
+Equity,South Africa,MKR,MKR.JO,Montauk Renewables Inc.,Utilities,Renewable Energy,ZAR,Small Cap,0.22
+Equity,South Africa,OAO,OAO.JO,Oando PLC,Energy,Oil & Gas Exploration & Production,ZAR,Small Cap,0.22
+Equity,South Africa,BEL,BEL.JO,Bell Equipment Limited,Industrials,Machinery,ZAR,Small Cap,0.2
+Equity,South Africa,NPK,NPK.JO,Nampak Limited,Materials,Packaging,ZAR,Small Cap,0.2
+Equity,South Africa,CPP,CPP.JO,Collins Property Group Limited,Real Estate,Diversified REITs,ZAR,Small Cap,0.2
+Equity,South Africa,KP2,KP2.JO,Kore Potash plc,Materials,Fertilizer & Potash Mining,ZAR,Small Cap,0.2
+Equity,South Africa,KAL,KAL.JO,KAL Group Limited,Consumer Staples,Agriculture,ZAR,Small Cap,0.19
+Equity,South Africa,YYLBEE,YYLBEE.JO,YeboYethu (RF) Limited,Communication Services,Wireless Telecom (Vodacom BEE),ZAR,Small Cap,0.19
+Equity,South Africa,MRF,MRF.JO,Merafe Resources Limited,Materials,Ferrochrome Mining,ZAR,Small Cap,0.18
+Equity,South Africa,CHP,CHP.JO,Choppies Enterprises Limited,Consumer Staples,Food Retail,ZAR,Small Cap,0.18
+Equity,South Africa,SUR,SUR.JO,Spur Corporation Ltd,Consumer Discretionary,Restaurants,ZAR,Small Cap,0.18
+Equity,South Africa,IVT,IVT.JO,Invicta Holdings Limited,Industrials,Industrial Distribution & Equipment,ZAR,Small Cap,0.17
+Equity,South Africa,ZZD,ZZD.JO,Zeda Limited,Consumer Discretionary,Automotive Retail & Rental,ZAR,Small Cap,0.16
+Equity,South Africa,CMH,CMH.JO,Combined Motor Holdings Limited,Consumer Discretionary,Automotive Retail,ZAR,Small Cap,0.16
+Equity,South Africa,AII,AII.JO,Aimia Inc.,Financials,Investment Holding Companies,ZAR,Small Cap,0.16
+Equity,South Africa,PPE,PPE.JO,Purple Group Limited,Financials,Brokerage & Fintech,ZAR,Small Cap,0.15
+Equity,South Africa,SDL,SDL.JO,Southern Palladium Limited,Materials,Platinum Group Metals (Exploration),ZAR,Small Cap,0.15
+Equity,South Africa,SHG,SHG.JO,Sea Harvest Group Limited,Consumer Staples,Fish Processing,ZAR,Small Cap,0.14
+Equity,South Africa,IOC,IOC.JO,iOCO Limited,Information Technology,IT Services,ZAR,Small Cap,0.14
+Equity,South Africa,MCZ,MCZ.JO,MC Mining Limited,Energy,Coal Mining,ZAR,Small Cap,0.14
+Equity,South Africa,MPT,MPT.JO,Mpact Limited,Materials,Paper & Packaging,ZAR,Small Cap,0.14
+Equity,South Africa,LBR,LBR.JO,Libstar Holdings Limited,Consumer Staples,Packaged Foods,ZAR,Small Cap,0.13
+Equity,South Africa,CLH,CLH.JO,City Lodge Hotels Limited,Consumer Discretionary,Hotels,ZAR,Small Cap,0.13
+Equity,South Africa,CSB,CSB.JO,Cashbuild Limited,Consumer Discretionary,Home Improvement Retail,ZAR,Small Cap,0.13
+Equity,South Africa,MDI,MDI.JO,Master Drilling Group Limited,Industrials,Mining Services,ZAR,Small Cap,0.13
+Equity,South Africa,ORN,ORN.JO,Orion Minerals Limited,Materials,Base Metals Mining,ZAR,Small Cap,0.13
+Equity,South Africa,ACS,ACS.JO,Acsion Limited,Real Estate,Diversified REITs,ZAR,Small Cap,0.13
+Equity,South Africa,ART,ART.JO,Argent Industrial Limited,Industrials,Diversified Industrials,ZAR,Small Cap,0.11
+Equity,South Africa,AXX,AXX.JO,Araxi Limited,Financials,Investment Holding Companies,ZAR,Small Cap,0.11
+Equity,South Africa,ACL,ACL.JO,ArcelorMittal South Africa Limited,Materials,Steel,ZAR,Small Cap,0.11
+Equity,South Africa,BWN,BWN.JO,Balwin Properties Limited,Real Estate,Residential Real Estate Development,ZAR,Micro Cap,0.11
+Equity,South Africa,NVS,NVS.JO,Novus Holdings Limited,Communication Services,Printing & Publishing,ZAR,Micro Cap,0.11
+Equity,South Africa,FTH,FTH.JO,Frontier Transport Holdings Limited,Industrials,Transportation & Logistics,ZAR,Micro Cap,0.1
+Equity,South Africa,OAS,OAS.JO,Oasis Crescent Property Fund,Real Estate,Diversified REITs,ZAR,Micro Cap,0.1
+Equity,South Africa,SCD,SCD.JO,Schroder European Real Estate Investment Trust Plc,Real Estate,Diversified REITs,ZAR,Micro Cap,0.1
+Equity,South Africa,JBL,JBL.JO,Jubilee Metals Group PLC,Materials,PGM & Copper Processing,ZAR,Micro Cap,0.1
+Equity,South Africa,QFH,QFH.JO,Quantum Foods Holdings Ltd,Consumer Staples,Poultry & Eggs,ZAR,Micro Cap,0.09
+Equity,South Africa,ZED,ZED.JO,Zeder Investments Ltd.,Consumer Staples,Agribusiness Investment Holding,ZAR,Micro Cap,0.09
+Equity,South Africa,UPL,UPL.JO,Universal Partners Limited,Financials,Investment Holding Companies,ZAR,Micro Cap,0.08
+Equity,South Africa,MMP,MMP.JO,Marshall Monteagle PLC,Consumer Staples,Agri Trading & Investment Holding,ZAR,Micro Cap,0.08
+Equity,South Africa,SZK,SZK.JO,SAB Zenzele Kabili Holdings (RF) Limited,Consumer Staples,Brewers (BEE Scheme),ZAR,Micro Cap,0.07
+Equity,South Africa,BRN,BRN.JO,Brimstone Investment Corporation Limited,Financials,Investment Holding Companies,ZAR,Micro Cap,0.07
+Equity,South Africa,BRT,BRT.JO,Brimstone Investment Corporation Limited,Financials,Investment Holding Companies,ZAR,Micro Cap,0.07
+Equity,South Africa,GML,GML.JO,Gemfields Group Limited,Materials,Gemstone Mining,ZAR,Micro Cap,0.07
+Equity,South Africa,TPC,TPC.JO,Transpaco Limited,Materials,Packaging,ZAR,Micro Cap,0.06
+Equity,South Africa,DNB,DNB.JO,Deneb Investments Limited,Consumer Discretionary,Textiles & Diversified Industrial,ZAR,Micro Cap,0.06
+Equity,South Africa,EMH,EMH.JO,eMedia Holdings Limited,Communication Services,Broadcasting,ZAR,Micro Cap,0.06
+Equity,South Africa,EMN,EMN.JO,eMedia Holdings Limited,Communication Services,Broadcasting,ZAR,Micro Cap,0.06
+Equity,South Africa,SSK,SSK.JO,Stefanutti Stocks Holdings Limited,Industrials,Construction & Engineering,ZAR,Micro Cap,0.06
+Equity,South Africa,EPS,EPS.JO,Eastern Platinum Limited,Materials,Platinum Group Metals,ZAR,Micro Cap,0.06
+Equity,South Africa,SNV,SNV.JO,Santova Limited,Industrials,Freight & Logistics,ZAR,Micro Cap,0.06
+Equity,South Africa,YRK,YRK.JO,York Timber Holdings Limited,Materials,Forest Products & Timber,ZAR,Micro Cap,0.06
+Equity,South Africa,MTA,MTA.JO,Metair Investments Limited,Consumer Discretionary,Auto Parts,ZAR,Micro Cap,0.05
+Equity,South Africa,BCF,BCF.JO,Bowler Metcalf Limited,Materials,Packaging,ZAR,Micro Cap,0.05
+Equity,South Africa,APF,APF.JO,Accelerate Property Fund Limited,Real Estate,Diversified REITs,ZAR,Micro Cap,0.05
+Equity,South Africa,TEX,TEX.JO,Texton Property Fund Limited,Real Estate,Diversified REITs,ZAR,Micro Cap,0.05
+Equity,South Africa,MST,MST.JO,Mustek Limited,Information Technology,IT Hardware Distribution,ZAR,Micro Cap,0.04
+Equity,South Africa,GPL,GPL.JO,Grand Parade Investments Limited,Consumer Discretionary,Investment Holding (Gaming/Restaurants),ZAR,Micro Cap,0.04
+Equity,South Africa,EPE,EPE.JO,EPE Capital Partners Ltd,Financials,Private Equity,ZAR,Micro Cap,0.04
+Equity,South Africa,WEZ,WEZ.JO,Wesizwe Platinum Limited,Materials,Platinum Group Metals (Development),ZAR,Micro Cap,0.04
+Equity,South Africa,ADR,ADR.JO,Adcorp Holdings Limited,Industrials,Staffing & Employment Services,ZAR,Micro Cap,0.04
+Equity,South Africa,ACT,ACT.JO,AfroCentric Investment Corporation Limited,Health Care,Managed Health Care,ZAR,Micro Cap,0.04
+Equity,South Africa,HLM,HLM.JO,Hulamin Limited,Materials,Aluminium Products,ZAR,Micro Cap,0.04
+Equity,South Africa,NTU,NTU.JO,Nutun Limited,Industrials,Business Process Outsourcing,ZAR,Micro Cap,0.03
+Equity,South Africa,PBG,PBG.JO,PBT Holdings Limited,Information Technology,IT Consulting,ZAR,Micro Cap,0.03
+Equity,South Africa,PBT,PBT.JO,PBT Holdings Limited,Information Technology,IT Consulting,ZAR,Micro Cap,0.03
+Equity,South Africa,RMH,RMH.JO,RMB Holdings Limited,Financials,Investment Holding Companies,ZAR,Micro Cap,0.03
+Equity,South Africa,AEG,AEG.JO,Aveng Limited,Industrials,Construction & Engineering,ZAR,Micro Cap,0.03
+Equity,South Africa,NWL,NWL.JO,Nu-World Holdings Limited,Consumer Discretionary,Consumer Electronics & Appliances,ZAR,Micro Cap,0.03
+Equity,South Africa,AME,AME.JO,African Media Entertainment Limited,Communication Services,Broadcasting,ZAR,Micro Cap,0.03
+Equity,South Africa,NRL,NRL.JO,Newpark REIT Limited,Real Estate,Diversified REITs,ZAR,Micro Cap,0.03
+Equity,South Africa,ENX,ENX.JO,enX Group Limited,Industrials,Industrial Equipment & Distribution,ZAR,Micro Cap,0.02
+Equity,South Africa,FGL,FGL.JO,Finbond Group Limited,Financials,Consumer Finance,ZAR,Micro Cap,0.02
+Equity,South Africa,VUN,VUN.JO,Vunani Limited,Financials,Diversified Financial Services,ZAR,Micro Cap,0.02
+Equity,South Africa,4SI,4SI.JO,4Sight Holdings Limited,Information Technology,Software,ZAR,Micro Cap,0.02
+Equity,South Africa,SEP,SEP.JO,Sephaku Holdings Limited,Materials,Construction Materials,ZAR,Micro Cap,0.02
+Equity,South Africa,SLG,SLG.JO,Salungano Group Limited,Energy,Coal Mining & Logistics,ZAR,Micro Cap,0.02
+Equity,South Africa,CGR,CGR.JO,Calgro M3 Holdings Limited,Real Estate,Residential Real Estate Development,ZAR,Micro Cap,0.02
+Equity,South Africa,CPR,CPR.JO,Copper 360 Limited,Materials,Copper Mining,ZAR,Micro Cap,0.02
+Equity,South Africa,ANI,ANI.JO,Afine Investments Limited,Real Estate,Diversified REITs,ZAR,Micro Cap,0.02
+Equity,South Africa,ISA,ISA.JO,ISA Holdings Limited,Industrials,Facilities & Cleaning Services,ZAR,Micro Cap,0.02
+Equity,South Africa,RTN,RTN.JO,Rex Trueform Group Limited,Consumer Discretionary,Apparel Manufacturing,ZAR,Micro Cap,0.02
+Equity,South Africa,RTO,RTO.JO,Rex Trueform Group Limited,Consumer Discretionary,Apparel Manufacturing,ZAR,Micro Cap,0.02
+Equity,South Africa,PPR,PPR.JO,Putprop Limited,Real Estate,Diversified REITs,ZAR,Micro Cap,0.02
+Equity,South Africa,CCC,CCC.JO,Cilo Cybin Holdings Limited,Health Care,Pharmaceuticals (Cannabis),ZAR,Micro Cap,0.02
+Equity,South Africa,TTO,TTO.JO,Trustco Group Holdings Limited,Financials,Diversified Financial Services,ZAR,Micro Cap,0.02
+Equity,South Africa,DLT,DLT.JO,Delta Property Fund Limited,Real Estate,Diversified REITs,ZAR,Micro Cap,0.02
+Equity,South Africa,CKS,CKS.JO,Crookes Brothers Limited,Consumer Staples,Agriculture,ZAR,Micro Cap,0.01
+Equity,South Africa,CAC,CAC.JO,CAFCA Limited,Industrials,Electrical Cable Manufacturing,ZAR,Micro Cap,0.01
+Equity,South Africa,TMT,TMT.JO,Trematon Capital Investments Limited,Financials,Investment Holding Companies,ZAR,Micro Cap,0.01
+Equity,South Africa,ISB,ISB.JO,Insimbi Industrial Holdings Limited,Materials,Metal Recycling & Alloys,ZAR,Micro Cap,0.01
+Equity,South Africa,RNG,RNG.JO,Randgold & Exploration Company Limited,Materials,Gold Mining,ZAR,Micro Cap,0.01
+Equity,South Africa,MHB,MHB.JO,Mahube Infrastructure Limited,Utilities,Renewable Energy Investment,ZAR,Micro Cap,0.01
+Equity,South Africa,HUG,HUG.JO,Huge Group Limited,Communication Services,Telecom Services,ZAR,Micro Cap,0.01
+Equity,South Africa,PMV,PMV.JO,Primeserv Group Limited,Industrials,Staffing Services,ZAR,Micro Cap,0.01
+Equity,South Africa,AON,AON.JO,African and Overseas Enterprises Limited,Consumer Discretionary,Textiles & Investment Holding,ZAR,Micro Cap,0.01
+Equity,South Africa,AOO,AOO.JO,African and Overseas Enterprises Limited,Consumer Discretionary,Textiles & Investment Holding,ZAR,Micro Cap,0.01
+Equity,South Africa,SOH,SOH.JO,South Ocean Holdings Limited,Consumer Discretionary,Consumer Products Manufacturing,ZAR,Micro Cap,0.01
+Equity,South Africa,SEB,SEB.JO,Sebata Holdings Limited,Information Technology,Software (Municipal Services),ZAR,Micro Cap,0.01
+Equity,South Africa,NCS,NCS.JO,Nictus Limited,Consumer Discretionary,Furniture Retail,ZAR,Micro Cap,0.01
+Equity,South Africa,RHB,RHB.JO,RH Bophelo Limited,Health Care,Health Care Facilities & Investment,ZAR,Micro Cap,0.01
+Equity,South Africa,BIK,BIK.JO,Brikor Limited,Materials,Building Materials,ZAR,Micro Cap,0.01
+Equity,South Africa,XII,XII.JO,Numeral Limited,Information Technology,Software,ZAR,Micro Cap,0.01
+Equity,South Africa,TRL,TRL.JO,Trellidor Holdings Limited,Industrials,Building Products (Security),ZAR,Micro Cap,0.01
+Equity,South Africa,SKA,SKA.JO,Shuka Minerals Plc,Materials,Mining Exploration,ZAR,Micro Cap,0.0
+Equity,South Africa,MTU,MTU.JO,Mantengu Limited,Materials,Mining (Chrome & Coal),ZAR,Micro Cap,0.0
+Equity,South Africa,TLM,TLM.JO,TeleMasters Holdings Limited,Communication Services,Telecom Services,ZAR,Micro Cap,0.0
+Equity,South Africa,BAC,BAC.JO,Africa Bitcoin Corporation Limited,Financials,Digital Assets & Investment,ZAR,Micro Cap,0.0
+Equity,South Africa,LAB,LAB.JO,Labat Africa Limited,Health Care,Pharmaceuticals (Cannabis),ZAR,Micro Cap,0.0
+Equity,South Africa,VIS,VIS.JO,Visual International Holdings Limited,Consumer Discretionary,Furniture Manufacturing,ZAR,Micro Cap,0.0
+Equity,South Africa,EUZ,EUZ.JO,Europa Metals Limited,Materials,Mining Exploration,ZAR,Micro Cap,0.0
+Equity,South Africa,EEL,EEL.JO,Efora Energy Limited,Energy,Oil & Gas Exploration & Production,ZAR,Micro Cap,0.0
+Equity,South Africa,ADW,ADW.JO,African Dawn Capital Limited,Financials,Diversified Financial Services,ZAR,Micro Cap,0.0
+Equity,South Africa,SXM,SXM.JO,Sable Exploration and Mining Limited,Materials,Mining Exploration,ZAR,Micro Cap,0.0
+Equity,United States,AAPL,AAPL,Apple Inc.,Information Technology,Technology Hardware,USD,Mega Cap,3400.0
+Equity,United States,MSFT,MSFT,Microsoft Corporation,Information Technology,Systems Software,USD,Mega Cap,3200.0
+Equity,United States,NVDA,NVDA,NVIDIA Corporation,Information Technology,Semiconductors,USD,Mega Cap,3600.0
+Equity,United States,GOOGL,GOOGL,Alphabet Inc.,Communication Services,Interactive Media,USD,Mega Cap,2400.0
+Equity,United States,AMZN,AMZN,Amazon.com Inc.,Consumer Discretionary,Internet Retail,USD,Mega Cap,2300.0
+Equity,United States,META,META,Meta Platforms Inc.,Communication Services,Interactive Media,USD,Mega Cap,1600.0
+Equity,United States,AVGO,AVGO,Broadcom Inc.,Information Technology,Semiconductors,USD,Mega Cap,1300.0
+Equity,United States,TSLA,TSLA,Tesla Inc.,Consumer Discretionary,Automobiles,USD,Mega Cap,1100.0
+Equity,United States,ORCL,ORCL,Oracle Corporation,Information Technology,Software,USD,Mega Cap,550.0
+Equity,United States,CRM,CRM,Salesforce Inc.,Information Technology,Software,USD,Mega Cap,290.0
+Equity,United States,ADBE,ADBE,Adobe Inc.,Information Technology,Software,USD,Mega Cap,220.0
+Equity,United States,AMD,AMD,Advanced Micro Devices,Information Technology,Semiconductors,USD,Mega Cap,260.0
+Equity,United States,CSCO,CSCO,Cisco Systems Inc.,Information Technology,Communications Equipment,USD,Mega Cap,250.0
+Equity,United States,IBM,IBM,International Business Machines,Information Technology,IT Services,USD,Mega Cap,230.0
+Equity,United States,QCOM,QCOM,Qualcomm Inc.,Information Technology,Semiconductors,USD,Large Cap,190.0
+Equity,United States,TXN,TXN,Texas Instruments,Information Technology,Semiconductors,USD,Large Cap,180.0
+Equity,United States,INTC,INTC,Intel Corporation,Information Technology,Semiconductors,USD,Large Cap,110.0
+Equity,United States,NFLX,NFLX,Netflix Inc.,Communication Services,Entertainment,USD,Mega Cap,400.0
+Equity,United States,DIS,DIS,Walt Disney Company,Communication Services,Entertainment,USD,Mega Cap,210.0
+Equity,United States,CMCSA,CMCSA,Comcast Corporation,Communication Services,Media,USD,Large Cap,150.0
+Equity,United States,TMUS,TMUS,T-Mobile US Inc.,Communication Services,Wireless Telecom,USD,Mega Cap,260.0
+Equity,United States,VZ,VZ,Verizon Communications,Communication Services,Telecom Services,USD,Large Cap,180.0
+Equity,United States,T,T,AT&T Inc.,Communication Services,Telecom Services,USD,Large Cap,190.0
+Equity,United States,JPM,JPM,JPMorgan Chase & Co.,Financials,Diversified Banks,USD,Mega Cap,700.0
+Equity,United States,BAC,BAC,Bank of America Corp.,Financials,Diversified Banks,USD,Mega Cap,330.0
+Equity,United States,WFC,WFC,Wells Fargo & Company,Financials,Diversified Banks,USD,Mega Cap,240.0
+Equity,United States,GS,GS,Goldman Sachs Group,Financials,Investment Banking,USD,Mega Cap,220.0
+Equity,United States,MS,MS,Morgan Stanley,Financials,Investment Banking,USD,Mega Cap,210.0
+Equity,United States,C,C,Citigroup Inc.,Financials,Diversified Banks,USD,Large Cap,160.0
+Equity,United States,V,V,Visa Inc.,Financials,Payments,USD,Mega Cap,650.0
+Equity,United States,MA,MA,Mastercard Inc.,Financials,Payments,USD,Mega Cap,480.0
+Equity,United States,AXP,AXP,American Express Co.,Financials,Consumer Finance,USD,Mega Cap,210.0
+Equity,United States,BLK,BLK,BlackRock Inc.,Financials,Asset Management,USD,Large Cap,150.0
+Equity,United States,SCHW,SCHW,Charles Schwab Corp.,Financials,Capital Markets,USD,Large Cap,160.0
+Equity,United States,BRK-B,BRK-B,Berkshire Hathaway Inc.,Financials,Multi-line Insurance,USD,Mega Cap,1050.0
+Equity,United States,PGR,PGR,Progressive Corporation,Financials,Property & Casualty Insurance,USD,Large Cap,150.0
+Equity,United States,UNH,UNH,UnitedHealth Group Inc.,Health Care,Managed Health Care,USD,Mega Cap,320.0
+Equity,United States,JNJ,JNJ,Johnson & Johnson,Health Care,Pharmaceuticals,USD,Mega Cap,400.0
+Equity,United States,LLY,LLY,Eli Lilly and Company,Health Care,Pharmaceuticals,USD,Mega Cap,800.0
+Equity,United States,ABBV,ABBV,AbbVie Inc.,Health Care,Biotechnology,USD,Mega Cap,380.0
+Equity,United States,PFE,PFE,Pfizer Inc.,Health Care,Pharmaceuticals,USD,Large Cap,150.0
+Equity,United States,MRK,MRK,Merck & Co. Inc.,Health Care,Pharmaceuticals,USD,Mega Cap,260.0
+Equity,United States,ABT,ABT,Abbott Laboratories,Health Care,Health Care Equipment,USD,Mega Cap,220.0
+Equity,United States,TMO,TMO,Thermo Fisher Scientific,Health Care,Life Sciences Tools,USD,Mega Cap,210.0
+Equity,United States,DHR,DHR,Danaher Corporation,Health Care,Life Sciences Tools,USD,Large Cap,170.0
+Equity,United States,AMGN,AMGN,Amgen Inc.,Health Care,Biotechnology,USD,Large Cap,160.0
+Equity,United States,ISRG,ISRG,Intuitive Surgical,Health Care,Health Care Equipment,USD,Large Cap,190.0
+Equity,United States,PG,PG,Procter & Gamble Co.,Consumer Staples,Household Products,USD,Mega Cap,400.0
+Equity,United States,KO,KO,Coca-Cola Company,Consumer Staples,Soft Drinks,USD,Mega Cap,300.0
+Equity,United States,PEP,PEP,PepsiCo Inc.,Consumer Staples,Soft Drinks,USD,Mega Cap,220.0
+Equity,United States,COST,COST,Costco Wholesale Corp.,Consumer Staples,Food Retail,USD,Mega Cap,450.0
+Equity,United States,WMT,WMT,Walmart Inc.,Consumer Staples,Food Retail,USD,Mega Cap,800.0
+Equity,United States,PM,PM,Philip Morris International,Consumer Staples,Tobacco,USD,Mega Cap,250.0
+Equity,United States,MO,MO,Altria Group Inc.,Consumer Staples,Tobacco,USD,Large Cap,90.0
+Equity,United States,MDLZ,MDLZ,Mondelez International,Consumer Staples,Packaged Foods,USD,Large Cap,90.0
+Equity,United States,CL,CL,Colgate-Palmolive Co.,Consumer Staples,Household Products,USD,Large Cap,75.0
+Equity,United States,HD,HD,Home Depot Inc.,Consumer Discretionary,Home Improvement Retail,USD,Mega Cap,400.0
+Equity,United States,LOW,LOW,Lowe's Companies Inc.,Consumer Discretionary,Home Improvement Retail,USD,Large Cap,140.0
+Equity,United States,MCD,MCD,McDonald's Corporation,Consumer Discretionary,Restaurants,USD,Mega Cap,220.0
+Equity,United States,SBUX,SBUX,Starbucks Corporation,Consumer Discretionary,Restaurants,USD,Large Cap,110.0
+Equity,United States,NKE,NKE,Nike Inc.,Consumer Discretionary,Apparel,USD,Large Cap,100.0
+Equity,United States,TJX,TJX,TJX Companies Inc.,Consumer Discretionary,Apparel Retail,USD,Large Cap,140.0
+Equity,United States,BKNG,BKNG,Booking Holdings Inc.,Consumer Discretionary,Travel Services,USD,Large Cap,170.0
+Equity,United States,XOM,XOM,Exxon Mobil Corporation,Energy,Integrated Oil & Gas,USD,Mega Cap,500.0
+Equity,United States,CVX,CVX,Chevron Corporation,Energy,Integrated Oil & Gas,USD,Mega Cap,290.0
+Equity,United States,COP,COP,ConocoPhillips,Energy,Oil & Gas E&P,USD,Large Cap,140.0
+Equity,United States,SLB,SLB,Schlumberger (SLB),Energy,Oil & Gas Equipment,USD,Large Cap,60.0
+Equity,United States,EOG,EOG,EOG Resources Inc.,Energy,Oil & Gas E&P,USD,Large Cap,75.0
+Equity,United States,GE,GE,GE Aerospace,Industrials,Aerospace & Defense,USD,Mega Cap,260.0
+Equity,United States,RTX,RTX,RTX Corporation,Industrials,Aerospace & Defense,USD,Large Cap,180.0
+Equity,United States,BA,BA,Boeing Company,Industrials,Aerospace & Defense,USD,Large Cap,120.0
+Equity,United States,HON,HON,Honeywell International,Industrials,Industrial Conglomerates,USD,Large Cap,140.0
+Equity,United States,CAT,CAT,Caterpillar Inc.,Industrials,Construction Machinery,USD,Large Cap,190.0
+Equity,United States,DE,DE,Deere & Company,Industrials,Agricultural Machinery,USD,Large Cap,130.0
+Equity,United States,UPS,UPS,United Parcel Service,Industrials,Air Freight & Logistics,USD,Large Cap,90.0
+Equity,United States,UNP,UNP,Union Pacific Corp.,Industrials,Rail Transportation,USD,Large Cap,150.0
+Equity,United States,LMT,LMT,Lockheed Martin Corp.,Industrials,Aerospace & Defense,USD,Large Cap,120.0
+Equity,United States,LIN,LIN,Linde plc,Materials,Industrial Gases,USD,Mega Cap,220.0
+Equity,United States,SHW,SHW,Sherwin-Williams Co.,Materials,Specialty Chemicals,USD,Large Cap,90.0
+Equity,United States,FCX,FCX,Freeport-McMoRan Inc.,Materials,Copper,USD,Large Cap,65.0
+Equity,United States,NEM,NEM,Newmont Corporation,Materials,Gold Mining,USD,Large Cap,60.0
+Equity,United States,APD,APD,Air Products and Chemicals,Materials,Industrial Gases,USD,Large Cap,65.0
+Equity,United States,NEE,NEE,NextEra Energy Inc.,Utilities,Electric Utilities,USD,Large Cap,160.0
+Equity,United States,SO,SO,Southern Company,Utilities,Electric Utilities,USD,Large Cap,100.0
+Equity,United States,DUK,DUK,Duke Energy Corp.,Utilities,Electric Utilities,USD,Large Cap,95.0
+Equity,United States,AEP,AEP,American Electric Power,Utilities,Electric Utilities,USD,Large Cap,55.0
+Equity,United States,EXC,EXC,Exelon Corporation,Utilities,Electric Utilities,USD,Mid Cap,45.0
+Equity,United States,PLD,PLD,Prologis Inc.,Real Estate,Industrial REITs,USD,Large Cap,110.0
+Equity,United States,AMT,AMT,American Tower Corp.,Real Estate,Specialized REITs,USD,Large Cap,100.0
+Equity,United States,EQIX,EQIX,Equinix Inc.,Real Estate,Specialized REITs,USD,Large Cap,90.0
+Equity,United States,SPG,SPG,Simon Property Group,Real Estate,Retail REITs,USD,Large Cap,65.0
+Equity,United States,O,O,Realty Income Corp.,Real Estate,Retail REITs,USD,Large Cap,50.0
+Equity,United States,PANW,PANW,Palo Alto Networks,Information Technology,Systems Software,USD,Large Cap,130.0
+Equity,United States,NOW,NOW,ServiceNow Inc.,Information Technology,Software,USD,Mega Cap,210.0
+Equity,United States,INTU,INTU,Intuit Inc.,Information Technology,Software,USD,Large Cap,190.0
+Equity,United States,AMAT,AMAT,Applied Materials Inc.,Information Technology,Semiconductor Equipment,USD,Large Cap,170.0
+Equity,United States,MU,MU,Micron Technology Inc.,Information Technology,Semiconductors,USD,Large Cap,150.0
+Equity,United States,UBER,UBER,Uber Technologies Inc.,Industrials,Passenger Ground Transportation,USD,Large Cap,180.0
+Equity,United States,PYPL,PYPL,PayPal Holdings Inc.,Financials,Payments,USD,Large Cap,75.0
+Equity,United States,ADP,ADP,Automatic Data Processing,Industrials,Human Resource Services,USD,Large Cap,130.0
+Equity,United States,SPGI,SPGI,S&P Global Inc.,Financials,Financial Exchanges & Data,USD,Large Cap,160.0
+Equity,United States,ICE,ICE,Intercontinental Exchange,Financials,Financial Exchanges & Data,USD,Large Cap,100.0
+Equity,United States,CME,CME,CME Group Inc.,Financials,Financial Exchanges & Data,USD,Large Cap,90.0
+Equity,United States,ETN,ETN,Eaton Corporation plc,Industrials,Electrical Equipment,USD,Large Cap,140.0
+Equity,United States,EMR,EMR,Emerson Electric Co.,Industrials,Electrical Equipment,USD,Large Cap,75.0
+Equity,United States,ITW,ITW,Illinois Tool Works,Industrials,Industrial Machinery,USD,Large Cap,85.0
+Equity,United States,GD,GD,General Dynamics Corp.,Industrials,Aerospace & Defense,USD,Large Cap,85.0
+Equity,United States,NOC,NOC,Northrop Grumman Corp.,Industrials,Aerospace & Defense,USD,Large Cap,80.0
+Equity,United States,CB,CB,Chubb Limited,Financials,Property & Casualty Insurance,USD,Large Cap,115.0
+Equity,United States,MMC,MMC,Marsh McLennan,Financials,Insurance Brokers,USD,Large Cap,115.0
+Equity,United States,USB,USB,U.S. Bancorp,Financials,Regional Banks,USD,Large Cap,85.0
+Equity,United States,PNC,PNC,PNC Financial Services,Financials,Regional Banks,USD,Large Cap,80.0
+Equity,United States,CVS,CVS,CVS Health Corporation,Health Care,Health Care Services,USD,Large Cap,90.0
+Equity,United States,CI,CI,The Cigna Group,Health Care,Managed Health Care,USD,Large Cap,90.0
+Equity,United States,ELV,ELV,Elevance Health Inc.,Health Care,Managed Health Care,USD,Large Cap,100.0
+Equity,United States,SYK,SYK,Stryker Corporation,Health Care,Health Care Equipment,USD,Large Cap,150.0
+Equity,United States,BSX,BSX,Boston Scientific Corp.,Health Care,Health Care Equipment,USD,Large Cap,140.0
+Equity,United States,VRTX,VRTX,Vertex Pharmaceuticals,Health Care,Biotechnology,USD,Large Cap,130.0
+Equity,United States,REGN,REGN,Regeneron Pharmaceuticals,Health Care,Biotechnology,USD,Large Cap,90.0
+Equity,United States,GILD,GILD,Gilead Sciences Inc.,Health Care,Biotechnology,USD,Large Cap,130.0
+Equity,United States,F,F,Ford Motor Company,Consumer Discretionary,Automobiles,USD,Mid Cap,45.0
+Equity,United States,GM,GM,General Motors Company,Consumer Discretionary,Automobiles,USD,Large Cap,55.0
+Equity,United Kingdom,HSBA,HSBA.L,HSBC Holdings plc,Financials,Diversified Banks,GBP,Large Cap,170.0
+Equity,United Kingdom,SHEL,SHEL.L,Shell plc,Energy,Integrated Oil & Gas,GBP,Mega Cap,220.0
+Equity,United Kingdom,AZN,AZN.L,AstraZeneca plc,Health Care,Pharmaceuticals,GBP,Mega Cap,240.0
+Equity,United Kingdom,BP,BP.L,BP plc,Energy,Integrated Oil & Gas,GBP,Large Cap,90.0
+Equity,United Kingdom,ULVR,ULVR.L,Unilever plc,Consumer Staples,Household Products,GBP,Large Cap,130.0
+Equity,United Kingdom,GSK,GSK.L,GSK plc,Health Care,Pharmaceuticals,GBP,Large Cap,75.0
+Equity,United Kingdom,DGE,DGE.L,Diageo plc,Consumer Staples,Distillers & Vintners,GBP,Large Cap,60.0
+Equity,United Kingdom,BATS,BATS.L,British American Tobacco plc,Consumer Staples,Tobacco,GBP,Large Cap,85.0
+Equity,United Kingdom,RIO,RIO.L,Rio Tinto plc,Materials,Diversified Mining,GBP,Large Cap,100.0
+Equity,United Kingdom,GLEN,GLEN.L,Glencore plc,Materials,Diversified Mining,GBP,Large Cap,55.0
+Equity,United Kingdom,BARC,BARC.L,Barclays plc,Financials,Diversified Banks,GBP,Large Cap,55.0
+Equity,United Kingdom,LLOY,LLOY.L,Lloyds Banking Group plc,Financials,Diversified Banks,GBP,Large Cap,50.0
+Equity,United Kingdom,NWG,NWG.L,NatWest Group plc,Financials,Diversified Banks,GBP,Mid Cap,45.0
+Equity,United Kingdom,VOD,VOD.L,Vodafone Group plc,Communication Services,Wireless Telecom,GBP,Mid Cap,25.0
+Equity,United Kingdom,BT-A,BT-A.L,BT Group plc,Communication Services,Telecom Services,GBP,Mid Cap,18.0
+Equity,United Kingdom,TSCO,TSCO.L,Tesco plc,Consumer Staples,Food Retail,GBP,Mid Cap,30.0
+Equity,United Kingdom,NG,NG.L,National Grid plc,Utilities,Multi-Utilities,GBP,Large Cap,55.0
+Equity,United Kingdom,SSE,SSE.L,SSE plc,Utilities,Electric Utilities,GBP,Mid Cap,25.0
+Equity,United Kingdom,REL,REL.L,RELX plc,Industrials,Research & Consulting,GBP,Large Cap,90.0
+Equity,United Kingdom,RKT,RKT.L,Reckitt Benckiser Group plc,Consumer Staples,Household Products,GBP,Mid Cap,35.0
+Equity,United Kingdom,CPG,CPG.L,Compass Group plc,Consumer Discretionary,Restaurants,GBP,Large Cap,55.0
+Equity,United Kingdom,RR,RR.L,Rolls-Royce Holdings plc,Industrials,Aerospace & Defense,GBP,Large Cap,80.0
+Equity,United Kingdom,BA-L,BA.L,BAE Systems plc,Industrials,Aerospace & Defense,GBP,Large Cap,65.0
+Equity,United Kingdom,PRU,PRU.L,Prudential plc,Financials,Life Insurance,GBP,Mid Cap,25.0
+Equity,United Kingdom,LGEN,LGEN.L,Legal & General Group plc,Financials,Life Insurance,GBP,Mid Cap,18.0
+Equity,United Kingdom,AV,AV.L,Aviva plc,Financials,Multi-line Insurance,GBP,Mid Cap,20.0
+Equity,United Kingdom,STAN,STAN.L,Standard Chartered plc,Financials,Diversified Banks,GBP,Mid Cap,30.0
+Equity,United Kingdom,AAL,AAL.L,Anglo American plc,Materials,Diversified Mining,GBP,Mid Cap,35.0
+Equity,United Kingdom,ANTO,ANTO.L,Antofagasta plc,Materials,Copper,GBP,Mid Cap,22.0
+Equity,United Kingdom,NXT,NXT.L,Next plc,Consumer Discretionary,Apparel Retail,GBP,Mid Cap,15.0
+Equity,United Kingdom,ABF,ABF.L,Associated British Foods plc,Consumer Staples,Packaged Foods,GBP,Mid Cap,22.0
+Equity,United Kingdom,EXPN,EXPN.L,Experian plc,Industrials,Research & Consulting,GBP,Mid Cap,40.0
+Equity,United Kingdom,HLMA,HLMA.L,Halma plc,Industrials,Electronic Equipment,GBP,Mid Cap,12.0
+Equity,United Kingdom,SN,SN.L,Smith & Nephew plc,Health Care,Health Care Equipment,GBP,Mid Cap,10.0
+Equity,United Kingdom,LSEG,LSEG.L,London Stock Exchange Group plc,Financials,Financial Exchanges & Data,GBP,Large Cap,55.0
+Equity,Germany,SAP,SAP.DE,SAP SE,Information Technology,Software,EUR,Mega Cap,320.0
+Equity,Germany,SIE,SIE.DE,Siemens AG,Industrials,Industrial Conglomerates,EUR,Large Cap,160.0
+Equity,Germany,ALV,ALV.DE,Allianz SE,Financials,Multi-line Insurance,EUR,Large Cap,150.0
+Equity,Germany,DTE,DTE.DE,Deutsche Telekom AG,Communication Services,Telecom Services,EUR,Large Cap,140.0
+Equity,Germany,MBG,MBG.DE,Mercedes-Benz Group AG,Consumer Discretionary,Automobiles,EUR,Large Cap,60.0
+Equity,Germany,BMW,BMW.DE,Bayerische Motoren Werke AG,Consumer Discretionary,Automobiles,EUR,Large Cap,55.0
+Equity,Germany,VOW3,VOW3.DE,Volkswagen AG,Consumer Discretionary,Automobiles,EUR,Large Cap,55.0
+Equity,Germany,BAS,BAS.DE,BASF SE,Materials,Diversified Chemicals,EUR,Mid Cap,45.0
+Equity,Germany,BAYN,BAYN.DE,Bayer AG,Health Care,Pharmaceuticals,EUR,Mid Cap,30.0
+Equity,Germany,DBK,DBK.DE,Deutsche Bank AG,Financials,Diversified Banks,EUR,Mid Cap,40.0
+Equity,Germany,CBK,CBK.DE,Commerzbank AG,Financials,Diversified Banks,EUR,Mid Cap,20.0
+Equity,Germany,MUV2,MUV2.DE,Munich Re,Financials,Reinsurance,EUR,Large Cap,65.0
+Equity,Germany,DB1,DB1.DE,Deutsche Boerse AG,Financials,Financial Exchanges & Data,EUR,Mid Cap,45.0
+Equity,Germany,IFX,IFX.DE,Infineon Technologies AG,Information Technology,Semiconductors,EUR,Mid Cap,45.0
+Equity,Germany,ADS,ADS.DE,Adidas AG,Consumer Discretionary,Apparel,EUR,Mid Cap,45.0
+Equity,Germany,HEN3,HEN3.DE,Henkel AG & Co KGaA,Consumer Staples,Household Products,EUR,Mid Cap,22.0
+Equity,Germany,BEI,BEI.DE,Beiersdorf AG,Consumer Staples,Personal Products,EUR,Mid Cap,30.0
+Equity,Germany,FRE,FRE.DE,Fresenius SE & Co KGaA,Health Care,Health Care Services,EUR,Mid Cap,20.0
+Equity,Germany,MRK-DE,MRK.DE,Merck KGaA,Health Care,Pharmaceuticals,EUR,Large Cap,60.0
+Equity,Germany,CON,CON.DE,Continental AG,Consumer Discretionary,Auto Parts,EUR,Small Cap,8.0
+Equity,Germany,DHL,DHL.DE,DHL Group,Industrials,Air Freight & Logistics,EUR,Mid Cap,45.0
+Equity,Germany,HEI,HEI.DE,Heidelberg Materials AG,Materials,Construction Materials,EUR,Mid Cap,22.0
+Equity,Germany,MTX,MTX.DE,MTU Aero Engines AG,Industrials,Aerospace & Defense,EUR,Mid Cap,25.0
+Equity,Germany,RHM,RHM.DE,Rheinmetall AG,Industrials,Aerospace & Defense,EUR,Large Cap,55.0
+Equity,Germany,ZAL,ZAL.DE,Zalando SE,Consumer Discretionary,Internet Retail,EUR,Small Cap,8.0
+Equity,Germany,VNA,VNA.DE,Vonovia SE,Real Estate,Residential REITs,EUR,Mid Cap,25.0
+Equity,Germany,SRT3,SRT3.DE,Sartorius AG,Health Care,Life Sciences Tools,EUR,Mid Cap,20.0
+Equity,Germany,SY1,SY1.DE,Symrise AG,Materials,Specialty Chemicals,EUR,Mid Cap,15.0
+Equity,Germany,BNR,BNR.DE,Brenntag SE,Industrials,Trading Companies,EUR,Small Cap,8.0
+Equity,Germany,HNR1,HNR1.DE,Hannover Rueck SE,Financials,Reinsurance,EUR,Mid Cap,35.0
+Equity,Germany,QIA,QIA.DE,Qiagen NV,Health Care,Life Sciences Tools,EUR,Mid Cap,10.0
+Equity,Germany,P911,P911.DE,Porsche AG,Consumer Discretionary,Automobiles,EUR,Mid Cap,20.0
+Equity,Germany,EOAN,EOAN.DE,E.ON SE,Utilities,Multi-Utilities,EUR,Mid Cap,35.0
+Equity,Germany,RWE,RWE.DE,RWE AG,Utilities,Electric Utilities,EUR,Mid Cap,25.0
+Equity,Germany,AIR,AIR.DE,Airbus SE,Industrials,Aerospace & Defense,EUR,Large Cap,150.0
+Equity,Japan,7203,7203.T,Toyota Motor Corporation,Consumer Discretionary,Automobiles,JPY,Mega Cap,260.0
+Equity,Japan,6758,6758.T,Sony Group Corporation,Consumer Discretionary,Consumer Electronics,JPY,Large Cap,150.0
+Equity,Japan,8306,8306.T,Mitsubishi UFJ Financial Group,Financials,Diversified Banks,JPY,Large Cap,150.0
+Equity,Japan,9984,9984.T,SoftBank Group Corp.,Communication Services,Telecom Services,JPY,Large Cap,90.0
+Equity,Japan,9434,9434.T,SoftBank Corp.,Communication Services,Wireless Telecom,JPY,Large Cap,65.0
+Equity,Japan,6861,6861.T,Keyence Corporation,Information Technology,Electronic Equipment,JPY,Large Cap,130.0
+Equity,Japan,7974,7974.T,Nintendo Co. Ltd.,Communication Services,Interactive Home Entertainment,JPY,Large Cap,95.0
+Equity,Japan,9983,9983.T,Fast Retailing Co. Ltd.,Consumer Discretionary,Apparel Retail,JPY,Large Cap,95.0
+Equity,Japan,8035,8035.T,Tokyo Electron Ltd.,Information Technology,Semiconductor Equipment,JPY,Large Cap,130.0
+Equity,Japan,6501,6501.T,Hitachi Ltd.,Industrials,Industrial Conglomerates,JPY,Large Cap,130.0
+Equity,Japan,7267,7267.T,Honda Motor Co. Ltd.,Consumer Discretionary,Automobiles,JPY,Large Cap,55.0
+Equity,Japan,7201,7201.T,Nissan Motor Co. Ltd.,Consumer Discretionary,Automobiles,JPY,Mid Cap,12.0
+Equity,Japan,6752,6752.T,Panasonic Holdings Corp.,Consumer Discretionary,Consumer Electronics,JPY,Mid Cap,25.0
+Equity,Japan,7751,7751.T,Canon Inc.,Information Technology,Technology Hardware,JPY,Mid Cap,40.0
+Equity,Japan,5401,5401.T,Nippon Steel Corporation,Materials,Steel,JPY,Mid Cap,22.0
+Equity,Japan,8058,8058.T,Mitsubishi Corporation,Industrials,Trading Companies,JPY,Large Cap,90.0
+Equity,Japan,8031,8031.T,Mitsui & Co. Ltd.,Industrials,Trading Companies,JPY,Large Cap,65.0
+Equity,Japan,8001,8001.T,Itochu Corporation,Industrials,Trading Companies,JPY,Large Cap,85.0
+Equity,Japan,9433,9433.T,KDDI Corporation,Communication Services,Wireless Telecom,JPY,Large Cap,85.0
+Equity,Japan,9432,9432.T,Nippon Telegraph and Telephone,Communication Services,Telecom Services,JPY,Large Cap,90.0
+Equity,Japan,4063,4063.T,Shin-Etsu Chemical Co.,Materials,Specialty Chemicals,JPY,Large Cap,100.0
+Equity,Japan,4568,4568.T,Daiichi Sankyo Co. Ltd.,Health Care,Pharmaceuticals,JPY,Large Cap,90.0
+Equity,Japan,4502,4502.T,Takeda Pharmaceutical Co.,Health Care,Pharmaceuticals,JPY,Large Cap,55.0
+Equity,Japan,6098,6098.T,Recruit Holdings Co. Ltd.,Industrials,Human Resource Services,JPY,Large Cap,90.0
+Equity,Japan,6902,6902.T,Denso Corporation,Consumer Discretionary,Auto Parts,JPY,Large Cap,50.0
+Equity,Japan,6981,6981.T,Murata Manufacturing Co.,Information Technology,Electronic Components,JPY,Mid Cap,45.0
+Equity,Japan,5108,5108.T,Bridgestone Corporation,Consumer Discretionary,Auto Parts,JPY,Mid Cap,30.0
+Equity,Japan,4452,4452.T,Kao Corporation,Consumer Staples,Personal Products,JPY,Mid Cap,25.0
+Equity,Japan,3382,3382.T,Seven & I Holdings Co.,Consumer Staples,Food Retail,JPY,Mid Cap,35.0
+Equity,Japan,8591,8591.T,ORIX Corporation,Financials,Diversified Financial Services,JPY,Mid Cap,30.0
+Equity,Japan,8766,8766.T,Tokio Marine Holdings Inc.,Financials,Property & Casualty Insurance,JPY,Large Cap,75.0
+Equity,Japan,8725,8725.T,MS&AD Insurance Group,Financials,Property & Casualty Insurance,JPY,Mid Cap,30.0
+Equity,Japan,6367,6367.T,Daikin Industries Ltd.,Industrials,Building Products,JPY,Mid Cap,45.0
+Equity,Japan,6954,6954.T,Fanuc Corporation,Industrials,Industrial Machinery,JPY,Mid Cap,25.0
+Equity,Japan,9020,9020.T,East Japan Railway Company,Industrials,Passenger Ground Transportation,JPY,Mid Cap,30.0
+Equity,Canada,RY,RY.TO,Royal Bank of Canada,Financials,Diversified Banks,CAD,Mega Cap,200.0
+Equity,Canada,TD,TD.TO,Toronto-Dominion Bank,Financials,Diversified Banks,CAD,Large Cap,130.0
+Equity,Canada,BNS,BNS.TO,Bank of Nova Scotia,Financials,Diversified Banks,CAD,Large Cap,75.0
+Equity,Canada,BMO,BMO.TO,Bank of Montreal,Financials,Diversified Banks,CAD,Large Cap,90.0
+Equity,Canada,CM,CM.TO,Canadian Imperial Bank of Commerce,Financials,Diversified Banks,CAD,Large Cap,60.0
+Equity,Canada,ENB,ENB.TO,Enbridge Inc.,Energy,Oil & Gas Storage & Transport,CAD,Large Cap,110.0
+Equity,Canada,TRP,TRP.TO,TC Energy Corporation,Energy,Oil & Gas Storage & Transport,CAD,Large Cap,55.0
+Equity,Canada,CNQ,CNQ.TO,Canadian Natural Resources,Energy,Oil & Gas E&P,CAD,Large Cap,75.0
+Equity,Canada,SU,SU.TO,Suncor Energy Inc.,Energy,Integrated Oil & Gas,CAD,Large Cap,60.0
+Equity,Canada,SHOP,SHOP.TO,Shopify Inc.,Information Technology,Software,CAD,Large Cap,160.0
+Equity,Canada,BN,BN.TO,Brookfield Corporation,Financials,Asset Management,CAD,Large Cap,120.0
+Equity,Canada,BAM,BAM.TO,Brookfield Asset Management,Financials,Asset Management,CAD,Mid Cap,25.0
+Equity,Canada,CP,CP.TO,Canadian Pacific Kansas City,Industrials,Rail Transportation,CAD,Large Cap,65.0
+Equity,Canada,CNR,CNR.TO,Canadian National Railway,Industrials,Rail Transportation,CAD,Large Cap,75.0
+Equity,Canada,ABX,ABX.TO,Barrick Mining Corporation,Materials,Gold Mining,CAD,Mid Cap,35.0
+Equity,Canada,MFC,MFC.TO,Manulife Financial Corp.,Financials,Life Insurance,CAD,Large Cap,65.0
+Equity,Canada,SLF,SLF.TO,Sun Life Financial Inc.,Financials,Life Insurance,CAD,Mid Cap,40.0
+Equity,Canada,BCE,BCE.TO,BCE Inc.,Communication Services,Telecom Services,CAD,Mid Cap,25.0
+Equity,Canada,T-CA,T.TO,TELUS Corporation,Communication Services,Telecom Services,CAD,Mid Cap,28.0
+Equity,Canada,L,L.TO,Loblaw Companies Ltd.,Consumer Staples,Food Retail,CAD,Mid Cap,45.0
+Equity,Canada,NTR,NTR.TO,Nutrien Ltd.,Materials,Fertilizers,CAD,Mid Cap,22.0
+Equity,Canada,FNV,FNV.TO,Franco-Nevada Corporation,Materials,Gold Mining,CAD,Mid Cap,35.0
+Equity,Canada,AEM,AEM.TO,Agnico Eagle Mines Ltd.,Materials,Gold Mining,CAD,Large Cap,55.0
+Equity,Canada,CSU,CSU.TO,Constellation Software Inc.,Information Technology,Software,CAD,Large Cap,90.0
+Equity,Canada,ATD,ATD.TO,Alimentation Couche-Tard,Consumer Staples,Food Retail,CAD,Large Cap,55.0
+Equity,Canada,WCN,WCN.TO,Waste Connections Inc.,Industrials,Environmental Services,CAD,Mid Cap,45.0
+Equity,Canada,FFH,FFH.TO,Fairfax Financial Holdings,Financials,Property & Casualty Insurance,CAD,Mid Cap,45.0
+Equity,Australia,BHP,BHP.AX,BHP Group Limited,Materials,Diversified Mining,AUD,Large Cap,150.0
+Equity,Australia,CBA,CBA.AX,Commonwealth Bank of Australia,Financials,Diversified Banks,AUD,Large Cap,190.0
+Equity,Australia,CSL,CSL.AX,CSL Limited,Health Care,Biotechnology,AUD,Large Cap,90.0
+Equity,Australia,NAB,NAB.AX,National Australia Bank,Financials,Diversified Banks,AUD,Large Cap,95.0
+Equity,Australia,WBC,WBC.AX,Westpac Banking Corporation,Financials,Diversified Banks,AUD,Large Cap,90.0
+Equity,Australia,ANZ,ANZ.AX,ANZ Group Holdings,Financials,Diversified Banks,AUD,Large Cap,70.0
+Equity,Australia,MQG,MQG.AX,Macquarie Group Limited,Financials,Investment Banking,AUD,Large Cap,65.0
+Equity,Australia,WES,WES.AX,Wesfarmers Limited,Consumer Discretionary,Diversified Retail,AUD,Large Cap,65.0
+Equity,Australia,WOW,WOW.AX,Woolworths Group Limited,Consumer Staples,Food Retail,AUD,Mid Cap,30.0
+Equity,Australia,TLS,TLS.AX,Telstra Group Limited,Communication Services,Telecom Services,AUD,Mid Cap,35.0
+Equity,Australia,RIO-AU,RIO.AX,Rio Tinto Limited,Materials,Diversified Mining,AUD,Large Cap,100.0
+Equity,Australia,FMG,FMG.AX,Fortescue Ltd.,Materials,Steel,AUD,Mid Cap,30.0
+Equity,Australia,WDS,WDS.AX,Woodside Energy Group,Energy,Oil & Gas E&P,AUD,Mid Cap,30.0
+Equity,Australia,GMG,GMG.AX,Goodman Group,Real Estate,Industrial REITs,AUD,Mid Cap,45.0
+Equity,Australia,TCL,TCL.AX,Transurban Group,Industrials,Highways & Railtracks,AUD,Mid Cap,30.0
+Equity,Australia,COL,COL.AX,Coles Group Limited,Consumer Staples,Food Retail,AUD,Mid Cap,22.0
+Equity,Australia,ALL,ALL.AX,Aristocrat Leisure Limited,Consumer Discretionary,Casinos & Gaming,AUD,Mid Cap,35.0
+Equity,Australia,JHX,JHX.AX,James Hardie Industries,Industrials,Building Products,AUD,Mid Cap,12.0
+Equity,Australia,RMD,RMD.AX,ResMed Inc.,Health Care,Health Care Equipment,AUD,Mid Cap,35.0
+Equity,Australia,COH,COH.AX,Cochlear Limited,Health Care,Health Care Equipment,AUD,Mid Cap,18.0
+Equity,Australia,QBE,QBE.AX,QBE Insurance Group,Financials,Property & Casualty Insurance,AUD,Mid Cap,25.0
+Equity,Australia,SUN,SUN.AX,Suncorp Group Limited,Financials,Multi-line Insurance,AUD,Mid Cap,20.0
+Equity,Australia,S32,S32.AX,South32 Limited,Materials,Diversified Mining,AUD,Mid Cap,15.0
+Equity,Australia,ORG,ORG.AX,Origin Energy Limited,Utilities,Multi-Utilities,AUD,Mid Cap,15.0
+Equity,Australia,STO,STO.AX,Santos Limited,Energy,Oil & Gas E&P,AUD,Mid Cap,15.0
+Equity,Australia,BXB,BXB.AX,Brambles Limited,Industrials,Trading Companies,AUD,Mid Cap,20.0
+Equity,Australia,AMC,AMC.AX,Amcor plc,Materials,Packaging,AUD,Mid Cap,18.0
+Equity,India,RELIANCE,RELIANCE.NS,Reliance Industries Ltd.,Energy,Integrated Oil & Gas,INR,Mega Cap,210.0
+Equity,India,TCS,TCS.NS,Tata Consultancy Services,Information Technology,IT Services,INR,Large Cap,160.0
+Equity,India,HDFCBANK,HDFCBANK.NS,HDFC Bank Ltd.,Financials,Diversified Banks,INR,Large Cap,165.0
+Equity,India,ICICIBANK,ICICIBANK.NS,ICICI Bank Ltd.,Financials,Diversified Banks,INR,Large Cap,115.0
+Equity,India,INFY,INFY.NS,Infosys Ltd.,Information Technology,IT Services,INR,Large Cap,85.0
+Equity,India,SBIN,SBIN.NS,State Bank of India,Financials,Diversified Banks,INR,Large Cap,75.0
+Equity,India,BHARTIARTL,BHARTIARTL.NS,Bharti Airtel Ltd.,Communication Services,Wireless Telecom,INR,Large Cap,115.0
+Equity,India,ITC,ITC.NS,ITC Ltd.,Consumer Staples,Tobacco,INR,Large Cap,55.0
+Equity,India,HINDUNILVR,HINDUNILVR.NS,Hindustan Unilever Ltd.,Consumer Staples,Household Products,INR,Large Cap,65.0
+Equity,India,LT,LT.NS,Larsen & Toubro Ltd.,Industrials,Construction & Engineering,INR,Large Cap,50.0
+Equity,India,KOTAKBANK,KOTAKBANK.NS,Kotak Mahindra Bank Ltd.,Financials,Diversified Banks,INR,Mid Cap,45.0
+Equity,India,AXISBANK,AXISBANK.NS,Axis Bank Ltd.,Financials,Diversified Banks,INR,Mid Cap,40.0
+Equity,India,BAJFINANCE,BAJFINANCE.NS,Bajaj Finance Ltd.,Financials,Consumer Finance,INR,Large Cap,55.0
+Equity,India,MARUTI,MARUTI.NS,Maruti Suzuki India Ltd.,Consumer Discretionary,Automobiles,INR,Mid Cap,45.0
+Equity,India,SUNPHARMA,SUNPHARMA.NS,Sun Pharmaceutical Industries,Health Care,Pharmaceuticals,INR,Mid Cap,45.0
+Equity,India,HCLTECH,HCLTECH.NS,HCL Technologies Ltd.,Information Technology,IT Services,INR,Mid Cap,45.0
+Equity,India,TITAN,TITAN.NS,Titan Company Ltd.,Consumer Discretionary,Apparel & Luxury Goods,INR,Mid Cap,30.0
+Equity,India,ASIANPAINT,ASIANPAINT.NS,Asian Paints Ltd.,Materials,Specialty Chemicals,INR,Mid Cap,25.0
+Equity,India,ULTRACEMCO,ULTRACEMCO.NS,UltraTech Cement Ltd.,Materials,Construction Materials,INR,Mid Cap,35.0
+Equity,India,WIPRO,WIPRO.NS,Wipro Ltd.,Information Technology,IT Services,INR,Mid Cap,30.0
+Equity,India,ADANIENT,ADANIENT.NS,Adani Enterprises Ltd.,Industrials,Industrial Conglomerates,INR,Mid Cap,35.0
+Equity,India,ADANIPORTS,ADANIPORTS.NS,Adani Ports and SEZ Ltd.,Industrials,Marine Ports & Services,INR,Mid Cap,30.0
+Equity,India,TATAMOTORS,TATAMOTORS.NS,Tata Motors Ltd.,Consumer Discretionary,Automobiles,INR,Mid Cap,35.0
+Equity,India,TATASTEEL,TATASTEEL.NS,Tata Steel Ltd.,Materials,Steel,INR,Mid Cap,22.0
+Equity,India,M&M,M%26M.NS,Mahindra & Mahindra Ltd.,Consumer Discretionary,Automobiles,INR,Mid Cap,40.0
+Equity,India,NTPC,NTPC.NS,NTPC Ltd.,Utilities,Electric Utilities,INR,Mid Cap,40.0
+Equity,India,POWERGRID,POWERGRID.NS,Power Grid Corp of India,Utilities,Electric Utilities,INR,Mid Cap,30.0
+Equity,India,COALINDIA,COALINDIA.NS,Coal India Ltd.,Energy,Coal,INR,Mid Cap,25.0
+Equity,India,JSWSTEEL,JSWSTEEL.NS,JSW Steel Ltd.,Materials,Steel,INR,Mid Cap,25.0
+Equity,India,NESTLEIND,NESTLEIND.NS,Nestle India Ltd.,Consumer Staples,Packaged Foods,INR,Mid Cap,27.0
+Equity,India,BAJAJFINSV,BAJAJFINSV.NS,Bajaj Finserv Ltd.,Financials,Diversified Financial Services,INR,Mid Cap,30.0
+Equity,India,INDUSINDBK,INDUSINDBK.NS,IndusInd Bank Ltd.,Financials,Diversified Banks,INR,Mid Cap,10.0
+Equity,India,HINDALCO,HINDALCO.NS,Hindalco Industries Ltd.,Materials,Aluminum,INR,Mid Cap,18.0
+Equity,India,DRREDDY,DRREDDY.NS,Dr. Reddy's Laboratories,Health Care,Pharmaceuticals,INR,Mid Cap,15.0
+Equity,India,CIPLA,CIPLA.NS,Cipla Ltd.,Health Care,Pharmaceuticals,INR,Mid Cap,14.0
+Equity,Brazil,PETR4,PETR4.SA,Petroleo Brasileiro SA (Petrobras),Energy,Integrated Oil & Gas,BRL,Large Cap,90.0
+Equity,Brazil,VALE3,VALE3.SA,Vale SA,Materials,Diversified Mining,BRL,Large Cap,55.0
+Equity,Brazil,ITUB4,ITUB4.SA,Itau Unibanco Holding SA,Financials,Diversified Banks,BRL,Large Cap,65.0
+Equity,Brazil,BBDC4,BBDC4.SA,Banco Bradesco SA,Financials,Diversified Banks,BRL,Mid Cap,30.0
+Equity,Brazil,BBAS3,BBAS3.SA,Banco do Brasil SA,Financials,Diversified Banks,BRL,Mid Cap,25.0
+Equity,Brazil,B3SA3,B3SA3.SA,B3 SA - Brasil Bolsa Balcao,Financials,Financial Exchanges & Data,BRL,Mid Cap,12.0
+Equity,Brazil,ABEV3,ABEV3.SA,Ambev SA,Consumer Staples,Brewers,BRL,Mid Cap,40.0
+Equity,Brazil,WEGE3,WEGE3.SA,WEG SA,Industrials,Electrical Equipment,BRL,Mid Cap,25.0
+Equity,Brazil,RENT3,RENT3.SA,Localiza Rent a Car SA,Industrials,Commercial Services,BRL,Mid Cap,10.0
+Equity,Brazil,SUZB3,SUZB3.SA,Suzano SA,Materials,Paper Products,BRL,Mid Cap,15.0
+Equity,Brazil,JBSS3,JBSS3.SA,JBS SA,Consumer Staples,Packaged Foods,BRL,Mid Cap,15.0
+Equity,Brazil,ELET3,ELET3.SA,Centrais Eletricas Brasileiras (Eletrobras),Utilities,Electric Utilities,BRL,Mid Cap,18.0
+Equity,Brazil,GGBR4,GGBR4.SA,Gerdau SA,Materials,Steel,BRL,Small Cap,8.0
+Equity,Brazil,CSNA3,CSNA3.SA,Companhia Siderurgica Nacional,Materials,Steel,BRL,Small Cap,4.0
+Equity,Brazil,HAPV3,HAPV3.SA,Hapvida Participacoes e Investimentos,Health Care,Managed Health Care,BRL,Small Cap,8.0
+Equity,Brazil,EQTL3,EQTL3.SA,Equatorial Energia SA,Utilities,Electric Utilities,BRL,Mid Cap,12.0
+Equity,Brazil,CPFE3,CPFE3.SA,CPFL Energia SA,Utilities,Electric Utilities,BRL,Mid Cap,10.0
+Equity,Brazil,UGPA3,UGPA3.SA,Ultrapar Participacoes SA,Energy,Oil & Gas Refining & Marketing,BRL,Small Cap,6.0
+Equity,Brazil,LREN3,LREN3.SA,Lojas Renner SA,Consumer Discretionary,Apparel Retail,BRL,Small Cap,5.0
+Equity,Brazil,CSAN3,CSAN3.SA,Cosan SA,Energy,Oil & Gas Refining & Marketing,BRL,Small Cap,6.0
+Equity,Brazil,TIMS3,TIMS3.SA,TIM SA,Communication Services,Wireless Telecom,BRL,Small Cap,8.0
+Equity,Brazil,VIVT3,VIVT3.SA,Telefonica Brasil SA (Vivo),Communication Services,Telecom Services,BRL,Mid Cap,10.0
+Equity,Brazil,RADL3,RADL3.SA,Raia Drogasil SA,Consumer Staples,Drug Retail,BRL,Mid Cap,10.0
+Equity,Brazil,KLBN11,KLBN11.SA,Klabin SA,Materials,Paper Products,BRL,Small Cap,6.0
+Equity,China/Hong Kong,0700,0700.HK,Tencent Holdings Ltd.,Communication Services,Interactive Media,HKD,Mega Cap,500.0
+Equity,China/Hong Kong,9988,9988.HK,Alibaba Group Holding Ltd.,Consumer Discretionary,Internet Retail,HKD,Mega Cap,280.0
+Equity,China/Hong Kong,0005,0005.HK,HSBC Holdings plc,Financials,Diversified Banks,HKD,Large Cap,170.0
+Equity,China/Hong Kong,1299,1299.HK,AIA Group Ltd.,Financials,Life Insurance,HKD,Large Cap,85.0
+Equity,China/Hong Kong,3690,3690.HK,Meituan,Consumer Discretionary,Internet Retail,HKD,Large Cap,85.0
+Equity,China/Hong Kong,0939,0939.HK,China Construction Bank Corp.,Financials,Diversified Banks,HKD,Large Cap,190.0
+Equity,China/Hong Kong,1398,1398.HK,Industrial and Commercial Bank of China,Financials,Diversified Banks,HKD,Mega Cap,220.0
+Equity,China/Hong Kong,3988,3988.HK,Bank of China Ltd.,Financials,Diversified Banks,HKD,Large Cap,150.0
+Equity,China/Hong Kong,0941,0941.HK,China Mobile Ltd.,Communication Services,Wireless Telecom,HKD,Mega Cap,210.0
+Equity,China/Hong Kong,0883,0883.HK,CNOOC Ltd.,Energy,Oil & Gas E&P,HKD,Large Cap,90.0
+Equity,China/Hong Kong,0857,0857.HK,PetroChina Company Ltd.,Energy,Integrated Oil & Gas,HKD,Mega Cap,200.0
+Equity,China/Hong Kong,2318,2318.HK,Ping An Insurance Group,Financials,Life Insurance,HKD,Large Cap,110.0
+Equity,China/Hong Kong,9618,9618.HK,JD.com Inc.,Consumer Discretionary,Internet Retail,HKD,Large Cap,55.0
+Equity,China/Hong Kong,9999,9999.HK,NetEase Inc.,Communication Services,Interactive Home Entertainment,HKD,Large Cap,65.0
+Equity,China/Hong Kong,1810,1810.HK,Xiaomi Corporation,Information Technology,Technology Hardware,HKD,Large Cap,150.0
+Equity,China/Hong Kong,1211,1211.HK,BYD Company Ltd.,Consumer Discretionary,Automobiles,HKD,Large Cap,130.0
+Equity,China/Hong Kong,2628,2628.HK,China Life Insurance Company,Financials,Life Insurance,HKD,Large Cap,90.0
+Equity,China/Hong Kong,0386,0386.HK,China Petroleum & Chemical (Sinopec),Energy,Integrated Oil & Gas,HKD,Large Cap,60.0
+Equity,China/Hong Kong,0388,0388.HK,Hong Kong Exchanges and Clearing,Financials,Financial Exchanges & Data,HKD,Large Cap,55.0
+Equity,China/Hong Kong,0016,0016.HK,Sun Hung Kai Properties Ltd.,Real Estate,Diversified Real Estate,HKD,Mid Cap,25.0
+Equity,China/Hong Kong,0001,0001.HK,CK Hutchison Holdings Ltd.,Industrials,Diversified Support Services,HKD,Mid Cap,20.0
+Equity,China/Hong Kong,0823,0823.HK,Link Real Estate Investment Trust,Real Estate,Diversified REITs,HKD,Mid Cap,12.0
+Equity,China/Hong Kong,0027,0027.HK,Galaxy Entertainment Group,Consumer Discretionary,Casinos & Gaming,HKD,Mid Cap,20.0
+Equity,China/Hong Kong,1928,1928.HK,Sands China Ltd.,Consumer Discretionary,Casinos & Gaming,HKD,Mid Cap,20.0
+Equity,China/Hong Kong,3968,3968.HK,China Merchants Bank,Financials,Diversified Banks,HKD,Large Cap,130.0
+Equity,China/Hong Kong,0175,0175.HK,Geely Automobile Holdings,Consumer Discretionary,Automobiles,HKD,Mid Cap,22.0
+Equity,China/Hong Kong,2015,2015.HK,Li Auto Inc.,Consumer Discretionary,Automobiles,HKD,Mid Cap,25.0
+Equity,China/Hong Kong,1024,1024.HK,Kuaishou Technology,Communication Services,Interactive Media,HKD,Mid Cap,25.0
+Equity,China/Hong Kong,2020,2020.HK,Anta Sports Products Ltd.,Consumer Discretionary,Apparel,HKD,Mid Cap,20.0
+Mutual Fund,United States,VFIAX,VFIAX,Vanguard 500 Index Fund Admiral Shares,Large Blend,Index Fund,USD,--,
+Mutual Fund,United States,FXAIX,FXAIX,Fidelity 500 Index Fund,Large Blend,Index Fund,USD,--,
+Mutual Fund,United States,VTSAX,VTSAX,Vanguard Total Stock Market Index Fund Admiral,Total Market,Index Fund,USD,--,
+Mutual Fund,United States,SWPPX,SWPPX,Schwab S&P 500 Index Fund,Large Blend,Index Fund,USD,--,
+Mutual Fund,United States,VBTLX,VBTLX,Vanguard Total Bond Market Index Fund Admiral,Intermediate Bond,Bond Fund,USD,--,
+Mutual Fund,United States,VTIAX,VTIAX,Vanguard Total International Stock Index Fund,Foreign Large Blend,Index Fund,USD,--,
+Mutual Fund,United States,VWELX,VWELX,Vanguard Wellington Fund Investor Shares,Allocation,Balanced Fund,USD,--,
+Mutual Fund,United States,FCNTX,FCNTX,Fidelity Contrafund,Large Growth,Actively Managed,USD,--,
+Mutual Fund,United States,DODGX,DODGX,Dodge & Cox Stock Fund,Large Value,Actively Managed,USD,--,
+Mutual Fund,United States,PTTRX,PTTRX,PIMCO Total Return Fund,Intermediate Bond,Bond Fund,USD,--,
+Crypto,Global,BTC,BTC-USD,Bitcoin,Store of Value,Layer 1,USD,--,
+Crypto,Global,ETH,ETH-USD,Ethereum,Smart Contract Platform,Layer 1,USD,--,
+Crypto,Global,USDT,USDT-USD,Tether,Stablecoin,Fiat-backed Stablecoin,USD,--,
+Crypto,Global,BNB,BNB-USD,BNB,Exchange Token,Layer 1,USD,--,
+Crypto,Global,SOL,SOL-USD,Solana,Smart Contract Platform,Layer 1,USD,--,
+Crypto,Global,USDC,USDC-USD,USD Coin,Stablecoin,Fiat-backed Stablecoin,USD,--,
+Crypto,Global,XRP,XRP-USD,XRP,Payments,Payments,USD,--,
+Crypto,Global,DOGE,DOGE-USD,Dogecoin,Meme,Meme Coin,USD,--,
+Crypto,Global,ADA,ADA-USD,Cardano,Smart Contract Platform,Layer 1,USD,--,
+Crypto,Global,TON,TON11419-USD,Toncoin,Smart Contract Platform,Layer 1,USD,--,
+Crypto,Global,AVAX,AVAX-USD,Avalanche,Smart Contract Platform,Layer 1,USD,--,
+Crypto,Global,SHIB,SHIB-USD,Shiba Inu,Meme,Meme Coin,USD,--,
+Crypto,Global,TRX,TRX-USD,TRON,Smart Contract Platform,Layer 1,USD,--,
+Crypto,Global,DOT,DOT-USD,Polkadot,Interoperability,Layer 0,USD,--,
+Crypto,Global,LINK,LINK-USD,Chainlink,Oracle,Oracle / Middleware,USD,--,
+Crypto,Global,MATIC,POL-USD,Polygon (POL),Scaling,Layer 2,USD,--,
+Crypto,Global,BCH,BCH-USD,Bitcoin Cash,Payments,Layer 1,USD,--,
+Crypto,Global,LTC,LTC-USD,Litecoin,Payments,Layer 1,USD,--,
+Crypto,Global,NEAR,NEAR-USD,NEAR Protocol,Smart Contract Platform,Layer 1,USD,--,
+Crypto,Global,ICP,ICP-USD,Internet Computer,Smart Contract Platform,Layer 1,USD,--,
+Crypto,Global,UNI,UNI7083-USD,Uniswap,DeFi,Decentralized Exchange,USD,--,
+Crypto,Global,APT,APT21794-USD,Aptos,Smart Contract Platform,Layer 1,USD,--,
+Crypto,Global,ETC,ETC-USD,Ethereum Classic,Smart Contract Platform,Layer 1,USD,--,
+Crypto,Global,XLM,XLM-USD,Stellar,Payments,Payments,USD,--,
+Crypto,Global,ATOM,ATOM-USD,Cosmos Hub,Interoperability,Layer 0,USD,--,
+Crypto,Global,HBAR,HBAR-USD,Hedera,Smart Contract Platform,Layer 1,USD,--,
+Crypto,Global,FIL,FIL-USD,Filecoin,Infrastructure,Decentralized Storage,USD,--,
+Crypto,Global,ARB,ARB11841-USD,Arbitrum,Scaling,Layer 2,USD,--,
+Crypto,Global,OP,OP-USD,Optimism,Scaling,Layer 2,USD,--,
+Crypto,Global,VET,VET-USD,VeChain,Supply Chain,Layer 1,USD,--,
+Crypto,Global,MKR,MKR-USD,Maker,DeFi,Lending / Stablecoin Issuer,USD,--,
+Crypto,Global,AAVE,AAVE-USD,Aave,DeFi,Lending,USD,--,
+Crypto,Global,ALGO,ALGO-USD,Algorand,Smart Contract Platform,Layer 1,USD,--,
+Crypto,Global,SAND,SAND-USD,The Sandbox,Metaverse / Gaming,Gaming Token,USD,--,
+Crypto,Global,MANA,MANA-USD,Decentraland,Metaverse / Gaming,Gaming Token,USD,--,
+Crypto,Global,GRT,GRT6719-USD,The Graph,Infrastructure,Indexing Protocol,USD,--,
+Crypto,Global,INJ,INJ-USD,Injective,DeFi,Derivatives Chain,USD,--,
+Crypto,Global,SUI,SUI20947-USD,Sui,Smart Contract Platform,Layer 1,USD,--,
+Crypto,Global,RUNE,RUNE-USD,THORChain,DeFi,Cross-chain DEX,USD,--,
+Crypto,Global,PEPE,PEPE24478-USD,Pepe,Meme,Meme Coin,USD,--,
+Commodity,Global,GC,GC=F,Gold Futures,Precious Metals,Futures,USD,--,
+Commodity,Global,SI,SI=F,Silver Futures,Precious Metals,Futures,USD,--,
+Commodity,Global,PL,PL=F,Platinum Futures,Precious Metals,Futures,USD,--,
+Commodity,Global,PA,PA=F,Palladium Futures,Precious Metals,Futures,USD,--,
+Commodity,Global,HG,HG=F,Copper Futures,Industrial Metals,Futures,USD,--,
+Commodity,Global,CL,CL=F,WTI Crude Oil Futures,Energy,Futures,USD,--,
+Commodity,Global,BZ,BZ=F,Brent Crude Oil Futures,Energy,Futures,USD,--,
+Commodity,Global,NG,NG=F,Natural Gas Futures,Energy,Futures,USD,--,
+Commodity,Global,RB,RB=F,RBOB Gasoline Futures,Energy,Futures,USD,--,
+Commodity,Global,HO,HO=F,Heating Oil Futures,Energy,Futures,USD,--,
+Commodity,Global,ZC,ZC=F,Corn Futures,Agriculture,Futures,USD,--,
+Commodity,Global,ZW,ZW=F,Wheat Futures,Agriculture,Futures,USD,--,
+Commodity,Global,ZS,ZS=F,Soybean Futures,Agriculture,Futures,USD,--,
+Commodity,Global,KC,KC=F,Coffee Futures,Agriculture,Futures,USD,--,
+Commodity,Global,CT,CT=F,Cotton Futures,Agriculture,Futures,USD,--,
+Commodity,Global,SB,SB=F,Sugar Futures,Agriculture,Futures,USD,--,
+Commodity,Global,CC,CC=F,Cocoa Futures,Agriculture,Futures,USD,--,
+Commodity,Global,LE,LE=F,Live Cattle Futures,Agriculture,Futures,USD,--,
+Commodity,Global,GLD,GLD,SPDR Gold Shares,Precious Metals,ETF,USD,--,
+Commodity,Global,SLV,SLV,iShares Silver Trust,Precious Metals,ETF,USD,--,
+Commodity,Global,USO,USO,United States Oil Fund,Energy,ETF,USD,--,
+Commodity,Global,UNG,UNG,United States Natural Gas Fund,Energy,ETF,USD,--,
+Commodity,Global,DBC,DBC,Invesco DB Commodity Index Tracking,Broad Commodities,ETF,USD,--,
+Commodity,Global,DBA,DBA,Invesco DB Agriculture Fund,Agriculture,ETF,USD,--,
+Currency,Global,DXY,DX-Y.NYB,US Dollar Index,Dollar Index,Index,USD,--,
+Currency,Global,EURUSD,EURUSD=X,Euro / US Dollar,Major FX,Pair,USD,--,
+Currency,Global,GBPUSD,GBPUSD=X,British Pound / US Dollar,Major FX,Pair,USD,--,
+Currency,Global,USDJPY,USDJPY=X,US Dollar / Japanese Yen,Major FX,Pair,JPY,--,
+Currency,Global,USDCHF,USDCHF=X,US Dollar / Swiss Franc,Major FX,Pair,CHF,--,
+Currency,Global,AUDUSD,AUDUSD=X,Australian Dollar / US Dollar,Major FX,Pair,USD,--,
+Currency,Global,USDCAD,USDCAD=X,US Dollar / Canadian Dollar,Major FX,Pair,CAD,--,
+Currency,Global,NZDUSD,NZDUSD=X,New Zealand Dollar / US Dollar,Major FX,Pair,USD,--,
+Currency,Global,EURGBP,EURGBP=X,Euro / British Pound,Major FX,Cross,GBP,--,
+Currency,Global,EURJPY,EURJPY=X,Euro / Japanese Yen,Major FX,Cross,JPY,--,
+Currency,Global,USDCNY,USDCNY=X,US Dollar / Chinese Yuan,EM FX,Pair,CNY,--,
+Currency,Global,USDZAR,USDZAR=X,US Dollar / South African Rand,EM FX,Pair,ZAR,--,
+Currency,Global,USDINR,USDINR=X,US Dollar / Indian Rupee,EM FX,Pair,INR,--,
+Currency,Global,USDBRL,USDBRL=X,US Dollar / Brazilian Real,EM FX,Pair,BRL,--,
+Currency,Global,USDHKD,USDHKD=X,US Dollar / Hong Kong Dollar,EM FX,Pair,HKD,--,
+Currency,Global,USDMXN,USDMXN=X,US Dollar / Mexican Peso,EM FX,Pair,MXN,--,
+Bond/Rate,United States,IRX,^IRX,13-Week Treasury Bill Yield,Government Yields,Short-term Rate,USD,--,
+Bond/Rate,United States,FVX,^FVX,5-Year Treasury Yield,Government Yields,Medium-term Rate,USD,--,
+Bond/Rate,United States,TNX,^TNX,10-Year Treasury Yield,Government Yields,Long-term Rate,USD,--,
+Bond/Rate,United States,TYX,^TYX,30-Year Treasury Yield,Government Yields,Long-term Rate,USD,--,
+Bond/Rate,United States,SHY,SHY,iShares 1-3 Year Treasury Bond ETF,Government Bonds,Short-term ETF,USD,--,
+Bond/Rate,United States,IEI,IEI,iShares 3-7 Year Treasury Bond ETF,Government Bonds,Medium-term ETF,USD,--,
+Bond/Rate,United States,IEF,IEF,iShares 7-10 Year Treasury Bond ETF,Government Bonds,Medium-term ETF,USD,--,
+Bond/Rate,United States,TLT,TLT,iShares 20+ Year Treasury Bond ETF,Government Bonds,Long-term ETF,USD,--,
+Bond/Rate,United States,AGG,AGG,iShares Core US Aggregate Bond ETF,Aggregate Bonds,Broad Market ETF,USD,--,
+Bond/Rate,United States,BND,BND,Vanguard Total Bond Market ETF,Aggregate Bonds,Broad Market ETF,USD,--,
+Bond/Rate,United States,LQD,LQD,iShares iBoxx Investment Grade Corp Bond ETF,Corporate Bonds,Investment Grade ETF,USD,--,
+Bond/Rate,United States,HYG,HYG,iShares iBoxx High Yield Corp Bond ETF,Corporate Bonds,High Yield ETF,USD,--,
+Bond/Rate,United States,MUB,MUB,iShares National Muni Bond ETF,Municipal Bonds,Muni ETF,USD,--,
+Bond/Rate,United States,TIP,TIP,iShares TIPS Bond ETF,Inflation-Protected Bonds,TIPS ETF,USD,--,
+Bond/Rate,United States,EMB,EMB,iShares JP Morgan EM Bond ETF,Emerging Market Bonds,EM Sovereign ETF,USD,--,
+Bond/Rate,United States,BNDX,BNDX,Vanguard Total International Bond ETF,International Bonds,Broad Market ETF,USD,--,

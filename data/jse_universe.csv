@@ -1,0 +1,260 @@
+rank,symbol,yf_ticker,name,market_cap_zar,market_cap_tier,gics_sector,industry
+1,BHG,BHG.JO,BHP Group Limited,3650000000000,Mega Cap,Materials,Diversified Mining
+2,ANH,ANH.JO,Anheuser-Busch InBev SA/NV,2690000000000,Mega Cap,Consumer Staples,Brewers
+3,CFR,CFR.JO,Compagnie Financière Richemont SA,2300000000000,Mega Cap,Consumer Discretionary,Luxury Goods
+4,BTI,BTI.JO,British American Tobacco p.l.c.,2080000000000,Mega Cap,Consumer Staples,Tobacco
+5,PRX,PRX.JO,Prosus N.V.,1680000000000,Mega Cap,Consumer Discretionary,Internet & Direct Marketing Retail
+6,GLN,GLN.JO,Glencore plc,1430000000000,Mega Cap,Materials,Diversified Mining & Commodities Trading
+7,AGL,AGL.JO,Anglo American plc,940620000000,Mega Cap,Materials,Diversified Mining
+8,ANG,ANG.JO,AngloGold Ashanti plc,794380000000,Mega Cap,Materials,Gold Mining
+9,NPN,NPN.JO,Naspers Limited,687840000000,Mega Cap,Consumer Discretionary,Internet & Direct Marketing Retail
+10,GFI,GFI.JO,Gold Fields Limited,593480000000,Mega Cap,Materials,Gold Mining
+11,FSR,FSR.JO,FirstRand Limited,562290000000,Mega Cap,Financials,Banks
+12,CPI,CPI.JO,Capitec Limited,559420000000,Mega Cap,Financials,Banks
+13,SBK,SBK.JO,Standard Bank Group Limited,538539999999,Mega Cap,Financials,Banks
+14,VAL,VAL.JO,Valterra Platinum Limited,377360000000,Mega Cap,Materials,Platinum Group Metals
+15,MTN,MTN.JO,MTN Group Limited,376680000000,Mega Cap,Communication Services,Wireless Telecom
+16,VOD,VOD.JO,Vodacom Group Limited,304500000000,Mega Cap,Communication Services,Wireless Telecom
+17,S32,S32.JO,South32 Limited,253670000000,Mega Cap,Materials,Diversified Mining
+18,HAR,HAR.JO,Harmony Gold Mining Company Limited,199330000000,Large Cap,Materials,Gold Mining
+19,ABG,ABG.JO,Absa Group Limited,191460000000,Large Cap,Financials,Banks
+20,IMP,IMP.JO,Impala Platinum Holdings Limited,191290000000,Large Cap,Materials,Platinum Group Metals
+21,SLM,SLM.JO,Sanlam Limited,186380000000,Large Cap,Financials,Life Insurance
+22,DSY,DSY.JO,Discovery Limited,177610000000,Large Cap,Financials,Life & Health Insurance
+23,SHP,SHP.JO,Shoprite Holdings Ltd,154740000000,Large Cap,Consumer Staples,Food Retail
+24,BID,BID.JO,Bid Corporation Limited,146150000000,Large Cap,Consumer Staples,Food Distribution & Wholesale
+25,NED,NED.JO,Nedbank Group Limited,134810000000,Large Cap,Financials,Banks
+26,OUT,OUT.JO,OUTsurance Group Limited,127960000000,Large Cap,Financials,Non-Life Insurance
+27,SSW,SSW.JO,Sibanye Stillwater Limited,122930000000,Large Cap,Materials,Precious Metals Mining
+28,INL,INL.JO,Investec Group,122560000000,Large Cap,Financials,Diversified Financial Services
+29,INP,INP.JO,Investec Group,122560000000,Large Cap,Financials,Diversified Financial Services
+30,SOL,SOL.JO,Sasol Limited,113810000000,Large Cap,Energy,Integrated Oil & Gas & Chemicals
+31,SOLBE1,SOLBE1.JO,Sasol Limited,113810000000,Large Cap,Energy,Integrated Oil & Gas & Chemicals
+32,REM,REM.JO,Remgro Limited,108370000000,Large Cap,Financials,Investment Holding Companies
+33,NRP,NRP.JO,NEPI Rockcastle N.V.,108010000000,Large Cap,Real Estate,Retail REITs
+34,NPH,NPH.JO,Northam Platinum Holdings Limited,106040000000,Large Cap,Materials,Platinum Group Metals
+35,MNP,MNP.JO,Mondi plc,88670000000,Large Cap,Materials,Paper & Packaging
+36,BVT,BVT.JO,The Bidvest Group Limited,84370000000,Large Cap,Industrials,Diversified Support Services
+37,RNI,RNI.JO,Reinet Investments S.C.A.,84300000000,Large Cap,Financials,Investment Holding Companies
+38,KIO,KIO.JO,Kumba Iron Ore Limited,83070000000,Large Cap,Materials,Iron Ore Mining
+39,PPH,PPH.JO,Pepkor Holdings Limited,80440000000,Large Cap,Consumer Discretionary,Apparel & Discount Retail
+40,APN,APN.JO,Aspen Pharmacare Holdings Limited,67580000000,Large Cap,Health Care,Pharmaceuticals
+41,GRT,GRT.JO,Growthpoint Properties Limited,59860000000,Large Cap,Real Estate,Diversified REITs
+42,QLT,QLT.JO,Quilter plc,58180000000,Large Cap,Financials,Asset Management
+43,SHC,SHC.JO,Shaftesbury Capital PLC,57940000000,Large Cap,Real Estate,Retail REITs
+44,CNP,CNP.JO,Canal+ SA,57270000000,Large Cap,Communication Services,Broadcasting
+45,OMU,OMU.JO,Old Mutual Limited,54750000000,Large Cap,Financials,Life Insurance
+46,PHP,PHP.JO,Primary Health Properties Plc,54320000000,Large Cap,Real Estate,Health Care REITs
+47,MTM,MTM.JO,Momentum Group Limited,53570000000,Large Cap,Financials,Life Insurance
+48,PAN,PAN.JO,Pan African Resources PLC,51050000000,Large Cap,Materials,Gold Mining
+49,CLS,CLS.JO,Clicks Group Limited,50510000000,Large Cap,Consumer Staples,Drug & Health Retail
+50,HMN,HMN.JO,Hammerson Plc,47670000000,Mid Cap,Real Estate,Retail REITs
+51,EXX,EXX.JO,Exxaro Resources Limited,46710000000,Mid Cap,Energy,Coal Mining
+52,MRP,MRP.JO,Mr Price Group Limited,46310000000,Mid Cap,Consumer Discretionary,Apparel Retail
+53,N91,N91.JO,Ninety One Group,46240000000,Mid Cap,Financials,Asset Management
+54,NY1,NY1.JO,Ninety One Group,46240000000,Mid Cap,Financials,Asset Management
+55,RDF,RDF.JO,Redefine Properties Limited,45430000000,Mid Cap,Real Estate,Diversified REITs
+56,SNT,SNT.JO,Santam Ltd,44680000000,Mid Cap,Financials,Non-Life Insurance
+57,KST,KST.JO,PSG Financial Services Limited,42240000000,Mid Cap,Financials,Diversified Financial Services
+58,WHL,WHL.JO,Woolworths Holdings Limited,41940000000,Mid Cap,Consumer Discretionary,Multiline Retail
+59,TBS,TBS.JO,Tiger Brands Limited,41230000000,Mid Cap,Consumer Staples,Packaged Foods
+60,ARI,ARI.JO,African Rainbow Minerals Limited,38830000000,Mid Cap,Materials,Diversified Mining
+61,BOX,BOX.JO,Boxer Retail Limited,35450000000,Mid Cap,Consumer Staples,Food Retail
+62,VKE,VKE.JO,Vukile Property Fund Limited,34210000000,Mid Cap,Real Estate,Diversified REITs
+63,SRE,SRE.JO,Sirius Real Estate Limited,34159999999,Mid Cap,Real Estate,Industrial REITs
+64,DRD,DRD.JO,DRDGOLD Limited,33150000000,Mid Cap,Materials,Gold Mining
+65,KRO,KRO.JO,Karooooo Ltd.,32380000000,Mid Cap,Information Technology,Software & IoT
+66,FFB,FFB.JO,Fortress Real Estate Investments Limited,30920000000,Mid Cap,Real Estate,Industrial & Logistics REITs
+67,AVI,AVI.JO,AVI Limited,30240000000,Mid Cap,Consumer Staples,Packaged Foods & Brands
+68,PMR,PMR.JO,Premier Group Limited,29960000000,Mid Cap,Consumer Staples,Packaged Foods
+69,RES,RES.JO,Resilient REIT Limited,27420000000,Mid Cap,Real Estate,Retail REITs
+70,TKG,TKG.JO,Telkom SA SOC Ltd,27180000000,Mid Cap,Communication Services,Integrated Telecom
+71,ADH,ADH.JO,ADvTECH Limited,26260000000,Mid Cap,Consumer Discretionary,Education Services
+72,SRI,SRI.JO,Supermarket Income REIT plc,25950000000,Mid Cap,Real Estate,Retail REITs
+73,DCP,DCP.JO,Dis-Chem Pharmacies Limited,25670000000,Mid Cap,Consumer Staples,Drug & Health Retail
+74,HYP,HYP.JO,Hyprop Investments Limited,24600000000,Mid Cap,Real Estate,Retail REITs
+75,APH,APH.JO,Alphamin Resources Corp.,23310000000,Mid Cap,Materials,Tin Mining
+76,NTC,NTC.JO,Netcare Limited,22360000000,Mid Cap,Health Care,Health Care Facilities
+77,BYI,BYI.JO,Bytes Technology Group plc,21190000000,Mid Cap,Information Technology,IT Services
+78,DTC,DTC.JO,Datatec Limited,20800000000,Mid Cap,Information Technology,IT Services & Hardware Distribution
+79,TRU,TRU.JO,Truworths International Limited,19590000000,Mid Cap,Consumer Discretionary,Apparel Retail
+80,MTH,MTH.JO,Motus Holdings Limited,19110000000,Mid Cap,Consumer Discretionary,Automotive Retail
+81,OPA,OPA.JO,Optasia Limited,18190000000,Mid Cap,Information Technology,Fintech Software
+82,TFG,TFG.JO,The Foschini Group Limited,18150000000,Mid Cap,Consumer Discretionary,Apparel Retail
+83,GND,GND.JO,Grindrod Limited,16940000000,Mid Cap,Industrials,Marine Transportation & Logistics
+84,LTE,LTE.JO,Lighthouse Properties p.l.c.,16640000000,Mid Cap,Real Estate,Retail REITs
+85,LHC,LHC.JO,Life Healthcare Group Holdings Limited,16640000000,Mid Cap,Health Care,Health Care Facilities
+86,OMN,OMN.JO,Omnia Holdings Limited,16500000000,Mid Cap,Materials,Specialty Chemicals
+87,GCT,GCT.JO,Greencoat Renewables PLC,15690000000,Mid Cap,Utilities,Renewable Electricity
+88,EQU,EQU.JO,Equites Property Fund Limited,15430000000,Mid Cap,Real Estate,Industrial & Logistics REITs
+89,CML,CML.JO,Coronation Fund Managers Limited,15290000000,Mid Cap,Financials,Asset Management
+90,FTA,FTA.JO,Fairvest Limited,14950000000,Mid Cap,Real Estate,Retail REITs
+91,FTB,FTB.JO,Fairvest Limited,14950000000,Mid Cap,Real Estate,Retail REITs
+92,MSP,MSP.JO,MAS P.L.C.,14340000000,Mid Cap,Real Estate,Retail REITs
+93,PIK,PIK.JO,Pick n Pay Stores Limited,13990000000,Mid Cap,Consumer Staples,Food Retail
+94,WBC,WBC.JO,We Buy Cars Holdings Limited,13430000000,Mid Cap,Consumer Discretionary,Automotive Retail
+95,HCI,HCI.JO,Hosken Consolidated Investments Limited,13300000000,Mid Cap,Financials,Investment Holding Companies
+96,SSU,SSU.JO,Southern Sun Limited,13290000000,Mid Cap,Consumer Discretionary,Hotels & Leisure
+97,AFE,AFE.JO,AECI Ltd,13180000000,Mid Cap,Materials,Specialty Chemicals
+98,JSE,JSE.JO,JSE Limited,12500000000,Mid Cap,Financials,Financial Exchanges & Data
+99,SUI,SUI.JO,Sun International Limited,12430000000,Mid Cap,Consumer Discretionary,Casinos & Gaming
+100,TGA,TGA.JO,Thungela Resources Limited,12250000000,Mid Cap,Energy,Coal Mining
+101,ATT,ATT.JO,Attacq Limited,12180000000,Mid Cap,Real Estate,Diversified REITs
+102,ITE,ITE.JO,Italtile Limited,11730000000,Mid Cap,Consumer Discretionary,Home Improvement Retail
+103,PPC,PPC.JO,PPC Ltd,11300000000,Mid Cap,Materials,Construction Materials
+104,ISO,ISO.JO,ASP Isotopes Inc.,10980000000,Mid Cap,Materials,Specialty Chemicals
+105,SDO,SDO.JO,Stadio Holdings Limited,10910000000,Mid Cap,Consumer Discretionary,Education Services
+106,CVW,CVW.JO,Castleview Property Fund Limited,10530000000,Mid Cap,Real Estate,Diversified REITs
+107,AEL,AEL.JO,Altron Limited,10530000000,Mid Cap,Information Technology,IT Services
+108,SAC,SAC.JO,SA Corporate Real Estate Limited,9520000000,Small Cap,Real Estate,Diversified REITs
+109,RLO,RLO.JO,Reunert Limited,9440000000,Small Cap,Industrials,Electrical Equipment
+110,PWR,PWR.JO,PowerFleet Inc.,9430000000,Small Cap,Information Technology,IoT Software
+111,AFH,AFH.JO,Alexander Forbes Group Holdings Limited,9410000000,Small Cap,Financials,Insurance Brokers & Financial Services
+112,SAP,SAP.JO,Sappi Limited,9280000000,Small Cap,Materials,Paper & Forest Products
+113,CCD,CCD.JO,Cell C Holdings Limited,9040000000,Small Cap,Communication Services,Wireless Telecom
+114,SPP,SPP.JO,The SPAR Group Ltd,8820000000,Small Cap,Consumer Staples,Food Distribution & Retail
+115,BAT,BAT.JO,Brait PLC,8690000000,Small Cap,Financials,Private Equity / Investment Holding
+116,OCE,OCE.JO,Oceana Group Limited,8600000000,Small Cap,Consumer Staples,Fish Processing & Packaged Foods
+117,SSS,SSS.JO,Stor-Age Property REIT Limited,8400000000,Small Cap,Real Estate,Self Storage REITs
+118,CAA,CAA.JO,CA Sales Holdings Limited,8350000000,Small Cap,Consumer Staples,FMCG Distribution
+119,HET,HET.JO,Heriot REIT Limited,8300000000,Small Cap,Real Estate,Diversified REITs
+120,ARL,ARL.JO,Astral Foods Limited,8199999999,Small Cap,Consumer Staples,Poultry & Agri Products
+121,WBO,WBO.JO,Wilson Bayly Holmes-Ovcon Limited,8160000000,Small Cap,Industrials,Construction & Engineering
+122,RBX,RBX.JO,Raubex Group Limited,7960000000,Small Cap,Industrials,Construction & Engineering
+123,BLU,BLU.JO,Blu Label Unlimited Group Limited,7900000000,Small Cap,Information Technology,IT & Prepaid Distribution
+124,BTN,BTN.JO,Burstone Group Limited,7760000000,Small Cap,Real Estate,Industrial & Logistics REITs
+125,THA,THA.JO,Tharisa plc,7630000000,Small Cap,Materials,Platinum Group Metals & Chrome
+126,RCL,RCL.JO,RCL Foods Limited,7370000000,Small Cap,Consumer Staples,Packaged Foods
+127,TSG,TSG.JO,Tsogo Sun Limited,7340000000,Small Cap,Consumer Discretionary,Casinos & Gaming
+128,DIB,DIB.JO,Dipula Properties Limited,7270000000,Small Cap,Real Estate,Diversified REITs
+129,SPG,SPG.JO,Super Group Limited,7140000000,Small Cap,Industrials,Transportation & Logistics
+130,KAP,KAP.JO,KAP Limited,6600000000,Small Cap,Industrials,Diversified Industrials
+131,LSK,LSK.JO,Lesaka Technologies Inc.,6580000000,Small Cap,Information Technology,Fintech Software
+132,EMI,EMI.JO,Emira Property Fund Limited,6240000000,Small Cap,Real Estate,Diversified REITs
+133,EXP,EXP.JO,Exemplar REITail Limited,6070000000,Small Cap,Real Estate,Retail REITs
+134,GTC,GTC.JO,Globe Trade Centre S.A.,5790000000,Small Cap,Real Estate,Diversified REITs
+135,WVR,WVR.JO,Weaver Fintech Ltd,5610000000,Small Cap,Information Technology,Fintech Software
+136,HDC,HDC.JO,Hudaco Industries Limited,5340000000,Small Cap,Industrials,Industrial Distribution
+137,RBO,RBO.JO,Rainbow Chicken Limited,5290000000,Small Cap,Consumer Staples,Poultry
+138,SEA,SEA.JO,Spear Reit Limited,5290000000,Small Cap,Real Estate,Diversified REITs
+139,FBR,FBR.JO,Famous Brands Limited,5290000000,Small Cap,Consumer Discretionary,Restaurants
+140,SBP,SBP.JO,Sabvest Capital Limited,5190000000,Small Cap,Financials,Investment Holding Companies
+141,SYG,SYG.JO,Sygnia Limited,4940000000,Small Cap,Financials,Asset Management
+142,OCT,OCT.JO,Octodec Investments Limited,4660000000,Small Cap,Real Estate,Diversified REITs
+143,LEW,LEW.JO,Lewis Group Limited,4240000000,Small Cap,Consumer Discretionary,Furniture Retail
+144,CAT,CAT.JO,Caxton and CTP Publishers and Printers Limited,4210000000,Small Cap,Communication Services,Publishing
+145,AFT,AFT.JO,Afrimat Limited,4139999999,Small Cap,Materials,Construction Materials & Mining
+146,MKR,MKR.JO,Montauk Renewables Inc.,4120000000,Small Cap,Utilities,Renewable Energy
+147,OAO,OAO.JO,Oando PLC,4059999999,Small Cap,Energy,Oil & Gas Exploration & Production
+148,BEL,BEL.JO,Bell Equipment Limited,3730000000,Small Cap,Industrials,Machinery
+149,NPK,NPK.JO,Nampak Limited,3710000000,Small Cap,Materials,Packaging
+150,CPP,CPP.JO,Collins Property Group Limited,3700000000,Small Cap,Real Estate,Diversified REITs
+151,KP2,KP2.JO,Kore Potash plc,3670000000,Small Cap,Materials,Fertilizer & Potash Mining
+152,KAL,KAL.JO,KAL Group Limited,3540000000,Small Cap,Consumer Staples,Agriculture
+153,YYLBEE,YYLBEE.JO,YeboYethu (RF) Limited,3440000000,Small Cap,Communication Services,Wireless Telecom (Vodacom BEE)
+154,MRF,MRF.JO,Merafe Resources Limited,3350000000,Small Cap,Materials,Ferrochrome Mining
+155,CHP,CHP.JO,Choppies Enterprises Limited,3320000000,Small Cap,Consumer Staples,Food Retail
+156,SUR,SUR.JO,Spur Corporation Ltd,3300000000,Small Cap,Consumer Discretionary,Restaurants
+157,IVT,IVT.JO,Invicta Holdings Limited,3190000000,Small Cap,Industrials,Industrial Distribution & Equipment
+158,ZZD,ZZD.JO,Zeda Limited,2920000000,Small Cap,Consumer Discretionary,Automotive Retail & Rental
+159,CMH,CMH.JO,Combined Motor Holdings Limited,2870000000,Small Cap,Consumer Discretionary,Automotive Retail
+160,AII,AII.JO,Aimia Inc.,2870000000,Small Cap,Financials,Investment Holding Companies
+161,PPE,PPE.JO,Purple Group Limited,2740000000,Small Cap,Financials,Brokerage & Fintech
+162,SDL,SDL.JO,Southern Palladium Limited,2690000000,Small Cap,Materials,Platinum Group Metals (Exploration)
+163,SHG,SHG.JO,Sea Harvest Group Limited,2660000000,Small Cap,Consumer Staples,Fish Processing
+164,IOC,IOC.JO,iOCO Limited,2570000000,Small Cap,Information Technology,IT Services
+165,MCZ,MCZ.JO,MC Mining Limited,2560000000,Small Cap,Energy,Coal Mining
+166,MPT,MPT.JO,Mpact Limited,2530000000,Small Cap,Materials,Paper & Packaging
+167,LBR,LBR.JO,Libstar Holdings Limited,2490000000,Small Cap,Consumer Staples,Packaged Foods
+168,CLH,CLH.JO,City Lodge Hotels Limited,2480000000,Small Cap,Consumer Discretionary,Hotels
+169,CSB,CSB.JO,Cashbuild Limited,2430000000,Small Cap,Consumer Discretionary,Home Improvement Retail
+170,MDI,MDI.JO,Master Drilling Group Limited,2410000000,Small Cap,Industrials,Mining Services
+171,ORN,ORN.JO,Orion Minerals Limited,2350000000,Small Cap,Materials,Base Metals Mining
+172,ACS,ACS.JO,Acsion Limited,2340000000,Small Cap,Real Estate,Diversified REITs
+173,ART,ART.JO,Argent Industrial Limited,2120000000,Small Cap,Industrials,Diversified Industrials
+174,AXX,AXX.JO,Araxi Limited,2069999999,Small Cap,Financials,Investment Holding Companies
+175,ACL,ACL.JO,ArcelorMittal South Africa Limited,2020000000,Small Cap,Materials,Steel
+176,BWN,BWN.JO,Balwin Properties Limited,1990000000,Micro Cap,Real Estate,Residential Real Estate Development
+177,NVS,NVS.JO,Novus Holdings Limited,1960000000,Micro Cap,Communication Services,Printing & Publishing
+178,FTH,FTH.JO,Frontier Transport Holdings Limited,1920000000,Micro Cap,Industrials,Transportation & Logistics
+179,OAS,OAS.JO,Oasis Crescent Property Fund,1920000000,Micro Cap,Real Estate,Diversified REITs
+180,SCD,SCD.JO,Schroder European Real Estate Investment Trust Plc,1840000000,Micro Cap,Real Estate,Diversified REITs
+181,JBL,JBL.JO,Jubilee Metals Group PLC,1760000000,Micro Cap,Materials,PGM & Copper Processing
+182,QFH,QFH.JO,Quantum Foods Holdings Ltd,1730000000,Micro Cap,Consumer Staples,Poultry & Eggs
+183,ZED,ZED.JO,Zeder Investments Ltd.,1650000000,Micro Cap,Consumer Staples,Agribusiness Investment Holding
+184,UPL,UPL.JO,Universal Partners Limited,1430000000,Micro Cap,Financials,Investment Holding Companies
+185,MMP,MMP.JO,Marshall Monteagle PLC,1430000000,Micro Cap,Consumer Staples,Agri Trading & Investment Holding
+186,SZK,SZK.JO,SAB Zenzele Kabili Holdings (RF) Limited,1380000000,Micro Cap,Consumer Staples,Brewers (BEE Scheme)
+187,BRN,BRN.JO,Brimstone Investment Corporation Limited,1300000000,Micro Cap,Financials,Investment Holding Companies
+188,BRT,BRT.JO,Brimstone Investment Corporation Limited,1300000000,Micro Cap,Financials,Investment Holding Companies
+189,GML,GML.JO,Gemfields Group Limited,1280000000,Micro Cap,Materials,Gemstone Mining
+190,TPC,TPC.JO,Transpaco Limited,1130000000,Micro Cap,Materials,Packaging
+191,DNB,DNB.JO,Deneb Investments Limited,1100000000,Micro Cap,Consumer Discretionary,Textiles & Diversified Industrial
+192,EMH,EMH.JO,eMedia Holdings Limited,1100000000,Micro Cap,Communication Services,Broadcasting
+193,EMN,EMN.JO,eMedia Holdings Limited,1100000000,Micro Cap,Communication Services,Broadcasting
+194,SSK,SSK.JO,Stefanutti Stocks Holdings Limited,1080000000,Micro Cap,Industrials,Construction & Engineering
+195,EPS,EPS.JO,Eastern Platinum Limited,1060000000,Micro Cap,Materials,Platinum Group Metals
+196,SNV,SNV.JO,Santova Limited,1040000000,Micro Cap,Industrials,Freight & Logistics
+197,YRK,YRK.JO,York Timber Holdings Limited,1020000000,Micro Cap,Materials,Forest Products & Timber
+198,MTA,MTA.JO,Metair Investments Limited,970890000,Micro Cap,Consumer Discretionary,Auto Parts
+199,BCF,BCF.JO,Bowler Metcalf Limited,943710000,Micro Cap,Materials,Packaging
+200,APF,APF.JO,Accelerate Property Fund Limited,920470000,Micro Cap,Real Estate,Diversified REITs
+201,TEX,TEX.JO,Texton Property Fund Limited,894300000,Micro Cap,Real Estate,Diversified REITs
+202,MST,MST.JO,Mustek Limited,825510000,Micro Cap,Information Technology,IT Hardware Distribution
+203,GPL,GPL.JO,Grand Parade Investments Limited,812110000,Micro Cap,Consumer Discretionary,Investment Holding (Gaming/Restaurants)
+204,EPE,EPE.JO,EPE Capital Partners Ltd,729520000,Micro Cap,Financials,Private Equity
+205,WEZ,WEZ.JO,Wesizwe Platinum Limited,716240000,Micro Cap,Materials,Platinum Group Metals (Development)
+206,ADR,ADR.JO,Adcorp Holdings Limited,713290000,Micro Cap,Industrials,Staffing & Employment Services
+207,ACT,ACT.JO,AfroCentric Investment Corporation Limited,695830000,Micro Cap,Health Care,Managed Health Care
+208,HLM,HLM.JO,Hulamin Limited,673420000,Micro Cap,Materials,Aluminium Products
+209,NTU,NTU.JO,Nutun Limited,640130000,Micro Cap,Industrials,Business Process Outsourcing
+210,PBG,PBG.JO,PBT Holdings Limited,639290000,Micro Cap,Information Technology,IT Consulting
+211,PBT,PBT.JO,PBT Holdings Limited,639290000,Micro Cap,Information Technology,IT Consulting
+212,RMH,RMH.JO,RMB Holdings Limited,580220000,Micro Cap,Financials,Investment Holding Companies
+213,AEG,AEG.JO,Aveng Limited,576490000,Micro Cap,Industrials,Construction & Engineering
+214,NWL,NWL.JO,Nu-World Holdings Limited,568910000,Micro Cap,Consumer Discretionary,Consumer Electronics & Appliances
+215,AME,AME.JO,African Media Entertainment Limited,489920000,Micro Cap,Communication Services,Broadcasting
+216,NRL,NRL.JO,Newpark REIT Limited,470000000,Micro Cap,Real Estate,Diversified REITs
+217,ENX,ENX.JO,enX Group Limited,447980000,Micro Cap,Industrials,Industrial Equipment & Distribution
+218,FGL,FGL.JO,Finbond Group Limited,413370000,Micro Cap,Financials,Consumer Finance
+219,VUN,VUN.JO,Vunani Limited,402650000,Micro Cap,Financials,Diversified Financial Services
+220,4SI,4SI.JO,4Sight Holdings Limited,395670000,Micro Cap,Information Technology,Software
+221,SEP,SEP.JO,Sephaku Holdings Limited,394860000,Micro Cap,Materials,Construction Materials
+222,SLG,SLG.JO,Salungano Group Limited,391650000,Micro Cap,Energy,Coal Mining & Logistics
+223,CGR,CGR.JO,Calgro M3 Holdings Limited,381520000,Micro Cap,Real Estate,Residential Real Estate Development
+224,CPR,CPR.JO,Copper 360 Limited,366730000,Micro Cap,Materials,Copper Mining
+225,ANI,ANI.JO,Afine Investments Limited,362680000,Micro Cap,Real Estate,Diversified REITs
+226,ISA,ISA.JO,ISA Holdings Limited,311990000,Micro Cap,Industrials,Facilities & Cleaning Services
+227,RTN,RTN.JO,Rex Trueform Group Limited,310080000,Micro Cap,Consumer Discretionary,Apparel Manufacturing
+228,RTO,RTO.JO,Rex Trueform Group Limited,310080000,Micro Cap,Consumer Discretionary,Apparel Manufacturing
+229,PPR,PPR.JO,Putprop Limited,295990000,Micro Cap,Real Estate,Diversified REITs
+230,CCC,CCC.JO,Cilo Cybin Holdings Limited,288090000,Micro Cap,Health Care,Pharmaceuticals (Cannabis)
+231,TTO,TTO.JO,Trustco Group Holdings Limited,282370000,Micro Cap,Financials,Diversified Financial Services
+232,DLT,DLT.JO,Delta Property Fund Limited,278550000,Micro Cap,Real Estate,Diversified REITs
+233,CKS,CKS.JO,Crookes Brothers Limited,272320000,Micro Cap,Consumer Staples,Agriculture
+234,CAC,CAC.JO,CAFCA Limited,268200000,Micro Cap,Industrials,Electrical Cable Manufacturing
+235,TMT,TMT.JO,Trematon Capital Investments Limited,258339999,Micro Cap,Financials,Investment Holding Companies
+236,ISB,ISB.JO,Insimbi Industrial Holdings Limited,252290000,Micro Cap,Materials,Metal Recycling & Alloys
+237,RNG,RNG.JO,Randgold & Exploration Company Limited,246970000,Micro Cap,Materials,Gold Mining
+238,MHB,MHB.JO,Mahube Infrastructure Limited,242660000,Micro Cap,Utilities,Renewable Energy Investment
+239,HUG,HUG.JO,Huge Group Limited,198450000,Micro Cap,Communication Services,Telecom Services
+240,PMV,PMV.JO,Primeserv Group Limited,194880000,Micro Cap,Industrials,Staffing Services
+241,AON,AON.JO,African and Overseas Enterprises Limited,173540000,Micro Cap,Consumer Discretionary,Textiles & Investment Holding
+242,AOO,AOO.JO,African and Overseas Enterprises Limited,173540000,Micro Cap,Consumer Discretionary,Textiles & Investment Holding
+243,SOH,SOH.JO,South Ocean Holdings Limited,157980000,Micro Cap,Consumer Discretionary,Consumer Products Manufacturing
+244,SEB,SEB.JO,Sebata Holdings Limited,156280000,Micro Cap,Information Technology,Software (Municipal Services)
+245,NCS,NCS.JO,Nictus Limited,154990000,Micro Cap,Consumer Discretionary,Furniture Retail
+246,RHB,RHB.JO,RH Bophelo Limited,129380000,Micro Cap,Health Care,Health Care Facilities & Investment
+247,BIK,BIK.JO,Brikor Limited,129030000,Micro Cap,Materials,Building Materials
+248,XII,XII.JO,Numeral Limited,120580000,Micro Cap,Information Technology,Software
+249,TRL,TRL.JO,Trellidor Holdings Limited,117110000,Micro Cap,Industrials,Building Products (Security)
+250,SKA,SKA.JO,Shuka Minerals Plc,80080000,Micro Cap,Materials,Mining Exploration
+251,MTU,MTU.JO,Mantengu Limited,74750000,Micro Cap,Materials,Mining (Chrome & Coal)
+252,TLM,TLM.JO,TeleMasters Holdings Limited,56540000,Micro Cap,Communication Services,Telecom Services
+253,BAC,BAC.JO,Africa Bitcoin Corporation Limited,54450000,Micro Cap,Financials,Digital Assets & Investment
+254,LAB,LAB.JO,Labat Africa Limited,37470000,Micro Cap,Health Care,Pharmaceuticals (Cannabis)
+255,VIS,VIS.JO,Visual International Holdings Limited,35830000,Micro Cap,Consumer Discretionary,Furniture Manufacturing
+256,EUZ,EUZ.JO,Europa Metals Limited,32689999,Micro Cap,Materials,Mining Exploration
+257,EEL,EEL.JO,Efora Energy Limited,22080000,Micro Cap,Energy,Oil & Gas Exploration & Production
+258,ADW,ADW.JO,African Dawn Capital Limited,9560000,Micro Cap,Financials,Diversified Financial Services
+259,SXM,SXM.JO,Sable Exploration and Mining Limited,3390000,Micro Cap,Materials,Mining Exploration

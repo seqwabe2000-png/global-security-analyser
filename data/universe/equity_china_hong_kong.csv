@@ -1,0 +1,30 @@
+asset_class,market,symbol,yf_ticker,name,gics_sector,industry,currency,market_cap_tier,market_cap_usd_bn
+Equity,China/Hong Kong,0700,0700.HK,Tencent Holdings Ltd.,Communication Services,Interactive Media,HKD,Mega Cap,500.0
+Equity,China/Hong Kong,9988,9988.HK,Alibaba Group Holding Ltd.,Consumer Discretionary,Internet Retail,HKD,Mega Cap,280.0
+Equity,China/Hong Kong,0005,0005.HK,HSBC Holdings plc,Financials,Diversified Banks,HKD,Large Cap,170.0
+Equity,China/Hong Kong,1299,1299.HK,AIA Group Ltd.,Financials,Life Insurance,HKD,Large Cap,85.0
+Equity,China/Hong Kong,3690,3690.HK,Meituan,Consumer Discretionary,Internet Retail,HKD,Large Cap,85.0
+Equity,China/Hong Kong,0939,0939.HK,China Construction Bank Corp.,Financials,Diversified Banks,HKD,Large Cap,190.0
+Equity,China/Hong Kong,1398,1398.HK,Industrial and Commercial Bank of China,Financials,Diversified Banks,HKD,Mega Cap,220.0
+Equity,China/Hong Kong,3988,3988.HK,Bank of China Ltd.,Financials,Diversified Banks,HKD,Large Cap,150.0
+Equity,China/Hong Kong,0941,0941.HK,China Mobile Ltd.,Communication Services,Wireless Telecom,HKD,Mega Cap,210.0
+Equity,China/Hong Kong,0883,0883.HK,CNOOC Ltd.,Energy,Oil & Gas E&P,HKD,Large Cap,90.0
+Equity,China/Hong Kong,0857,0857.HK,PetroChina Company Ltd.,Energy,Integrated Oil & Gas,HKD,Mega Cap,200.0
+Equity,China/Hong Kong,2318,2318.HK,Ping An Insurance Group,Financials,Life Insurance,HKD,Large Cap,110.0
+Equity,China/Hong Kong,9618,9618.HK,JD.com Inc.,Consumer Discretionary,Internet Retail,HKD,Large Cap,55.0
+Equity,China/Hong Kong,9999,9999.HK,NetEase Inc.,Communication Services,Interactive Home Entertainment,HKD,Large Cap,65.0
+Equity,China/Hong Kong,1810,1810.HK,Xiaomi Corporation,Information Technology,Technology Hardware,HKD,Large Cap,150.0
+Equity,China/Hong Kong,1211,1211.HK,BYD Company Ltd.,Consumer Discretionary,Automobiles,HKD,Large Cap,130.0
+Equity,China/Hong Kong,2628,2628.HK,China Life Insurance Company,Financials,Life Insurance,HKD,Large Cap,90.0
+Equity,China/Hong Kong,0386,0386.HK,China Petroleum & Chemical (Sinopec),Energy,Integrated Oil & Gas,HKD,Large Cap,60.0
+Equity,China/Hong Kong,0388,0388.HK,Hong Kong Exchanges and Clearing,Financials,Financial Exchanges & Data,HKD,Large Cap,55.0
+Equity,China/Hong Kong,0016,0016.HK,Sun Hung Kai Properties Ltd.,Real Estate,Diversified Real Estate,HKD,Mid Cap,25.0
+Equity,China/Hong Kong,0001,0001.HK,CK Hutchison Holdings Ltd.,Industrials,Diversified Support Services,HKD,Mid Cap,20.0
+Equity,China/Hong Kong,0823,0823.HK,Link Real Estate Investment Trust,Real Estate,Diversified REITs,HKD,Mid Cap,12.0
+Equity,China/Hong Kong,0027,0027.HK,Galaxy Entertainment Group,Consumer Discretionary,Casinos & Gaming,HKD,Mid Cap,20.0
+Equity,China/Hong Kong,1928,1928.HK,Sands China Ltd.,Consumer Discretionary,Casinos & Gaming,HKD,Mid Cap,20.0
+Equity,China/Hong Kong,3968,3968.HK,China Merchants Bank,Financials,Diversified Banks,HKD,Large Cap,130.0
+Equity,China/Hong Kong,0175,0175.HK,Geely Automobile Holdings,Consumer Discretionary,Automobiles,HKD,Mid Cap,22.0
+Equity,China/Hong Kong,2015,2015.HK,Li Auto Inc.,Consumer Discretionary,Automobiles,HKD,Mid Cap,25.0
+Equity,China/Hong Kong,1024,1024.HK,Kuaishou Technology,Communication Services,Interactive Media,HKD,Mid Cap,25.0
+Equity,China/Hong Kong,2020,2020.HK,Anta Sports Products Ltd.,Consumer Discretionary,Apparel,HKD,Mid Cap,20.0

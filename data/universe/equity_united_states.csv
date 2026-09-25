@@ -1,0 +1,123 @@
+asset_class,market,symbol,yf_ticker,name,gics_sector,industry,currency,market_cap_tier,market_cap_usd_bn
+Equity,United States,AAPL,AAPL,Apple Inc.,Information Technology,Technology Hardware,USD,Mega Cap,3400.0
+Equity,United States,MSFT,MSFT,Microsoft Corporation,Information Technology,Systems Software,USD,Mega Cap,3200.0
+Equity,United States,NVDA,NVDA,NVIDIA Corporation,Information Technology,Semiconductors,USD,Mega Cap,3600.0
+Equity,United States,GOOGL,GOOGL,Alphabet Inc.,Communication Services,Interactive Media,USD,Mega Cap,2400.0
+Equity,United States,AMZN,AMZN,Amazon.com Inc.,Consumer Discretionary,Internet Retail,USD,Mega Cap,2300.0
+Equity,United States,META,META,Meta Platforms Inc.,Communication Services,Interactive Media,USD,Mega Cap,1600.0
+Equity,United States,AVGO,AVGO,Broadcom Inc.,Information Technology,Semiconductors,USD,Mega Cap,1300.0
+Equity,United States,TSLA,TSLA,Tesla Inc.,Consumer Discretionary,Automobiles,USD,Mega Cap,1100.0
+Equity,United States,ORCL,ORCL,Oracle Corporation,Information Technology,Software,USD,Mega Cap,550.0
+Equity,United States,CRM,CRM,Salesforce Inc.,Information Technology,Software,USD,Mega Cap,290.0
+Equity,United States,ADBE,ADBE,Adobe Inc.,Information Technology,Software,USD,Mega Cap,220.0
+Equity,United States,AMD,AMD,Advanced Micro Devices,Information Technology,Semiconductors,USD,Mega Cap,260.0
+Equity,United States,CSCO,CSCO,Cisco Systems Inc.,Information Technology,Communications Equipment,USD,Mega Cap,250.0
+Equity,United States,IBM,IBM,International Business Machines,Information Technology,IT Services,USD,Mega Cap,230.0
+Equity,United States,QCOM,QCOM,Qualcomm Inc.,Information Technology,Semiconductors,USD,Large Cap,190.0
+Equity,United States,TXN,TXN,Texas Instruments,Information Technology,Semiconductors,USD,Large Cap,180.0
+Equity,United States,INTC,INTC,Intel Corporation,Information Technology,Semiconductors,USD,Large Cap,110.0
+Equity,United States,NFLX,NFLX,Netflix Inc.,Communication Services,Entertainment,USD,Mega Cap,400.0
+Equity,United States,DIS,DIS,Walt Disney Company,Communication Services,Entertainment,USD,Mega Cap,210.0
+Equity,United States,CMCSA,CMCSA,Comcast Corporation,Communication Services,Media,USD,Large Cap,150.0
+Equity,United States,TMUS,TMUS,T-Mobile US Inc.,Communication Services,Wireless Telecom,USD,Mega Cap,260.0
+Equity,United States,VZ,VZ,Verizon Communications,Communication Services,Telecom Services,USD,Large Cap,180.0
+Equity,United States,T,T,AT&T Inc.,Communication Services,Telecom Services,USD,Large Cap,190.0
+Equity,United States,JPM,JPM,JPMorgan Chase & Co.,Financials,Diversified Banks,USD,Mega Cap,700.0
+Equity,United States,BAC,BAC,Bank of America Corp.,Financials,Diversified Banks,USD,Mega Cap,330.0
+Equity,United States,WFC,WFC,Wells Fargo & Company,Financials,Diversified Banks,USD,Mega Cap,240.0
+Equity,United States,GS,GS,Goldman Sachs Group,Financials,Investment Banking,USD,Mega Cap,220.0
+Equity,United States,MS,MS,Morgan Stanley,Financials,Investment Banking,USD,Mega Cap,210.0
+Equity,United States,C,C,Citigroup Inc.,Financials,Diversified Banks,USD,Large Cap,160.0
+Equity,United States,V,V,Visa Inc.,Financials,Payments,USD,Mega Cap,650.0
+Equity,United States,MA,MA,Mastercard Inc.,Financials,Payments,USD,Mega Cap,480.0
+Equity,United States,AXP,AXP,American Express Co.,Financials,Consumer Finance,USD,Mega Cap,210.0
+Equity,United States,BLK,BLK,BlackRock Inc.,Financials,Asset Management,USD,Large Cap,150.0
+Equity,United States,SCHW,SCHW,Charles Schwab Corp.,Financials,Capital Markets,USD,Large Cap,160.0
+Equity,United States,BRK-B,BRK-B,Berkshire Hathaway Inc.,Financials,Multi-line Insurance,USD,Mega Cap,1050.0
+Equity,United States,PGR,PGR,Progressive Corporation,Financials,Property & Casualty Insurance,USD,Large Cap,150.0
+Equity,United States,UNH,UNH,UnitedHealth Group Inc.,Health Care,Managed Health Care,USD,Mega Cap,320.0
+Equity,United States,JNJ,JNJ,Johnson & Johnson,Health Care,Pharmaceuticals,USD,Mega Cap,400.0
+Equity,United States,LLY,LLY,Eli Lilly and Company,Health Care,Pharmaceuticals,USD,Mega Cap,800.0
+Equity,United States,ABBV,ABBV,AbbVie Inc.,Health Care,Biotechnology,USD,Mega Cap,380.0
+Equity,United States,PFE,PFE,Pfizer Inc.,Health Care,Pharmaceuticals,USD,Large Cap,150.0
+Equity,United States,MRK,MRK,Merck & Co. Inc.,Health Care,Pharmaceuticals,USD,Mega Cap,260.0
+Equity,United States,ABT,ABT,Abbott Laboratories,Health Care,Health Care Equipment,USD,Mega Cap,220.0
+Equity,United States,TMO,TMO,Thermo Fisher Scientific,Health Care,Life Sciences Tools,USD,Mega Cap,210.0
+Equity,United States,DHR,DHR,Danaher Corporation,Health Care,Life Sciences Tools,USD,Large Cap,170.0
+Equity,United States,AMGN,AMGN,Amgen Inc.,Health Care,Biotechnology,USD,Large Cap,160.0
+Equity,United States,ISRG,ISRG,Intuitive Surgical,Health Care,Health Care Equipment,USD,Large Cap,190.0
+Equity,United States,PG,PG,Procter & Gamble Co.,Consumer Staples,Household Products,USD,Mega Cap,400.0
+Equity,United States,KO,KO,Coca-Cola Company,Consumer Staples,Soft Drinks,USD,Mega Cap,300.0
+Equity,United States,PEP,PEP,PepsiCo Inc.,Consumer Staples,Soft Drinks,USD,Mega Cap,220.0
+Equity,United States,COST,COST,Costco Wholesale Corp.,Consumer Staples,Food Retail,USD,Mega Cap,450.0
+Equity,United States,WMT,WMT,Walmart Inc.,Consumer Staples,Food Retail,USD,Mega Cap,800.0
+Equity,United States,PM,PM,Philip Morris International,Consumer Staples,Tobacco,USD,Mega Cap,250.0
+Equity,United States,MO,MO,Altria Group Inc.,Consumer Staples,Tobacco,USD,Large Cap,90.0
+Equity,United States,MDLZ,MDLZ,Mondelez International,Consumer Staples,Packaged Foods,USD,Large Cap,90.0
+Equity,United States,CL,CL,Colgate-Palmolive Co.,Consumer Staples,Household Products,USD,Large Cap,75.0
+Equity,United States,HD,HD,Home Depot Inc.,Consumer Discretionary,Home Improvement Retail,USD,Mega Cap,400.0
+Equity,United States,LOW,LOW,Lowe's Companies Inc.,Consumer Discretionary,Home Improvement Retail,USD,Large Cap,140.0
+Equity,United States,MCD,MCD,McDonald's Corporation,Consumer Discretionary,Restaurants,USD,Mega Cap,220.0
+Equity,United States,SBUX,SBUX,Starbucks Corporation,Consumer Discretionary,Restaurants,USD,Large Cap,110.0
+Equity,United States,NKE,NKE,Nike Inc.,Consumer Discretionary,Apparel,USD,Large Cap,100.0
+Equity,United States,TJX,TJX,TJX Companies Inc.,Consumer Discretionary,Apparel Retail,USD,Large Cap,140.0
+Equity,United States,BKNG,BKNG,Booking Holdings Inc.,Consumer Discretionary,Travel Services,USD,Large Cap,170.0
+Equity,United States,XOM,XOM,Exxon Mobil Corporation,Energy,Integrated Oil & Gas,USD,Mega Cap,500.0
+Equity,United States,CVX,CVX,Chevron Corporation,Energy,Integrated Oil & Gas,USD,Mega Cap,290.0
+Equity,United States,COP,COP,ConocoPhillips,Energy,Oil & Gas E&P,USD,Large Cap,140.0
+Equity,United States,SLB,SLB,Schlumberger (SLB),Energy,Oil & Gas Equipment,USD,Large Cap,60.0
+Equity,United States,EOG,EOG,EOG Resources Inc.,Energy,Oil & Gas E&P,USD,Large Cap,75.0
+Equity,United States,GE,GE,GE Aerospace,Industrials,Aerospace & Defense,USD,Mega Cap,260.0
+Equity,United States,RTX,RTX,RTX Corporation,Industrials,Aerospace & Defense,USD,Large Cap,180.0
+Equity,United States,BA,BA,Boeing Company,Industrials,Aerospace & Defense,USD,Large Cap,120.0
+Equity,United States,HON,HON,Honeywell International,Industrials,Industrial Conglomerates,USD,Large Cap,140.0
+Equity,United States,CAT,CAT,Caterpillar Inc.,Industrials,Construction Machinery,USD,Large Cap,190.0
+Equity,United States,DE,DE,Deere & Company,Industrials,Agricultural Machinery,USD,Large Cap,130.0
+Equity,United States,UPS,UPS,United Parcel Service,Industrials,Air Freight & Logistics,USD,Large Cap,90.0
+Equity,United States,UNP,UNP,Union Pacific Corp.,Industrials,Rail Transportation,USD,Large Cap,150.0
+Equity,United States,LMT,LMT,Lockheed Martin Corp.,Industrials,Aerospace & Defense,USD,Large Cap,120.0
+Equity,United States,LIN,LIN,Linde plc,Materials,Industrial Gases,USD,Mega Cap,220.0
+Equity,United States,SHW,SHW,Sherwin-Williams Co.,Materials,Specialty Chemicals,USD,Large Cap,90.0
+Equity,United States,FCX,FCX,Freeport-McMoRan Inc.,Materials,Copper,USD,Large Cap,65.0
+Equity,United States,NEM,NEM,Newmont Corporation,Materials,Gold Mining,USD,Large Cap,60.0
+Equity,United States,APD,APD,Air Products and Chemicals,Materials,Industrial Gases,USD,Large Cap,65.0
+Equity,United States,NEE,NEE,NextEra Energy Inc.,Utilities,Electric Utilities,USD,Large Cap,160.0
+Equity,United States,SO,SO,Southern Company,Utilities,Electric Utilities,USD,Large Cap,100.0
+Equity,United States,DUK,DUK,Duke Energy Corp.,Utilities,Electric Utilities,USD,Large Cap,95.0
+Equity,United States,AEP,AEP,American Electric Power,Utilities,Electric Utilities,USD,Large Cap,55.0
+Equity,United States,EXC,EXC,Exelon Corporation,Utilities,Electric Utilities,USD,Mid Cap,45.0
+Equity,United States,PLD,PLD,Prologis Inc.,Real Estate,Industrial REITs,USD,Large Cap,110.0
+Equity,United States,AMT,AMT,American Tower Corp.,Real Estate,Specialized REITs,USD,Large Cap,100.0
+Equity,United States,EQIX,EQIX,Equinix Inc.,Real Estate,Specialized REITs,USD,Large Cap,90.0
+Equity,United States,SPG,SPG,Simon Property Group,Real Estate,Retail REITs,USD,Large Cap,65.0
+Equity,United States,O,O,Realty Income Corp.,Real Estate,Retail REITs,USD,Large Cap,50.0
+Equity,United States,PANW,PANW,Palo Alto Networks,Information Technology,Systems Software,USD,Large Cap,130.0
+Equity,United States,NOW,NOW,ServiceNow Inc.,Information Technology,Software,USD,Mega Cap,210.0
+Equity,United States,INTU,INTU,Intuit Inc.,Information Technology,Software,USD,Large Cap,190.0
+Equity,United States,AMAT,AMAT,Applied Materials Inc.,Information Technology,Semiconductor Equipment,USD,Large Cap,170.0
+Equity,United States,MU,MU,Micron Technology Inc.,Information Technology,Semiconductors,USD,Large Cap,150.0
+Equity,United States,UBER,UBER,Uber Technologies Inc.,Industrials,Passenger Ground Transportation,USD,Large Cap,180.0
+Equity,United States,PYPL,PYPL,PayPal Holdings Inc.,Financials,Payments,USD,Large Cap,75.0
+Equity,United States,ADP,ADP,Automatic Data Processing,Industrials,Human Resource Services,USD,Large Cap,130.0
+Equity,United States,SPGI,SPGI,S&P Global Inc.,Financials,Financial Exchanges & Data,USD,Large Cap,160.0
+Equity,United States,ICE,ICE,Intercontinental Exchange,Financials,Financial Exchanges & Data,USD,Large Cap,100.0
+Equity,United States,CME,CME,CME Group Inc.,Financials,Financial Exchanges & Data,USD,Large Cap,90.0
+Equity,United States,ETN,ETN,Eaton Corporation plc,Industrials,Electrical Equipment,USD,Large Cap,140.0
+Equity,United States,EMR,EMR,Emerson Electric Co.,Industrials,Electrical Equipment,USD,Large Cap,75.0
+Equity,United States,ITW,ITW,Illinois Tool Works,Industrials,Industrial Machinery,USD,Large Cap,85.0
+Equity,United States,GD,GD,General Dynamics Corp.,Industrials,Aerospace & Defense,USD,Large Cap,85.0
+Equity,United States,NOC,NOC,Northrop Grumman Corp.,Industrials,Aerospace & Defense,USD,Large Cap,80.0
+Equity,United States,CB,CB,Chubb Limited,Financials,Property & Casualty Insurance,USD,Large Cap,115.0
+Equity,United States,MMC,MMC,Marsh McLennan,Financials,Insurance Brokers,USD,Large Cap,115.0
+Equity,United States,USB,USB,U.S. Bancorp,Financials,Regional Banks,USD,Large Cap,85.0
+Equity,United States,PNC,PNC,PNC Financial Services,Financials,Regional Banks,USD,Large Cap,80.0
+Equity,United States,CVS,CVS,CVS Health Corporation,Health Care,Health Care Services,USD,Large Cap,90.0
+Equity,United States,CI,CI,The Cigna Group,Health Care,Managed Health Care,USD,Large Cap,90.0
+Equity,United States,ELV,ELV,Elevance Health Inc.,Health Care,Managed Health Care,USD,Large Cap,100.0
+Equity,United States,SYK,SYK,Stryker Corporation,Health Care,Health Care Equipment,USD,Large Cap,150.0
+Equity,United States,BSX,BSX,Boston Scientific Corp.,Health Care,Health Care Equipment,USD,Large Cap,140.0
+Equity,United States,VRTX,VRTX,Vertex Pharmaceuticals,Health Care,Biotechnology,USD,Large Cap,130.0
+Equity,United States,REGN,REGN,Regeneron Pharmaceuticals,Health Care,Biotechnology,USD,Large Cap,90.0
+Equity,United States,GILD,GILD,Gilead Sciences Inc.,Health Care,Biotechnology,USD,Large Cap,130.0
+Equity,United States,F,F,Ford Motor Company,Consumer Discretionary,Automobiles,USD,Mid Cap,45.0
+Equity,United States,GM,GM,General Motors Company,Consumer Discretionary,Automobiles,USD,Large Cap,55.0

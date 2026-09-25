@@ -1,0 +1,36 @@
+asset_class,market,symbol,yf_ticker,name,gics_sector,industry,currency,market_cap_tier,market_cap_usd_bn
+Equity,Germany,SAP,SAP.DE,SAP SE,Information Technology,Software,EUR,Mega Cap,320.0
+Equity,Germany,SIE,SIE.DE,Siemens AG,Industrials,Industrial Conglomerates,EUR,Large Cap,160.0
+Equity,Germany,ALV,ALV.DE,Allianz SE,Financials,Multi-line Insurance,EUR,Large Cap,150.0
+Equity,Germany,DTE,DTE.DE,Deutsche Telekom AG,Communication Services,Telecom Services,EUR,Large Cap,140.0
+Equity,Germany,MBG,MBG.DE,Mercedes-Benz Group AG,Consumer Discretionary,Automobiles,EUR,Large Cap,60.0
+Equity,Germany,BMW,BMW.DE,Bayerische Motoren Werke AG,Consumer Discretionary,Automobiles,EUR,Large Cap,55.0
+Equity,Germany,VOW3,VOW3.DE,Volkswagen AG,Consumer Discretionary,Automobiles,EUR,Large Cap,55.0
+Equity,Germany,BAS,BAS.DE,BASF SE,Materials,Diversified Chemicals,EUR,Mid Cap,45.0
+Equity,Germany,BAYN,BAYN.DE,Bayer AG,Health Care,Pharmaceuticals,EUR,Mid Cap,30.0
+Equity,Germany,DBK,DBK.DE,Deutsche Bank AG,Financials,Diversified Banks,EUR,Mid Cap,40.0
+Equity,Germany,CBK,CBK.DE,Commerzbank AG,Financials,Diversified Banks,EUR,Mid Cap,20.0
+Equity,Germany,MUV2,MUV2.DE,Munich Re,Financials,Reinsurance,EUR,Large Cap,65.0
+Equity,Germany,DB1,DB1.DE,Deutsche Boerse AG,Financials,Financial Exchanges & Data,EUR,Mid Cap,45.0
+Equity,Germany,IFX,IFX.DE,Infineon Technologies AG,Information Technology,Semiconductors,EUR,Mid Cap,45.0
+Equity,Germany,ADS,ADS.DE,Adidas AG,Consumer Discretionary,Apparel,EUR,Mid Cap,45.0
+Equity,Germany,HEN3,HEN3.DE,Henkel AG & Co KGaA,Consumer Staples,Household Products,EUR,Mid Cap,22.0
+Equity,Germany,BEI,BEI.DE,Beiersdorf AG,Consumer Staples,Personal Products,EUR,Mid Cap,30.0
+Equity,Germany,FRE,FRE.DE,Fresenius SE & Co KGaA,Health Care,Health Care Services,EUR,Mid Cap,20.0
+Equity,Germany,MRK-DE,MRK.DE,Merck KGaA,Health Care,Pharmaceuticals,EUR,Large Cap,60.0
+Equity,Germany,CON,CON.DE,Continental AG,Consumer Discretionary,Auto Parts,EUR,Small Cap,8.0
+Equity,Germany,DHL,DHL.DE,DHL Group,Industrials,Air Freight & Logistics,EUR,Mid Cap,45.0
+Equity,Germany,HEI,HEI.DE,Heidelberg Materials AG,Materials,Construction Materials,EUR,Mid Cap,22.0
+Equity,Germany,MTX,MTX.DE,MTU Aero Engines AG,Industrials,Aerospace & Defense,EUR,Mid Cap,25.0
+Equity,Germany,RHM,RHM.DE,Rheinmetall AG,Industrials,Aerospace & Defense,EUR,Large Cap,55.0
+Equity,Germany,ZAL,ZAL.DE,Zalando SE,Consumer Discretionary,Internet Retail,EUR,Small Cap,8.0
+Equity,Germany,VNA,VNA.DE,Vonovia SE,Real Estate,Residential REITs,EUR,Mid Cap,25.0
+Equity,Germany,SRT3,SRT3.DE,Sartorius AG,Health Care,Life Sciences Tools,EUR,Mid Cap,20.0
+Equity,Germany,SY1,SY1.DE,Symrise AG,Materials,Specialty Chemicals,EUR,Mid Cap,15.0
+Equity,Germany,BNR,BNR.DE,Brenntag SE,Industrials,Trading Companies,EUR,Small Cap,8.0
+Equity,Germany,HNR1,HNR1.DE,Hannover Rueck SE,Financials,Reinsurance,EUR,Mid Cap,35.0
+Equity,Germany,QIA,QIA.DE,Qiagen NV,Health Care,Life Sciences Tools,EUR,Mid Cap,10.0
+Equity,Germany,P911,P911.DE,Porsche AG,Consumer Discretionary,Automobiles,EUR,Mid Cap,20.0
+Equity,Germany,EOAN,EOAN.DE,E.ON SE,Utilities,Multi-Utilities,EUR,Mid Cap,35.0
+Equity,Germany,RWE,RWE.DE,RWE AG,Utilities,Electric Utilities,EUR,Mid Cap,25.0
+Equity,Germany,AIR,AIR.DE,Airbus SE,Industrials,Aerospace & Defense,EUR,Large Cap,150.0
