@@ -79,6 +79,41 @@ your slice of the global universe, and the rest of the page works exactly as it 
 The **Home** page shows asset-class tiles, a per-market "largest names" snapshot, and an always-on
 breadth summary for whichever equity market you pick.
 
+### Portfolio risk, modelling & construction (pages 20-25)
+Built on the same data layer, cache and stats as the rest of the app. Sidebar **Risk settings** (shared by all six
+pages): base currency (ZAR / USD / local -- FX risk included), return frequency (weekly default), lookback,
+VaR confidence & horizon, risk-free rates, benchmarks (S&P 500 + JSE Top 40 by default), and **Refresh prices**.
+
+20. **Portfolio Builder** (`pages/20_Portfolio_Builder.py`) -- paste straight from Excel (tickers *or* names, weights
+    *or* values; stacked Easy Equities account blocks become sub-accounts, *Total* rows skipped, cash -> `CASH`),
+    fix column mapping / unmatched tickers in an editable grid, save as **Live portfolio**, **Model portfolio** or
+    **Watchlist** (JSON in `data/portfolios/`), import/export CSV.
+21. **Live Portfolio Risk** -- *what is*: volatility (wᵀΣw), expected return, Sharpe/Sortino, max drawdown, VaR &
+    CVaR (parametric, historical, Cornish-Fisher, Monte Carlo) in % and rands, beta vs each benchmark (Σwβ and
+    regression), tracking error / IR / capture, risk contribution per holding, correlation matrix, rolling
+    vol/beta/correlation, account & category roll-ups, beta-hedge calculator, VaR back-test.
+22. **Portfolio Modelling** -- *what could be*: one editable tab per scenario (copy of current, saved model,
+    blank), re-weighting rules (equal, inverse vol, inverse beta, equal risk contribution, min variance, max Sharpe,
+    target vol), side-by-side comparison, efficient frontier, historical stress tests (GFC, Nenegate, COVID,
+    2022, 2024-25 shocks, custom window), factor shocks (S&P / Top 40 / USDZAR), Monte Carlo value projection and a
+    rebalance trade list.
+23. **Watchlist** -- candidates kept separate from the live book: own risk, correlation to the portfolio, and the
+    Δ vol / Δ VaR / Δ beta / Δ Sharpe of adding a position; send names to a modelling scenario.
+24. **Constituent Analysis** -- one holding: the Distribution-of-Returns stats, volatility (rolling, cone, ATR%),
+    rolling beta/correlation (incl. vs the portfolio), price & drawdown. Several holdings: comparison table,
+    performance, correlation, volatility ranges, betas, and the selection's risk as its own mini-portfolio.
+25. **Risk Formulas** -- every formula used, in LaTeX, with notes on data handling.
+
+Engine: `src/portfolio.py` (pure pandas/numpy/scipy, unit-testable); UI helpers: `src/portfolio_ui.py`.
+JSE cents/rands unit glitches on Yahoo are auto-corrected (the cause of the 7,094% STX40 volatility in the old
+report). Verified against `TFSA_WEEKLY_VOL.xlsx`: same weekly returns + allocations -> portfolio vol 9.7639% and
+average correlation 0.2819, matching the workbook exactly.
+
+```bash
+python3 scripts/seed_portfolios.py        # (re)create the sample live portfolio, TFSA model and Ideas watchlist
+python3 scripts/smoke_test_portfolio.py   # offline test of pages 20-25 with synthetic prices
+```
+
 ## Scope: what's covered
 
 | Asset class | Coverage |

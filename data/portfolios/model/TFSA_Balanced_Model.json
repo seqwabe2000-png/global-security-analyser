@@ -1,0 +1,73 @@
+{
+  "name": "TFSA_Balanced_Model",
+  "kind": "model",
+  "saved_at": "2026-09-28T19:52:56",
+  "notes": "Example model: TFSA ETF mix with 5% cash",
+  "meta": {},
+  "holdings": [
+    {
+      "ticker": "STXNDQ.JO",
+      "name": "Satrix Nasdaq 100",
+      "account": "EE_TSFA_Acc",
+      "category": "",
+      "value": null,
+      "weight": 0.25
+    },
+    {
+      "ticker": "STX500.JO",
+      "name": "Satrix S&P 500",
+      "account": "EE_TSFA_Acc",
+      "category": "",
+      "value": null,
+      "weight": 0.25
+    },
+    {
+      "ticker": "STX40.JO",
+      "name": "Satrix 40",
+      "account": "EE_TSFA_Acc",
+      "category": "",
+      "value": null,
+      "weight": 0.12
+    },
+    {
+      "ticker": "STXEMG.JO",
+      "name": "Satrix Msci Emerging Markets Etf",
+      "account": "EE_TSFA_Acc",
+      "category": "",
+      "value": null,
+      "weight": 0.1
+    },
+    {
+      "ticker": "STXRES.JO",
+      "name": "Satrix Resi",
+      "account": "EE_TSFA_Acc",
+      "category": "",
+      "value": null,
+      "weight": 0.1
+    },
+    {
+      "ticker": "SYGEU.JO",
+      "name": "Sygnia Itrix Eurostoxx 50",
+      "account": "EE_TSFA_Acc",
+      "category": "",
+      "value": null,
+      "weight": 0.06
+    },
+    {
+      "ticker": "SYGP.JO",
+      "name": "Sygnia Itrix Global Prop Etf",
+      "account": "EE_TSFA_Acc",
+      "category": "",
+      "value": null,
+      "weight": 0.07
+    },
+    {
+      "ticker": "CASH",
+      "name": "Cash",
+      "account": "EE_TSFA_Acc",
+      "category": "",
+      "value": null,
+      "weight": 0.05
+    }
+  ]
+}

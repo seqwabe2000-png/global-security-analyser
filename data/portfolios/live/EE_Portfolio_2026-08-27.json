@@ -1,0 +1,587 @@
+{
+  "name": "EE_Portfolio_2026-08-27",
+  "kind": "live",
+  "saved_at": "2026-09-28T19:52:56",
+  "notes": "Easy Equities (ZAR, USD, TFSA, Crypto accounts + cash) from EEP_2026_08_27. SB Brent Crude ETN and FNB MidCap ETF need a Yahoo ticker -- add them in the Builder.",
+  "meta": {
+    "value_ccy": "ZAR"
+  },
+  "holdings": [
+    {
+      "ticker": "AFT.JO",
+      "name": "Afrimat Limited",
+      "account": "EE_ZAR_Acc",
+      "category": "Equity - Construction and Engineering",
+      "value": 49.87,
+      "weight": 0.0003842488039899619
+    },
+    {
+      "ticker": "ANG.JO",
+      "name": "Anglogold Ashanti PLC",
+      "account": "EE_ZAR_Acc",
+      "category": "Equity - Metals and Mining",
+      "value": 41.61,
+      "weight": 0.0003206054287953141
+    },
+    {
+      "ticker": "ARL.JO",
+      "name": "Astral Foods Limited",
+      "account": "EE_ZAR_Acc",
+      "category": "Equity - Food Products",
+      "value": 71.33,
+      "weight": 0.0005495982993503907
+    },
+    {
+      "ticker": "BHG.JO",
+      "name": "BHP Group Limited",
+      "account": "EE_ZAR_Acc",
+      "category": "Equity - Metals and Mining",
+      "value": 302.83,
+      "weight": 0.002333307906803292
+    },
+    {
+      "ticker": "BOX.JO",
+      "name": "Boxer Retail Limited",
+      "account": "EE_ZAR_Acc",
+      "category": "Equity - Consumer Staple",
+      "value": 339.31,
+      "weight": 0.002614386638897814
+    },
+    {
+      "ticker": "CPI.JO",
+      "name": "Capitec ",
+      "account": "EE_ZAR_Acc",
+      "category": "Equity - Banks",
+      "value": 395.21,
+      "weight": 0.003045096647781689
+    },
+    {
+      "ticker": "CPR.JO",
+      "name": "Copper 360 Limited",
+      "account": "EE_ZAR_Acc",
+      "category": "Equity - Metals and Mining",
+      "value": 59.18,
+      "weight": 0.0004559824387432514
+    },
+    {
+      "ticker": "DSY.JO",
+      "name": "Discovery Limited",
+      "account": "EE_ZAR_Acc",
+      "category": "Equity - Insurance",
+      "value": 396.15,
+      "weight": 0.0030523393563389495
+    },
+    {
+      "ticker": "LEW.JO",
+      "name": "Lewis Group Limited",
+      "account": "EE_ZAR_Acc",
+      "category": "Equity - Consumer Discretionary",
+      "value": 51.95,
+      "weight": 0.00040027522292517594
+    },
+    {
+      "ticker": "MTN.JO",
+      "name": "MTN",
+      "account": "EE_ZAR_Acc",
+      "category": "Equity - Wireless Communication Services",
+      "value": 677.67,
+      "weight": 0.005221453519147333
+    },
+    {
+      "ticker": "PAN.JO",
+      "name": "Pan African Resource PLC",
+      "account": "EE_ZAR_Acc",
+      "category": "Equity - Metals and Mining",
+      "value": 218.79,
+      "weight": 0.0016857789417478197
+    },
+    {
+      "ticker": "PPC.JO",
+      "name": "PPC Limited",
+      "account": "EE_ZAR_Acc",
+      "category": "Equity - Construction and Engineering",
+      "value": 310.16,
+      "weight": 0.0023897856235317143
+    },
+    {
+      "ticker": "PMR.JO",
+      "name": "Premier",
+      "account": "EE_ZAR_Acc",
+      "category": "Equity - Food Products",
+      "value": 307.61,
+      "weight": 0.0023701378503178704
+    },
+    {
+      "ticker": "PPE.JO",
+      "name": "Purple Group Limited",
+      "account": "EE_ZAR_Acc",
+      "category": "Equity - Capital Markets",
+      "value": 262.69,
+      "weight": 0.0020240288413900763
+    },
+    {
+      "ticker": "SOL.JO",
+      "name": "Sasol Limited",
+      "account": "EE_ZAR_Acc",
+      "category": "Equity - Chemicals",
+      "value": 162.93,
+      "weight": 0.001255377133228083
+    },
+    {
+      "ticker": "",
+      "name": "SB Brent Crude Oil Etn",
+      "account": "EE_ZAR_Acc",
+      "category": "ETN - Commodity ETN",
+      "value": 87.52,
+      "weight": 0.0006743423967355417
+    },
+    {
+      "ticker": "SBCOP.JO",
+      "name": "Standard Bank Copper ETN",
+      "account": "EE_ZAR_Acc",
+      "category": "ETN - Commodity ETN",
+      "value": 430.0,
+      "weight": 0.00331315391449135
+    },
+    {
+      "ticker": "SHP.JO",
+      "name": "Shoprite",
+      "account": "EE_ZAR_Acc",
+      "category": "Equity - Consumer Staple",
+      "value": 1141.19,
+      "weight": 0.00879287933878694
+    },
+    {
+      "ticker": "SSW.JO",
+      "name": "Sibanye Stillwater Limited",
+      "account": "EE_ZAR_Acc",
+      "category": "Equity - Metals and Mining",
+      "value": 132.23,
+      "weight": 0.0010188333537516075
+    },
+    {
+      "ticker": "SSK.JO",
+      "name": "Stefanutti Stocks Holdings Limited",
+      "account": "EE_ZAR_Acc",
+      "category": "Equity - Construction and Engineering",
+      "value": 996.96,
+      "weight": 0.007681585875793713
+    },
+    {
+      "ticker": "VAL.JO",
+      "name": "Valterra Platinum Limited",
+      "account": "EE_ZAR_Acc",
+      "category": "Equity - Metals and Mining",
+      "value": 191.91,
+      "weight": 0.0014786682970465929
+    },
+    {
+      "ticker": "VOD.JO",
+      "name": "Vodacom Group Limited",
+      "account": "EE_ZAR_Acc",
+      "category": "Equity - Wireless Communication Services",
+      "value": 123.15,
+      "weight": 0.0009488718710921158
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices Inc",
+      "account": "EE_USD_Acc",
+      "category": "Equity - Tech",
+      "value": 1691.3319999999999,
+      "weight": 0.013031728456987171
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc - Cl A ",
+      "account": "EE_USD_Acc",
+      "category": "Equity - Tech",
+      "value": 3497.9559999999997,
+      "weight": 0.026951782823531403
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "account": "EE_USD_Acc",
+      "category": "Equity - Tech",
+      "value": 1906.8279999999997,
+      "weight": 0.014692127098748165
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc",
+      "account": "EE_USD_Acc",
+      "category": "Equity - Tech",
+      "value": 752.432,
+      "weight": 0.005797495409740827
+    },
+    {
+      "ticker": "ASML",
+      "name": "ASML",
+      "account": "EE_USD_Acc",
+      "category": "Equity - Tech",
+      "value": 587.284,
+      "weight": 0.0045250285663212516
+    },
+    {
+      "ticker": "BE",
+      "name": "Bloom Energy Corp",
+      "account": "EE_USD_Acc",
+      "category": "Equity - Energy",
+      "value": 599.7479999999999,
+      "weight": 0.004621063799786879
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc",
+      "account": "EE_USD_Acc",
+      "category": "Equity - Tech",
+      "value": 286.016,
+      "weight": 0.002203755883737577
+    },
+    {
+      "ticker": "KO",
+      "name": "The Coca-Cola Company",
+      "account": "EE_USD_Acc",
+      "category": "Equity - Beverages",
+      "value": 1327.416,
+      "weight": 0.010227752364089418
+    },
+    {
+      "ticker": "COHR",
+      "name": "Coherent Corp",
+      "account": "EE_USD_Acc",
+      "category": "Equity - Tech",
+      "value": 422.464,
+      "weight": 0.003255088965887613
+    },
+    {
+      "ticker": "CRWD",
+      "name": "Crowdstrike Holdings Inc",
+      "account": "EE_USD_Acc",
+      "category": "Equity - Tech",
+      "value": 165.31199999999998,
+      "weight": 0.0012737304649125443
+    },
+    {
+      "ticker": "VDE",
+      "name": "Energy ETF Vanguard",
+      "account": "EE_USD_Acc",
+      "category": "ETF - Commodity ETF",
+      "value": 231.896,
+      "weight": 0.0017867607910578747
+    },
+    {
+      "ticker": "HACK",
+      "name": "ETFMG Prime Cyber Security ETF",
+      "account": "EE_USD_Acc",
+      "category": "ETF - Tech ETF",
+      "value": 669.612,
+      "weight": 0.005159366555791586
+    },
+    {
+      "ticker": "FCX",
+      "name": "Freeport-McMoRan Inc",
+      "account": "EE_USD_Acc",
+      "category": "Equity - Metals and Mining",
+      "value": 769.6519999999999,
+      "weight": 0.0059301756665025495
+    },
+    {
+      "ticker": "GEV",
+      "name": "GE Vernova Inc.",
+      "account": "EE_USD_Acc",
+      "category": "Equity - Electrical Equipment",
+      "value": 832.4639999999999,
+      "weight": 0.006414142698309598
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel",
+      "account": "EE_USD_Acc",
+      "category": "Equity - Tech",
+      "value": 1890.7559999999999,
+      "weight": 0.014568292192437224
+    },
+    {
+      "ticker": "TAN",
+      "name": "Invesco Solar ETF",
+      "account": "EE_USD_Acc",
+      "category": "ETF - Energy ETF",
+      "value": 127.75599999999999,
+      "weight": 0.0009843611430226905
+    },
+    {
+      "ticker": "IGV",
+      "name": "iShares Expanded Tech-Software Sector ETF",
+      "account": "EE_USD_Acc",
+      "category": "ETF - Tech ETF",
+      "value": 164.0,
+      "weight": 0.001263621492968794
+    },
+    {
+      "ticker": "EWY",
+      "name": "MSCI South Korea",
+      "account": "EE_USD_Acc",
+      "category": "ETF - Asian Country Equities ETF",
+      "value": 882.976,
+      "weight": 0.006803338118143987
+    },
+    {
+      "ticker": "SOXX",
+      "name": "iShares Semiconductor (SOXX)",
+      "account": "EE_USD_Acc",
+      "category": "ETF - Tech ETF",
+      "value": 2677.136,
+      "weight": 0.020627357251222594
+    },
+    {
+      "ticker": "LRCX",
+      "name": "Lam Research Corp",
+      "account": "EE_USD_Acc",
+      "category": "Equity - Tech",
+      "value": 732.9159999999999,
+      "weight": 0.00564712445207754
+    },
+    {
+      "ticker": "LITE",
+      "name": "Lumentum Holdings Inc.",
+      "account": "EE_USD_Acc",
+      "category": "Equity - Tech",
+      "value": 456.4119999999999,
+      "weight": 0.003516658614932153
+    },
+    {
+      "ticker": "MRVL",
+      "name": "Marvell",
+      "account": "EE_USD_Acc",
+      "category": "Equity - Tech",
+      "value": 662.396,
+      "weight": 0.005103767210100959
+    },
+    {
+      "ticker": "META",
+      "name": "Meta",
+      "account": "EE_USD_Acc",
+      "category": "Equity - Tech",
+      "value": 1537.8279999999997,
+      "weight": 0.011848978739568378
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron",
+      "account": "EE_USD_Acc",
+      "category": "Equity - Tech",
+      "value": 1503.716,
+      "weight": 0.01158614546903087
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "account": "EE_USD_Acc",
+      "category": "Equity - Tech",
+      "value": 869.8559999999999,
+      "weight": 0.006702248398706482
+    },
+    {
+      "ticker": "MNST",
+      "name": "Monster Beverage Corp",
+      "account": "EE_USD_Acc",
+      "category": "Equity - Beverages",
+      "value": 815.736,
+      "weight": 0.006285253306026781
+    },
+    {
+      "ticker": "NBIS",
+      "name": "Nebius Group NV Class A",
+      "account": "EE_USD_Acc",
+      "category": "Equity - Tech",
+      "value": 180.39999999999998,
+      "weight": 0.0013899836422656732
+    },
+    {
+      "ticker": "NVDA",
+      "name": "NVDIA",
+      "account": "EE_USD_Acc",
+      "category": "Equity - Tech",
+      "value": 1980.792,
+      "weight": 0.015262020392077092
+    },
+    {
+      "ticker": "PANW",
+      "name": "Palo Alto Networks Inc",
+      "account": "EE_USD_Acc",
+      "category": "Equity - Tech",
+      "value": 389.828,
+      "weight": 0.003003628288786823
+    },
+    {
+      "ticker": "SNDK",
+      "name": "Sandisk",
+      "account": "EE_USD_Acc",
+      "category": "Equity - Tech",
+      "value": 3754.124,
+      "weight": 0.028925559595548662
+    },
+    {
+      "ticker": "SCCO",
+      "name": "Southern Copper Corp",
+      "account": "EE_USD_Acc",
+      "category": "Equity - Metals and Mining",
+      "value": 752.432,
+      "weight": 0.005797495409740827
+    },
+    {
+      "ticker": "GLD",
+      "name": "SPDR Gold Shares (GLD)",
+      "account": "EE_USD_Acc",
+      "category": "ETF - Commodity ETF",
+      "value": 2434.0879999999997,
+      "weight": 0.01875467019864284
+    },
+    {
+      "ticker": "SGHC",
+      "name": "Super Group SGHC Ltd",
+      "account": "EE_USD_Acc",
+      "category": "Equity - Hotels, Restaurants and Leisure",
+      "value": 654.3599999999999,
+      "weight": 0.005041849756945487
+    },
+    {
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Company Limited",
+      "account": "EE_USD_Acc",
+      "category": "Equity - Tech",
+      "value": 3344.124,
+      "weight": 0.025766505863126676
+    },
+    {
+      "ticker": "VRT",
+      "name": "Vertiv Holdings Co",
+      "account": "EE_USD_Acc",
+      "category": "Equity - Energy",
+      "value": 212.21599999999998,
+      "weight": 0.0016351262119016193
+    },
+    {
+      "ticker": "",
+      "name": "FNB MidCap Exchange Traded Fund",
+      "account": "EE_TSFA_Acc",
+      "category": "ETF - Equity Index ETF",
+      "value": 251.1,
+      "weight": 0.001934727785880879
+    },
+    {
+      "ticker": "STX40.JO",
+      "name": "Satrix 40 ETF",
+      "account": "EE_TSFA_Acc",
+      "category": "ETF - Equity Index ETF",
+      "value": 3171.02,
+      "weight": 0.02443273796727991
+    },
+    {
+      "ticker": "STXEMG.JO",
+      "name": "Satrix MSCI Emerging Markets ETF",
+      "account": "EE_TSFA_Acc",
+      "category": "ETF - Emerging Countries Equities ETF",
+      "value": 2901.07,
+      "weight": 0.022352770759798656
+    },
+    {
+      "ticker": "STXNDQ.JO",
+      "name": "Satrix Nasdaq 100 ETF",
+      "account": "EE_TSFA_Acc",
+      "category": "ETF - Equity Index ETF",
+      "value": 23911.89,
+      "weight": 0.18424133013113156
+    },
+    {
+      "ticker": "STXRES.JO",
+      "name": "Satrix RESI ETF",
+      "account": "EE_TSFA_Acc",
+      "category": "ETF - Equity Index ETF",
+      "value": 706.75,
+      "weight": 0.00544551518387619
+    },
+    {
+      "ticker": "STX500.JO",
+      "name": "Satrix S&P 500 ETF",
+      "account": "EE_TSFA_Acc",
+      "category": "ETF - Equity Index ETF",
+      "value": 26842.78,
+      "weight": 0.20682386426239563
+    },
+    {
+      "ticker": "SYGEU.JO",
+      "name": "SYGNIA ITRIX EUROSTOXX50",
+      "account": "EE_TSFA_Acc",
+      "category": "ETF - Equity Index ETF",
+      "value": 931.43,
+      "weight": 0.007176676629243438
+    },
+    {
+      "ticker": "SYGP.JO",
+      "name": "Sygnia Itrix Global Prop ETF",
+      "account": "EE_TSFA_Acc",
+      "category": "ETF - Real Estate ETF",
+      "value": 981.32,
+      "weight": 0.007561079533415469
+    },
+    {
+      "ticker": "SYGEMF.JO",
+      "name": "Sygnia Itrix MSCI Emerging Markets 50 ETF",
+      "account": "EE_TSFA_Acc",
+      "category": "ETF - Equity Index ETF",
+      "value": 3160.27,
+      "weight": 0.024349909119417625
+    },
+    {
+      "ticker": "ETH-USD",
+      "name": "Ethereum",
+      "account": "EE_Crypto_Acc",
+      "category": "Crypto-crurrency",
+      "value": 308.05,
+      "weight": 0.0023735280543233962
+    },
+    {
+      "ticker": "SOL-USD",
+      "name": "Solana",
+      "account": "EE_Crypto_Acc",
+      "category": "Crypto-crurrency",
+      "value": 492.54,
+      "weight": 0.0037950251838222548
+    },
+    {
+      "ticker": "BTC-USD",
+      "name": "Bitcoin",
+      "account": "EE_Crypto_Acc",
+      "category": "Crypto-crurrency",
+      "value": 299.77,
+      "weight": 0.002309730578946679
+    },
+    {
+      "ticker": "ADA-USD",
+      "name": "Cardano",
+      "account": "EE_Crypto_Acc",
+      "category": "Crypto-crurrency",
+      "value": 414.31,
+      "weight": 0.0031922623216579333
+    },
+    {
+      "ticker": "USDT-USD",
+      "name": "Tether",
+      "account": "EE_Crypto_Acc",
+      "category": "Crypto-crurrency",
+      "value": 99.92,
+      "weight": 0.0007698845096185482
+    },
+    {
+      "ticker": "CASH",
+      "name": "Aggregate Cash in all Accounts",
+      "account": "Cash",
+      "category": "",
+      "value": 18798.97,
+      "weight": 0.14484623498582666
+    }
+  ]
+}

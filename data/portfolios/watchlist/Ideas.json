@@ -1,0 +1,105 @@
+{
+  "name": "Ideas",
+  "kind": "watchlist",
+  "saved_at": "2026-09-28T19:52:56",
+  "notes": "Names from the older weights sheet not currently held",
+  "meta": {},
+  "holdings": [
+    {
+      "ticker": "MP",
+      "name": "MP Materials",
+      "account": "",
+      "category": "Idea",
+      "value": null,
+      "weight": null
+    },
+    {
+      "ticker": "ONDS",
+      "name": "Ondas Inc",
+      "account": "",
+      "category": "Idea",
+      "value": null,
+      "weight": null
+    },
+    {
+      "ticker": "POET",
+      "name": "Poet Technologies Inc.",
+      "account": "",
+      "category": "Idea",
+      "value": null,
+      "weight": null
+    },
+    {
+      "ticker": "SNPS",
+      "name": "Synopsys",
+      "account": "",
+      "category": "Idea",
+      "value": null,
+      "weight": null
+    },
+    {
+      "ticker": "WDC",
+      "name": "Western Digital",
+      "account": "",
+      "category": "Idea",
+      "value": null,
+      "weight": null
+    },
+    {
+      "ticker": "GDX",
+      "name": "Vaneck Gold Miners",
+      "account": "",
+      "category": "Idea",
+      "value": null,
+      "weight": null
+    },
+    {
+      "ticker": "AFT.JO",
+      "name": "Afrimat Limited",
+      "account": "",
+      "category": "Idea",
+      "value": null,
+      "weight": null
+    },
+    {
+      "ticker": "LAB.JO",
+      "name": "Labat Africa Limited",
+      "account": "",
+      "category": "Idea",
+      "value": null,
+      "weight": null
+    },
+    {
+      "ticker": "RBX.JO",
+      "name": "Raubex Group Limited",
+      "account": "",
+      "category": "Idea",
+      "value": null,
+      "weight": null
+    },
+    {
+      "ticker": "RLO.JO",
+      "name": "Reunert Limited",
+      "account": "",
+      "category": "Idea",
+      "value": null,
+      "weight": null
+    },
+    {
+      "ticker": "SYGEMF.JO",
+      "name": "Sygnia Itrix Msci Emerging Markets 50 Etf",
+      "account": "",
+      "category": "Idea",
+      "value": null,
+      "weight": null
+    },
+    {
+      "ticker": "TAN",
+      "name": "Invesco Solar Etf",
+      "account": "",
+      "category": "Idea",
+      "value": null,
+      "weight": null
+    }
+  ]
+}
