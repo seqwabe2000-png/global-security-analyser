@@ -1,0 +1,28 @@
+asset_class,market,symbol,yf_ticker,name,gics_sector,industry,currency,market_cap_tier,market_cap_usd_bn
+Equity,Australia,BHP,BHP.AX,BHP Group Limited,Materials,Diversified Mining,AUD,Large Cap,150.0
+Equity,Australia,CBA,CBA.AX,Commonwealth Bank of Australia,Financials,Diversified Banks,AUD,Large Cap,190.0
+Equity,Australia,CSL,CSL.AX,CSL Limited,Health Care,Biotechnology,AUD,Large Cap,90.0
+Equity,Australia,NAB,NAB.AX,National Australia Bank,Financials,Diversified Banks,AUD,Large Cap,95.0
+Equity,Australia,WBC,WBC.AX,Westpac Banking Corporation,Financials,Diversified Banks,AUD,Large Cap,90.0
+Equity,Australia,ANZ,ANZ.AX,ANZ Group Holdings,Financials,Diversified Banks,AUD,Large Cap,70.0
+Equity,Australia,MQG,MQG.AX,Macquarie Group Limited,Financials,Investment Banking,AUD,Large Cap,65.0
+Equity,Australia,WES,WES.AX,Wesfarmers Limited,Consumer Discretionary,Diversified Retail,AUD,Large Cap,65.0
+Equity,Australia,WOW,WOW.AX,Woolworths Group Limited,Consumer Staples,Food Retail,AUD,Mid Cap,30.0
+Equity,Australia,TLS,TLS.AX,Telstra Group Limited,Communication Services,Telecom Services,AUD,Mid Cap,35.0
+Equity,Australia,RIO-AU,RIO.AX,Rio Tinto Limited,Materials,Diversified Mining,AUD,Large Cap,100.0
+Equity,Australia,FMG,FMG.AX,Fortescue Ltd.,Materials,Steel,AUD,Mid Cap,30.0
+Equity,Australia,WDS,WDS.AX,Woodside Energy Group,Energy,Oil & Gas E&P,AUD,Mid Cap,30.0
+Equity,Australia,GMG,GMG.AX,Goodman Group,Real Estate,Industrial REITs,AUD,Mid Cap,45.0
+Equity,Australia,TCL,TCL.AX,Transurban Group,Industrials,Highways & Railtracks,AUD,Mid Cap,30.0
+Equity,Australia,COL,COL.AX,Coles Group Limited,Consumer Staples,Food Retail,AUD,Mid Cap,22.0
+Equity,Australia,ALL,ALL.AX,Aristocrat Leisure Limited,Consumer Discretionary,Casinos & Gaming,AUD,Mid Cap,35.0
+Equity,Australia,JHX,JHX.AX,James Hardie Industries,Industrials,Building Products,AUD,Mid Cap,12.0
+Equity,Australia,RMD,RMD.AX,ResMed Inc.,Health Care,Health Care Equipment,AUD,Mid Cap,35.0
+Equity,Australia,COH,COH.AX,Cochlear Limited,Health Care,Health Care Equipment,AUD,Mid Cap,18.0
+Equity,Australia,QBE,QBE.AX,QBE Insurance Group,Financials,Property & Casualty Insurance,AUD,Mid Cap,25.0
+Equity,Australia,SUN,SUN.AX,Suncorp Group Limited,Financials,Multi-line Insurance,AUD,Mid Cap,20.0
+Equity,Australia,S32,S32.AX,South32 Limited,Materials,Diversified Mining,AUD,Mid Cap,15.0
+Equity,Australia,ORG,ORG.AX,Origin Energy Limited,Utilities,Multi-Utilities,AUD,Mid Cap,15.0
+Equity,Australia,STO,STO.AX,Santos Limited,Energy,Oil & Gas E&P,AUD,Mid Cap,15.0
+Equity,Australia,BXB,BXB.AX,Brambles Limited,Industrials,Trading Companies,AUD,Mid Cap,20.0
+Equity,Australia,AMC,AMC.AX,Amcor plc,Materials,Packaging,AUD,Mid Cap,18.0

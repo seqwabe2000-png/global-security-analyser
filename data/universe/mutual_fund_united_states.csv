@@ -1,0 +1,11 @@
+asset_class,market,symbol,yf_ticker,name,gics_sector,industry,currency,market_cap_tier,market_cap_usd_bn
+Mutual Fund,United States,VFIAX,VFIAX,Vanguard 500 Index Fund Admiral Shares,Large Blend,Index Fund,USD,--,
+Mutual Fund,United States,FXAIX,FXAIX,Fidelity 500 Index Fund,Large Blend,Index Fund,USD,--,
+Mutual Fund,United States,VTSAX,VTSAX,Vanguard Total Stock Market Index Fund Admiral,Total Market,Index Fund,USD,--,
+Mutual Fund,United States,SWPPX,SWPPX,Schwab S&P 500 Index Fund,Large Blend,Index Fund,USD,--,
+Mutual Fund,United States,VBTLX,VBTLX,Vanguard Total Bond Market Index Fund Admiral,Intermediate Bond,Bond Fund,USD,--,
+Mutual Fund,United States,VTIAX,VTIAX,Vanguard Total International Stock Index Fund,Foreign Large Blend,Index Fund,USD,--,
+Mutual Fund,United States,VWELX,VWELX,Vanguard Wellington Fund Investor Shares,Allocation,Balanced Fund,USD,--,
+Mutual Fund,United States,FCNTX,FCNTX,Fidelity Contrafund,Large Growth,Actively Managed,USD,--,
+Mutual Fund,United States,DODGX,DODGX,Dodge & Cox Stock Fund,Large Value,Actively Managed,USD,--,
+Mutual Fund,United States,PTTRX,PTTRX,PIMCO Total Return Fund,Intermediate Bond,Bond Fund,USD,--,

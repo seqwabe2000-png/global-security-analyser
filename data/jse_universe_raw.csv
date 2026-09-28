@@ -1,0 +1,260 @@
+rank,symbol,name,market_cap_display
+1,BHG,BHP Group Limited,3.65T
+2,ANH,Anheuser-Busch InBev SA/NV,2.69T
+3,CFR,Compagnie Financière Richemont SA,2.30T
+4,BTI,British American Tobacco p.l.c.,2.08T
+5,PRX,Prosus N.V.,1.68T
+6,GLN,Glencore plc,1.43T
+7,AGL,Anglo American plc,940.62B
+8,ANG,AngloGold Ashanti plc,794.38B
+9,NPN,Naspers Limited,687.84B
+10,GFI,Gold Fields Limited,593.48B
+11,FSR,FirstRand Limited,562.29B
+12,CPI,Capitec Limited,559.42B
+13,SBK,Standard Bank Group Limited,538.54B
+14,VAL,Valterra Platinum Limited,377.36B
+15,MTN,MTN Group Limited,376.68B
+16,VOD,Vodacom Group Limited,304.50B
+17,S32,South32 Limited,253.67B
+18,HAR,Harmony Gold Mining Company Limited,199.33B
+19,ABG,Absa Group Limited,191.46B
+20,IMP,Impala Platinum Holdings Limited,191.29B
+21,SLM,Sanlam Limited,186.38B
+22,DSY,Discovery Limited,177.61B
+23,SHP,Shoprite Holdings Ltd,154.74B
+24,BID,Bid Corporation Limited,146.15B
+25,NED,Nedbank Group Limited,134.81B
+26,OUT,OUTsurance Group Limited,127.96B
+27,SSW,Sibanye Stillwater Limited,122.93B
+28,INL,Investec Group,122.56B
+29,INP,Investec Group,122.56B
+30,SOL,Sasol Limited,113.81B
+31,SOLBE1,Sasol Limited,113.81B
+32,REM,Remgro Limited,108.37B
+33,NRP,NEPI Rockcastle N.V.,108.01B
+34,NPH,Northam Platinum Holdings Limited,106.04B
+35,MNP,Mondi plc,88.67B
+36,BVT,The Bidvest Group Limited,84.37B
+37,RNI,Reinet Investments S.C.A.,84.30B
+38,KIO,Kumba Iron Ore Limited,83.07B
+39,PPH,Pepkor Holdings Limited,80.44B
+40,APN,Aspen Pharmacare Holdings Limited,67.58B
+41,GRT,Growthpoint Properties Limited,59.86B
+42,QLT,Quilter plc,58.18B
+43,SHC,Shaftesbury Capital PLC,57.94B
+44,CNP,Canal+ SA,57.27B
+45,OMU,Old Mutual Limited,54.75B
+46,PHP,Primary Health Properties Plc,54.32B
+47,MTM,Momentum Group Limited,53.57B
+48,PAN,Pan African Resources PLC,51.05B
+49,CLS,Clicks Group Limited,50.51B
+50,HMN,Hammerson Plc,47.67B
+51,EXX,Exxaro Resources Limited,46.71B
+52,MRP,Mr Price Group Limited,46.31B
+53,N91,Ninety One Group,46.24B
+54,NY1,Ninety One Group,46.24B
+55,RDF,Redefine Properties Limited,45.43B
+56,SNT,Santam Ltd,44.68B
+57,KST,PSG Financial Services Limited,42.24B
+58,WHL,Woolworths Holdings Limited,41.94B
+59,TBS,Tiger Brands Limited,41.23B
+60,ARI,African Rainbow Minerals Limited,38.83B
+61,BOX,Boxer Retail Limited,35.45B
+62,VKE,Vukile Property Fund Limited,34.21B
+63,SRE,Sirius Real Estate Limited,34.16B
+64,DRD,DRDGOLD Limited,33.15B
+65,KRO,Karooooo Ltd.,32.38B
+66,FFB,Fortress Real Estate Investments Limited,30.92B
+67,AVI,AVI Limited,30.24B
+68,PMR,Premier Group Limited,29.96B
+69,RES,Resilient REIT Limited,27.42B
+70,TKG,Telkom SA SOC Ltd,27.18B
+71,ADH,ADvTECH Limited,26.26B
+72,SRI,Supermarket Income REIT plc,25.95B
+73,DCP,Dis-Chem Pharmacies Limited,25.67B
+74,HYP,Hyprop Investments Limited,24.60B
+75,APH,Alphamin Resources Corp.,23.31B
+76,NTC,Netcare Limited,22.36B
+77,BYI,Bytes Technology Group plc,21.19B
+78,DTC,Datatec Limited,20.80B
+79,TRU,Truworths International Limited,19.59B
+80,MTH,Motus Holdings Limited,19.11B
+81,OPA,Optasia Limited,18.19B
+82,TFG,The Foschini Group Limited,18.15B
+83,GND,Grindrod Limited,16.94B
+84,LTE,Lighthouse Properties p.l.c.,16.64B
+85,LHC,Life Healthcare Group Holdings Limited,16.64B
+86,OMN,Omnia Holdings Limited,16.50B
+87,GCT,Greencoat Renewables PLC,15.69B
+88,EQU,Equites Property Fund Limited,15.43B
+89,CML,Coronation Fund Managers Limited,15.29B
+90,FTA,Fairvest Limited,14.95B
+91,FTB,Fairvest Limited,14.95B
+92,MSP,MAS P.L.C.,14.34B
+93,PIK,Pick n Pay Stores Limited,13.99B
+94,WBC,We Buy Cars Holdings Limited,13.43B
+95,HCI,Hosken Consolidated Investments Limited,13.30B
+96,SSU,Southern Sun Limited,13.29B
+97,AFE,AECI Ltd,13.18B
+98,JSE,JSE Limited,12.50B
+99,SUI,Sun International Limited,12.43B
+100,TGA,Thungela Resources Limited,12.25B
+101,ATT,Attacq Limited,12.18B
+102,ITE,Italtile Limited,11.73B
+103,PPC,PPC Ltd,11.30B
+104,ISO,ASP Isotopes Inc.,10.98B
+105,SDO,Stadio Holdings Limited,10.91B
+106,CVW,Castleview Property Fund Limited,10.53B
+107,AEL,Altron Limited,10.53B
+108,SAC,SA Corporate Real Estate Limited,9.52B
+109,RLO,Reunert Limited,9.44B
+110,PWR,PowerFleet Inc.,9.43B
+111,AFH,Alexander Forbes Group Holdings Limited,9.41B
+112,SAP,Sappi Limited,9.28B
+113,CCD,Cell C Holdings Limited,9.04B
+114,SPP,The SPAR Group Ltd,8.82B
+115,BAT,Brait PLC,8.69B
+116,OCE,Oceana Group Limited,8.60B
+117,SSS,Stor-Age Property REIT Limited,8.40B
+118,CAA,CA Sales Holdings Limited,8.35B
+119,HET,Heriot REIT Limited,8.30B
+120,ARL,Astral Foods Limited,8.20B
+121,WBO,Wilson Bayly Holmes-Ovcon Limited,8.16B
+122,RBX,Raubex Group Limited,7.96B
+123,BLU,Blu Label Unlimited Group Limited,7.90B
+124,BTN,Burstone Group Limited,7.76B
+125,THA,Tharisa plc,7.63B
+126,RCL,RCL Foods Limited,7.37B
+127,TSG,Tsogo Sun Limited,7.34B
+128,DIB,Dipula Properties Limited,7.27B
+129,SPG,Super Group Limited,7.14B
+130,KAP,KAP Limited,6.60B
+131,LSK,Lesaka Technologies Inc.,6.58B
+132,EMI,Emira Property Fund Limited,6.24B
+133,EXP,Exemplar REITail Limited,6.07B
+134,GTC,Globe Trade Centre S.A.,5.79B
+135,WVR,Weaver Fintech Ltd,5.61B
+136,HDC,Hudaco Industries Limited,5.34B
+137,RBO,Rainbow Chicken Limited,5.29B
+138,SEA,Spear Reit Limited,5.29B
+139,FBR,Famous Brands Limited,5.29B
+140,SBP,Sabvest Capital Limited,5.19B
+141,SYG,Sygnia Limited,4.94B
+142,OCT,Octodec Investments Limited,4.66B
+143,LEW,Lewis Group Limited,4.24B
+144,CAT,Caxton and CTP Publishers and Printers Limited,4.21B
+145,AFT,Afrimat Limited,4.14B
+146,MKR,Montauk Renewables Inc.,4.12B
+147,OAO,Oando PLC,4.06B
+148,BEL,Bell Equipment Limited,3.73B
+149,NPK,Nampak Limited,3.71B
+150,CPP,Collins Property Group Limited,3.70B
+151,KP2,Kore Potash plc,3.67B
+152,KAL,KAL Group Limited,3.54B
+153,YYLBEE,YeboYethu (RF) Limited,3.44B
+154,MRF,Merafe Resources Limited,3.35B
+155,CHP,Choppies Enterprises Limited,3.32B
+156,SUR,Spur Corporation Ltd,3.30B
+157,IVT,Invicta Holdings Limited,3.19B
+158,ZZD,Zeda Limited,2.92B
+159,CMH,Combined Motor Holdings Limited,2.87B
+160,AII,Aimia Inc.,2.87B
+161,PPE,Purple Group Limited,2.74B
+162,SDL,Southern Palladium Limited,2.69B
+163,SHG,Sea Harvest Group Limited,2.66B
+164,IOC,iOCO Limited,2.57B
+165,MCZ,MC Mining Limited,2.56B
+166,MPT,Mpact Limited,2.53B
+167,LBR,Libstar Holdings Limited,2.49B
+168,CLH,City Lodge Hotels Limited,2.48B
+169,CSB,Cashbuild Limited,2.43B
+170,MDI,Master Drilling Group Limited,2.41B
+171,ORN,Orion Minerals Limited,2.35B
+172,ACS,Acsion Limited,2.34B
+173,ART,Argent Industrial Limited,2.12B
+174,AXX,Araxi Limited,2.07B
+175,ACL,ArcelorMittal South Africa Limited,2.02B
+176,BWN,Balwin Properties Limited,1.99B
+177,NVS,Novus Holdings Limited,1.96B
+178,FTH,Frontier Transport Holdings Limited,1.92B
+179,OAS,Oasis Crescent Property Fund,1.92B
+180,SCD,Schroder European Real Estate Investment Trust Plc,1.84B
+181,JBL,Jubilee Metals Group PLC,1.76B
+182,QFH,Quantum Foods Holdings Ltd,1.73B
+183,ZED,Zeder Investments Ltd.,1.65B
+184,UPL,Universal Partners Limited,1.43B
+185,MMP,Marshall Monteagle PLC,1.43B
+186,SZK,SAB Zenzele Kabili Holdings (RF) Limited,1.38B
+187,BRN,Brimstone Investment Corporation Limited,1.30B
+188,BRT,Brimstone Investment Corporation Limited,1.30B
+189,GML,Gemfields Group Limited,1.28B
+190,TPC,Transpaco Limited,1.13B
+191,DNB,Deneb Investments Limited,1.10B
+192,EMH,eMedia Holdings Limited,1.10B
+193,EMN,eMedia Holdings Limited,1.10B
+194,SSK,Stefanutti Stocks Holdings Limited,1.08B
+195,EPS,Eastern Platinum Limited,1.06B
+196,SNV,Santova Limited,1.04B
+197,YRK,York Timber Holdings Limited,1.02B
+198,MTA,Metair Investments Limited,970.89M
+199,BCF,Bowler Metcalf Limited,943.71M
+200,APF,Accelerate Property Fund Limited,920.47M
+201,TEX,Texton Property Fund Limited,894.30M
+202,MST,Mustek Limited,825.51M
+203,GPL,Grand Parade Investments Limited,812.11M
+204,EPE,EPE Capital Partners Ltd,729.52M
+205,WEZ,Wesizwe Platinum Limited,716.24M
+206,ADR,Adcorp Holdings Limited,713.29M
+207,ACT,AfroCentric Investment Corporation Limited,695.83M
+208,HLM,Hulamin Limited,673.42M
+209,NTU,Nutun Limited,640.13M
+210,PBG,PBT Holdings Limited,639.29M
+211,PBT,PBT Holdings Limited,639.29M
+212,RMH,RMB Holdings Limited,580.22M
+213,AEG,Aveng Limited,576.49M
+214,NWL,Nu-World Holdings Limited,568.91M
+215,AME,African Media Entertainment Limited,489.92M
+216,NRL,Newpark REIT Limited,470.00M
+217,ENX,enX Group Limited,447.98M
+218,FGL,Finbond Group Limited,413.37M
+219,VUN,Vunani Limited,402.65M
+220,4SI,4Sight Holdings Limited,395.67M
+221,SEP,Sephaku Holdings Limited,394.86M
+222,SLG,Salungano Group Limited,391.65M
+223,CGR,Calgro M3 Holdings Limited,381.52M
+224,CPR,Copper 360 Limited,366.73M
+225,ANI,Afine Investments Limited,362.68M
+226,ISA,ISA Holdings Limited,311.99M
+227,RTN,Rex Trueform Group Limited,310.08M
+228,RTO,Rex Trueform Group Limited,310.08M
+229,PPR,Putprop Limited,295.99M
+230,CCC,Cilo Cybin Holdings Limited,288.09M
+231,TTO,Trustco Group Holdings Limited,282.37M
+232,DLT,Delta Property Fund Limited,278.55M
+233,CKS,Crookes Brothers Limited,272.32M
+234,CAC,CAFCA Limited,268.20M
+235,TMT,Trematon Capital Investments Limited,258.34M
+236,ISB,Insimbi Industrial Holdings Limited,252.29M
+237,RNG,Randgold & Exploration Company Limited,246.97M
+238,MHB,Mahube Infrastructure Limited,242.66M
+239,HUG,Huge Group Limited,198.45M
+240,PMV,Primeserv Group Limited,194.88M
+241,AON,African and Overseas Enterprises Limited,173.54M
+242,AOO,African and Overseas Enterprises Limited,173.54M
+243,SOH,South Ocean Holdings Limited,157.98M
+244,SEB,Sebata Holdings Limited,156.28M
+245,NCS,Nictus Limited,154.99M
+246,RHB,RH Bophelo Limited,129.38M
+247,BIK,Brikor Limited,129.03M
+248,XII,Numeral Limited,120.58M
+249,TRL,Trellidor Holdings Limited,117.11M
+250,SKA,Shuka Minerals Plc,80.08M
+251,MTU,Mantengu Limited,74.75M
+252,TLM,TeleMasters Holdings Limited,56.54M
+253,BAC,Africa Bitcoin Corporation Limited,54.45M
+254,LAB,Labat Africa Limited,37.47M
+255,VIS,Visual International Holdings Limited,35.83M
+256,EUZ,Europa Metals Limited,32.69M
+257,EEL,Efora Energy Limited,22.08M
+258,ADW,African Dawn Capital Limited,9.56M
+259,SXM,Sable Exploration and Mining Limited,3.39M

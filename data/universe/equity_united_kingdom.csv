@@ -1,0 +1,36 @@
+asset_class,market,symbol,yf_ticker,name,gics_sector,industry,currency,market_cap_tier,market_cap_usd_bn
+Equity,United Kingdom,HSBA,HSBA.L,HSBC Holdings plc,Financials,Diversified Banks,GBP,Large Cap,170.0
+Equity,United Kingdom,SHEL,SHEL.L,Shell plc,Energy,Integrated Oil & Gas,GBP,Mega Cap,220.0
+Equity,United Kingdom,AZN,AZN.L,AstraZeneca plc,Health Care,Pharmaceuticals,GBP,Mega Cap,240.0
+Equity,United Kingdom,BP,BP.L,BP plc,Energy,Integrated Oil & Gas,GBP,Large Cap,90.0
+Equity,United Kingdom,ULVR,ULVR.L,Unilever plc,Consumer Staples,Household Products,GBP,Large Cap,130.0
+Equity,United Kingdom,GSK,GSK.L,GSK plc,Health Care,Pharmaceuticals,GBP,Large Cap,75.0
+Equity,United Kingdom,DGE,DGE.L,Diageo plc,Consumer Staples,Distillers & Vintners,GBP,Large Cap,60.0
+Equity,United Kingdom,BATS,BATS.L,British American Tobacco plc,Consumer Staples,Tobacco,GBP,Large Cap,85.0
+Equity,United Kingdom,RIO,RIO.L,Rio Tinto plc,Materials,Diversified Mining,GBP,Large Cap,100.0
+Equity,United Kingdom,GLEN,GLEN.L,Glencore plc,Materials,Diversified Mining,GBP,Large Cap,55.0
+Equity,United Kingdom,BARC,BARC.L,Barclays plc,Financials,Diversified Banks,GBP,Large Cap,55.0
+Equity,United Kingdom,LLOY,LLOY.L,Lloyds Banking Group plc,Financials,Diversified Banks,GBP,Large Cap,50.0
+Equity,United Kingdom,NWG,NWG.L,NatWest Group plc,Financials,Diversified Banks,GBP,Mid Cap,45.0
+Equity,United Kingdom,VOD,VOD.L,Vodafone Group plc,Communication Services,Wireless Telecom,GBP,Mid Cap,25.0
+Equity,United Kingdom,BT-A,BT-A.L,BT Group plc,Communication Services,Telecom Services,GBP,Mid Cap,18.0
+Equity,United Kingdom,TSCO,TSCO.L,Tesco plc,Consumer Staples,Food Retail,GBP,Mid Cap,30.0
+Equity,United Kingdom,NG,NG.L,National Grid plc,Utilities,Multi-Utilities,GBP,Large Cap,55.0
+Equity,United Kingdom,SSE,SSE.L,SSE plc,Utilities,Electric Utilities,GBP,Mid Cap,25.0
+Equity,United Kingdom,REL,REL.L,RELX plc,Industrials,Research & Consulting,GBP,Large Cap,90.0
+Equity,United Kingdom,RKT,RKT.L,Reckitt Benckiser Group plc,Consumer Staples,Household Products,GBP,Mid Cap,35.0
+Equity,United Kingdom,CPG,CPG.L,Compass Group plc,Consumer Discretionary,Restaurants,GBP,Large Cap,55.0
+Equity,United Kingdom,RR,RR.L,Rolls-Royce Holdings plc,Industrials,Aerospace & Defense,GBP,Large Cap,80.0
+Equity,United Kingdom,BA-L,BA.L,BAE Systems plc,Industrials,Aerospace & Defense,GBP,Large Cap,65.0
+Equity,United Kingdom,PRU,PRU.L,Prudential plc,Financials,Life Insurance,GBP,Mid Cap,25.0
+Equity,United Kingdom,LGEN,LGEN.L,Legal & General Group plc,Financials,Life Insurance,GBP,Mid Cap,18.0
+Equity,United Kingdom,AV,AV.L,Aviva plc,Financials,Multi-line Insurance,GBP,Mid Cap,20.0
+Equity,United Kingdom,STAN,STAN.L,Standard Chartered plc,Financials,Diversified Banks,GBP,Mid Cap,30.0
+Equity,United Kingdom,AAL,AAL.L,Anglo American plc,Materials,Diversified Mining,GBP,Mid Cap,35.0
+Equity,United Kingdom,ANTO,ANTO.L,Antofagasta plc,Materials,Copper,GBP,Mid Cap,22.0
+Equity,United Kingdom,NXT,NXT.L,Next plc,Consumer Discretionary,Apparel Retail,GBP,Mid Cap,15.0
+Equity,United Kingdom,ABF,ABF.L,Associated British Foods plc,Consumer Staples,Packaged Foods,GBP,Mid Cap,22.0
+Equity,United Kingdom,EXPN,EXPN.L,Experian plc,Industrials,Research & Consulting,GBP,Mid Cap,40.0
+Equity,United Kingdom,HLMA,HLMA.L,Halma plc,Industrials,Electronic Equipment,GBP,Mid Cap,12.0
+Equity,United Kingdom,SN,SN.L,Smith & Nephew plc,Health Care,Health Care Equipment,GBP,Mid Cap,10.0
+Equity,United Kingdom,LSEG,LSEG.L,London Stock Exchange Group plc,Financials,Financial Exchanges & Data,GBP,Large Cap,55.0

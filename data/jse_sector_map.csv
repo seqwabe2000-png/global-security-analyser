@@ -1,0 +1,260 @@
+symbol,name,gics_sector,industry
+BHG,BHP Group Limited,Materials,Diversified Mining
+ANH,Anheuser-Busch InBev SA/NV,Consumer Staples,Brewers
+CFR,Compagnie Financiere Richemont SA,Consumer Discretionary,Luxury Goods
+BTI,British American Tobacco p.l.c.,Consumer Staples,Tobacco
+PRX,Prosus N.V.,Consumer Discretionary,Internet & Direct Marketing Retail
+GLN,Glencore plc,Materials,Diversified Mining & Commodities Trading
+AGL,Anglo American plc,Materials,Diversified Mining
+ANG,AngloGold Ashanti plc,Materials,Gold Mining
+NPN,Naspers Limited,Consumer Discretionary,Internet & Direct Marketing Retail
+GFI,Gold Fields Limited,Materials,Gold Mining
+FSR,FirstRand Limited,Financials,Banks
+CPI,Capitec Limited,Financials,Banks
+SBK,Standard Bank Group Limited,Financials,Banks
+VAL,Valterra Platinum Limited,Materials,Platinum Group Metals
+MTN,MTN Group Limited,Communication Services,Wireless Telecom
+VOD,Vodacom Group Limited,Communication Services,Wireless Telecom
+S32,South32 Limited,Materials,Diversified Mining
+HAR,Harmony Gold Mining Company Limited,Materials,Gold Mining
+ABG,Absa Group Limited,Financials,Banks
+IMP,Impala Platinum Holdings Limited,Materials,Platinum Group Metals
+SLM,Sanlam Limited,Financials,Life Insurance
+DSY,Discovery Limited,Financials,Life & Health Insurance
+SHP,Shoprite Holdings Ltd,Consumer Staples,Food Retail
+BID,Bid Corporation Limited,Consumer Staples,Food Distribution & Wholesale
+NED,Nedbank Group Limited,Financials,Banks
+OUT,OUTsurance Group Limited,Financials,Non-Life Insurance
+SSW,Sibanye Stillwater Limited,Materials,Precious Metals Mining
+INL,Investec Group (plc),Financials,Diversified Financial Services
+INP,Investec Group (Ltd),Financials,Diversified Financial Services
+SOL,Sasol Limited,Energy,Integrated Oil & Gas & Chemicals
+SOLBE1,Sasol BEE Preference Shares,Energy,Integrated Oil & Gas & Chemicals
+REM,Remgro Limited,Financials,Investment Holding Companies
+NRP,NEPI Rockcastle N.V.,Real Estate,Retail REITs
+NPH,Northam Platinum Holdings Limited,Materials,Platinum Group Metals
+MNP,Mondi plc,Materials,Paper & Packaging
+BVT,The Bidvest Group Limited,Industrials,Diversified Support Services
+RNI,Reinet Investments S.C.A.,Financials,Investment Holding Companies
+KIO,Kumba Iron Ore Limited,Materials,Iron Ore Mining
+PPH,Pepkor Holdings Limited,Consumer Discretionary,Apparel & Discount Retail
+APN,Aspen Pharmacare Holdings Limited,Health Care,Pharmaceuticals
+GRT,Growthpoint Properties Limited,Real Estate,Diversified REITs
+QLT,Quilter plc,Financials,Asset Management
+SHC,Shaftesbury Capital PLC,Real Estate,Retail REITs
+CNP,Canal+ SA,Communication Services,Broadcasting
+OMU,Old Mutual Limited,Financials,Life Insurance
+PHP,Primary Health Properties Plc,Real Estate,Health Care REITs
+MTM,Momentum Group Limited,Financials,Life Insurance
+PAN,Pan African Resources PLC,Materials,Gold Mining
+CLS,Clicks Group Limited,Consumer Staples,Drug & Health Retail
+HMN,Hammerson Plc,Real Estate,Retail REITs
+EXX,Exxaro Resources Limited,Energy,Coal Mining
+MRP,Mr Price Group Limited,Consumer Discretionary,Apparel Retail
+N91,Ninety One Group (plc),Financials,Asset Management
+NY1,Ninety One Group (Ltd),Financials,Asset Management
+RDF,Redefine Properties Limited,Real Estate,Diversified REITs
+SNT,Santam Ltd,Financials,Non-Life Insurance
+KST,PSG Financial Services Limited,Financials,Diversified Financial Services
+WHL,Woolworths Holdings Limited,Consumer Discretionary,Multiline Retail
+TBS,Tiger Brands Limited,Consumer Staples,Packaged Foods
+ARI,African Rainbow Minerals Limited,Materials,Diversified Mining
+BOX,Boxer Retail Limited,Consumer Staples,Food Retail
+VKE,Vukile Property Fund Limited,Real Estate,Diversified REITs
+SRE,Sirius Real Estate Limited,Real Estate,Industrial REITs
+DRD,DRDGOLD Limited,Materials,Gold Mining
+KRO,Karooooo Ltd.,Information Technology,Software & IoT
+FFB,Fortress Real Estate Investments Limited,Real Estate,Industrial & Logistics REITs
+AVI,AVI Limited,Consumer Staples,Packaged Foods & Brands
+PMR,Premier Group Limited,Consumer Staples,Packaged Foods
+RES,Resilient REIT Limited,Real Estate,Retail REITs
+TKG,Telkom SA SOC Ltd,Communication Services,Integrated Telecom
+ADH,ADvTECH Limited,Consumer Discretionary,Education Services
+SRI,Supermarket Income REIT plc,Real Estate,Retail REITs
+DCP,Dis-Chem Pharmacies Limited,Consumer Staples,Drug & Health Retail
+HYP,Hyprop Investments Limited,Real Estate,Retail REITs
+APH,Alphamin Resources Corp.,Materials,Tin Mining
+NTC,Netcare Limited,Health Care,Health Care Facilities
+BYI,Bytes Technology Group plc,Information Technology,IT Services
+DTC,Datatec Limited,Information Technology,IT Services & Hardware Distribution
+TRU,Truworths International Limited,Consumer Discretionary,Apparel Retail
+MTH,Motus Holdings Limited,Consumer Discretionary,Automotive Retail
+OPA,Optasia Limited,Information Technology,Fintech Software
+TFG,The Foschini Group Limited,Consumer Discretionary,Apparel Retail
+GND,Grindrod Limited,Industrials,Marine Transportation & Logistics
+LTE,Lighthouse Properties p.l.c.,Real Estate,Retail REITs
+LHC,Life Healthcare Group Holdings Limited,Health Care,Health Care Facilities
+OMN,Omnia Holdings Limited,Materials,Specialty Chemicals
+GCT,Greencoat Renewables PLC,Utilities,Renewable Electricity
+EQU,Equites Property Fund Limited,Real Estate,Industrial & Logistics REITs
+CML,Coronation Fund Managers Limited,Financials,Asset Management
+FTA,Fairvest Limited (A),Real Estate,Retail REITs
+FTB,Fairvest Limited (B),Real Estate,Retail REITs
+MSP,MAS P.L.C.,Real Estate,Retail REITs
+PIK,Pick n Pay Stores Limited,Consumer Staples,Food Retail
+WBC,We Buy Cars Holdings Limited,Consumer Discretionary,Automotive Retail
+HCI,Hosken Consolidated Investments Limited,Financials,Investment Holding Companies
+SSU,Southern Sun Limited,Consumer Discretionary,Hotels & Leisure
+AFE,AECI Ltd,Materials,Specialty Chemicals
+JSE,JSE Limited,Financials,Financial Exchanges & Data
+SUI,Sun International Limited,Consumer Discretionary,Casinos & Gaming
+TGA,Thungela Resources Limited,Energy,Coal Mining
+ATT,Attacq Limited,Real Estate,Diversified REITs
+ITE,Italtile Limited,Consumer Discretionary,Home Improvement Retail
+PPC,PPC Ltd,Materials,Construction Materials
+ISO,ASP Isotopes Inc.,Materials,Specialty Chemicals
+SDO,Stadio Holdings Limited,Consumer Discretionary,Education Services
+CVW,Castleview Property Fund Limited,Real Estate,Diversified REITs
+AEL,Altron Limited,Information Technology,IT Services
+SAC,SA Corporate Real Estate Limited,Real Estate,Diversified REITs
+RLO,Reunert Limited,Industrials,Electrical Equipment
+PWR,PowerFleet Inc.,Information Technology,IoT Software
+AFH,Alexander Forbes Group Holdings Limited,Financials,Insurance Brokers & Financial Services
+SAP,Sappi Limited,Materials,Paper & Forest Products
+CCD,Cell C Holdings Limited,Communication Services,Wireless Telecom
+SPP,The SPAR Group Ltd,Consumer Staples,Food Distribution & Retail
+BAT,Brait PLC,Financials,Private Equity / Investment Holding
+OCE,Oceana Group Limited,Consumer Staples,Fish Processing & Packaged Foods
+SSS,Stor-Age Property REIT Limited,Real Estate,Self Storage REITs
+CAA,CA Sales Holdings Limited,Consumer Staples,FMCG Distribution
+HET,Heriot REIT Limited,Real Estate,Diversified REITs
+ARL,Astral Foods Limited,Consumer Staples,Poultry & Agri Products
+WBO,Wilson Bayly Holmes-Ovcon Limited,Industrials,Construction & Engineering
+RBX,Raubex Group Limited,Industrials,Construction & Engineering
+BLU,Blu Label Unlimited Group Limited,Information Technology,IT & Prepaid Distribution
+BTN,Burstone Group Limited,Real Estate,Industrial & Logistics REITs
+THA,Tharisa plc,Materials,Platinum Group Metals & Chrome
+RCL,RCL Foods Limited,Consumer Staples,Packaged Foods
+TSG,Tsogo Sun Limited,Consumer Discretionary,Casinos & Gaming
+DIB,Dipula Properties Limited,Real Estate,Diversified REITs
+SPG,Super Group Limited,Industrials,Transportation & Logistics
+KAP,KAP Limited,Industrials,Diversified Industrials
+LSK,Lesaka Technologies Inc.,Information Technology,Fintech Software
+EMI,Emira Property Fund Limited,Real Estate,Diversified REITs
+EXP,Exemplar REITail Limited,Real Estate,Retail REITs
+GTC,Globe Trade Centre S.A.,Real Estate,Diversified REITs
+WVR,Weaver Fintech Ltd,Information Technology,Fintech Software
+HDC,Hudaco Industries Limited,Industrials,Industrial Distribution
+RBO,Rainbow Chicken Limited,Consumer Staples,Poultry
+SEA,Spear Reit Limited,Real Estate,Diversified REITs
+FBR,Famous Brands Limited,Consumer Discretionary,Restaurants
+SBP,Sabvest Capital Limited,Financials,Investment Holding Companies
+SYG,Sygnia Limited,Financials,Asset Management
+OCT,Octodec Investments Limited,Real Estate,Diversified REITs
+LEW,Lewis Group Limited,Consumer Discretionary,Furniture Retail
+CAT,Caxton and CTP Publishers and Printers Limited,Communication Services,Publishing
+AFT,Afrimat Limited,Materials,Construction Materials & Mining
+MKR,Montauk Renewables Inc.,Utilities,Renewable Energy
+OAO,Oando PLC,Energy,Oil & Gas Exploration & Production
+BEL,Bell Equipment Limited,Industrials,Machinery
+NPK,Nampak Limited,Materials,Packaging
+CPP,Collins Property Group Limited,Real Estate,Diversified REITs
+KP2,Kore Potash plc,Materials,Fertilizer & Potash Mining
+KAL,KAL Group Limited,Consumer Staples,Agriculture
+YYLBEE,YeboYethu (RF) Limited,Communication Services,Wireless Telecom (Vodacom BEE)
+MRF,Merafe Resources Limited,Materials,Ferrochrome Mining
+CHP,Choppies Enterprises Limited,Consumer Staples,Food Retail
+SUR,Spur Corporation Ltd,Consumer Discretionary,Restaurants
+IVT,Invicta Holdings Limited,Industrials,Industrial Distribution & Equipment
+ZZD,Zeda Limited,Consumer Discretionary,Automotive Retail & Rental
+CMH,Combined Motor Holdings Limited,Consumer Discretionary,Automotive Retail
+AII,Aimia Inc.,Financials,Investment Holding Companies
+PPE,Purple Group Limited,Financials,Brokerage & Fintech
+SDL,Southern Palladium Limited,Materials,Platinum Group Metals (Exploration)
+SHG,Sea Harvest Group Limited,Consumer Staples,Fish Processing
+IOC,iOCO Limited,Information Technology,IT Services
+MCZ,MC Mining Limited,Energy,Coal Mining
+MPT,Mpact Limited,Materials,Paper & Packaging
+LBR,Libstar Holdings Limited,Consumer Staples,Packaged Foods
+CLH,City Lodge Hotels Limited,Consumer Discretionary,Hotels
+CSB,Cashbuild Limited,Consumer Discretionary,Home Improvement Retail
+MDI,Master Drilling Group Limited,Industrials,Mining Services
+ORN,Orion Minerals Limited,Materials,Base Metals Mining
+ACS,Acsion Limited,Real Estate,Diversified REITs
+ART,Argent Industrial Limited,Industrials,Diversified Industrials
+AXX,Araxi Limited,Financials,Investment Holding Companies
+ACL,ArcelorMittal South Africa Limited,Materials,Steel
+BWN,Balwin Properties Limited,Real Estate,Residential Real Estate Development
+NVS,Novus Holdings Limited,Communication Services,Printing & Publishing
+FTH,Frontier Transport Holdings Limited,Industrials,Transportation & Logistics
+OAS,Oasis Crescent Property Fund,Real Estate,Diversified REITs
+SCD,Schroder European Real Estate Investment Trust Plc,Real Estate,Diversified REITs
+JBL,Jubilee Metals Group PLC,Materials,PGM & Copper Processing
+QFH,Quantum Foods Holdings Ltd,Consumer Staples,Poultry & Eggs
+ZED,Zeder Investments Ltd.,Consumer Staples,Agribusiness Investment Holding
+UPL,Universal Partners Limited,Financials,Investment Holding Companies
+MMP,Marshall Monteagle PLC,Consumer Staples,Agri Trading & Investment Holding
+SZK,SAB Zenzele Kabili Holdings (RF) Limited,Consumer Staples,Brewers (BEE Scheme)
+BRN,Brimstone Investment Corporation Limited (N),Financials,Investment Holding Companies
+BRT,Brimstone Investment Corporation Limited,Financials,Investment Holding Companies
+GML,Gemfields Group Limited,Materials,Gemstone Mining
+TPC,Transpaco Limited,Materials,Packaging
+DNB,Deneb Investments Limited,Consumer Discretionary,Textiles & Diversified Industrial
+EMH,eMedia Holdings Limited (H),Communication Services,Broadcasting
+EMN,eMedia Holdings Limited (N),Communication Services,Broadcasting
+SSK,Stefanutti Stocks Holdings Limited,Industrials,Construction & Engineering
+EPS,Eastern Platinum Limited,Materials,Platinum Group Metals
+SNV,Santova Limited,Industrials,Freight & Logistics
+YRK,York Timber Holdings Limited,Materials,Forest Products & Timber
+MTA,Metair Investments Limited,Consumer Discretionary,Auto Parts
+BCF,Bowler Metcalf Limited,Materials,Packaging
+APF,Accelerate Property Fund Limited,Real Estate,Diversified REITs
+TEX,Texton Property Fund Limited,Real Estate,Diversified REITs
+MST,Mustek Limited,Information Technology,IT Hardware Distribution
+GPL,Grand Parade Investments Limited,Consumer Discretionary,Investment Holding (Gaming/Restaurants)
+EPE,EPE Capital Partners Ltd,Financials,Private Equity
+WEZ,Wesizwe Platinum Limited,Materials,Platinum Group Metals (Development)
+ADR,Adcorp Holdings Limited,Industrials,Staffing & Employment Services
+ACT,AfroCentric Investment Corporation Limited,Health Care,Managed Health Care
+HLM,Hulamin Limited,Materials,Aluminium Products
+NTU,Nutun Limited,Industrials,Business Process Outsourcing
+PBG,PBT Group Limited (N),Information Technology,IT Consulting
+PBT,PBT Group Limited,Information Technology,IT Consulting
+RMH,RMB Holdings Limited,Financials,Investment Holding Companies
+AEG,Aveng Limited,Industrials,Construction & Engineering
+NWL,Nu-World Holdings Limited,Consumer Discretionary,Consumer Electronics & Appliances
+AME,African Media Entertainment Limited,Communication Services,Broadcasting
+NRL,Newpark REIT Limited,Real Estate,Diversified REITs
+ENX,enX Group Limited,Industrials,Industrial Equipment & Distribution
+FGL,Finbond Group Limited,Financials,Consumer Finance
+VUN,Vunani Limited,Financials,Diversified Financial Services
+4SI,4Sight Holdings Limited,Information Technology,Software
+SEP,Sephaku Holdings Limited,Materials,Construction Materials
+SLG,Salungano Group Limited,Energy,Coal Mining & Logistics
+CGR,Calgro M3 Holdings Limited,Real Estate,Residential Real Estate Development
+CPR,Copper 360 Limited,Materials,Copper Mining
+ANI,Afine Investments Limited,Real Estate,Diversified REITs
+ISA,ISA Holdings Limited,Industrials,Facilities & Cleaning Services
+RTN,Rex Trueform Group Limited (N),Consumer Discretionary,Apparel Manufacturing
+RTO,Rex Trueform Group Limited,Consumer Discretionary,Apparel Manufacturing
+PPR,Putprop Limited,Real Estate,Diversified REITs
+CCC,Cilo Cybin Holdings Limited,Health Care,Pharmaceuticals (Cannabis)
+TTO,Trustco Group Holdings Limited,Financials,Diversified Financial Services
+DLT,Delta Property Fund Limited,Real Estate,Diversified REITs
+CKS,Crookes Brothers Limited,Consumer Staples,Agriculture
+CAC,CAFCA Limited,Industrials,Electrical Cable Manufacturing
+TMT,Trematon Capital Investments Limited,Financials,Investment Holding Companies
+ISB,Insimbi Industrial Holdings Limited,Materials,Metal Recycling & Alloys
+RNG,Randgold & Exploration Company Limited,Materials,Gold Mining
+MHB,Mahube Infrastructure Limited,Utilities,Renewable Energy Investment
+HUG,Huge Group Limited,Communication Services,Telecom Services
+PMV,Primeserv Group Limited,Industrials,Staffing Services
+AON,African and Overseas Enterprises Limited (N),Consumer Discretionary,Textiles & Investment Holding
+AOO,African and Overseas Enterprises Limited,Consumer Discretionary,Textiles & Investment Holding
+SOH,South Ocean Holdings Limited,Consumer Discretionary,Consumer Products Manufacturing
+SEB,Sebata Holdings Limited,Information Technology,Software (Municipal Services)
+NCS,Nictus Limited,Consumer Discretionary,Furniture Retail
+RHB,RH Bophelo Limited,Health Care,Health Care Facilities & Investment
+BIK,Brikor Limited,Materials,Building Materials
+XII,Numeral Limited,Information Technology,Software
+TRL,Trellidor Holdings Limited,Industrials,Building Products (Security)
+SKA,Shuka Minerals Plc,Materials,Mining Exploration
+MTU,Mantengu Limited,Materials,Mining (Chrome & Coal)
+TLM,TeleMasters Holdings Limited,Communication Services,Telecom Services
+BAC,Africa Bitcoin Corporation Limited,Financials,Digital Assets & Investment
+LAB,Labat Africa Limited,Health Care,Pharmaceuticals (Cannabis)
+VIS,Visual International Holdings Limited,Consumer Discretionary,Furniture Manufacturing
+EUZ,Europa Metals Limited,Materials,Mining Exploration
+EEL,Efora Energy Limited,Energy,Oil & Gas Exploration & Production
+ADW,African Dawn Capital Limited,Financials,Diversified Financial Services
+SXM,Sable Exploration and Mining Limited,Materials,Mining Exploration

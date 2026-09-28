@@ -1,0 +1,25 @@
+asset_class,market,symbol,yf_ticker,name,gics_sector,industry,currency,market_cap_tier,market_cap_usd_bn
+Equity,Brazil,PETR4,PETR4.SA,Petroleo Brasileiro SA (Petrobras),Energy,Integrated Oil & Gas,BRL,Large Cap,90.0
+Equity,Brazil,VALE3,VALE3.SA,Vale SA,Materials,Diversified Mining,BRL,Large Cap,55.0
+Equity,Brazil,ITUB4,ITUB4.SA,Itau Unibanco Holding SA,Financials,Diversified Banks,BRL,Large Cap,65.0
+Equity,Brazil,BBDC4,BBDC4.SA,Banco Bradesco SA,Financials,Diversified Banks,BRL,Mid Cap,30.0
+Equity,Brazil,BBAS3,BBAS3.SA,Banco do Brasil SA,Financials,Diversified Banks,BRL,Mid Cap,25.0
+Equity,Brazil,B3SA3,B3SA3.SA,B3 SA - Brasil Bolsa Balcao,Financials,Financial Exchanges & Data,BRL,Mid Cap,12.0
+Equity,Brazil,ABEV3,ABEV3.SA,Ambev SA,Consumer Staples,Brewers,BRL,Mid Cap,40.0
+Equity,Brazil,WEGE3,WEGE3.SA,WEG SA,Industrials,Electrical Equipment,BRL,Mid Cap,25.0
+Equity,Brazil,RENT3,RENT3.SA,Localiza Rent a Car SA,Industrials,Commercial Services,BRL,Mid Cap,10.0
+Equity,Brazil,SUZB3,SUZB3.SA,Suzano SA,Materials,Paper Products,BRL,Mid Cap,15.0
+Equity,Brazil,JBSS3,JBSS3.SA,JBS SA,Consumer Staples,Packaged Foods,BRL,Mid Cap,15.0
+Equity,Brazil,ELET3,ELET3.SA,Centrais Eletricas Brasileiras (Eletrobras),Utilities,Electric Utilities,BRL,Mid Cap,18.0
+Equity,Brazil,GGBR4,GGBR4.SA,Gerdau SA,Materials,Steel,BRL,Small Cap,8.0
+Equity,Brazil,CSNA3,CSNA3.SA,Companhia Siderurgica Nacional,Materials,Steel,BRL,Small Cap,4.0
+Equity,Brazil,HAPV3,HAPV3.SA,Hapvida Participacoes e Investimentos,Health Care,Managed Health Care,BRL,Small Cap,8.0
+Equity,Brazil,EQTL3,EQTL3.SA,Equatorial Energia SA,Utilities,Electric Utilities,BRL,Mid Cap,12.0
+Equity,Brazil,CPFE3,CPFE3.SA,CPFL Energia SA,Utilities,Electric Utilities,BRL,Mid Cap,10.0
+Equity,Brazil,UGPA3,UGPA3.SA,Ultrapar Participacoes SA,Energy,Oil & Gas Refining & Marketing,BRL,Small Cap,6.0
+Equity,Brazil,LREN3,LREN3.SA,Lojas Renner SA,Consumer Discretionary,Apparel Retail,BRL,Small Cap,5.0
+Equity,Brazil,CSAN3,CSAN3.SA,Cosan SA,Energy,Oil & Gas Refining & Marketing,BRL,Small Cap,6.0
+Equity,Brazil,TIMS3,TIMS3.SA,TIM SA,Communication Services,Wireless Telecom,BRL,Small Cap,8.0
+Equity,Brazil,VIVT3,VIVT3.SA,Telefonica Brasil SA (Vivo),Communication Services,Telecom Services,BRL,Mid Cap,10.0
+Equity,Brazil,RADL3,RADL3.SA,Raia Drogasil SA,Consumer Staples,Drug Retail,BRL,Mid Cap,10.0
+Equity,Brazil,KLBN11,KLBN11.SA,Klabin SA,Materials,Paper Products,BRL,Small Cap,6.0

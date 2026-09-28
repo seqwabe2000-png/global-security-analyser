@@ -1,0 +1,36 @@
+asset_class,market,symbol,yf_ticker,name,gics_sector,industry,currency,market_cap_tier,market_cap_usd_bn
+Equity,Japan,7203,7203.T,Toyota Motor Corporation,Consumer Discretionary,Automobiles,JPY,Mega Cap,260.0
+Equity,Japan,6758,6758.T,Sony Group Corporation,Consumer Discretionary,Consumer Electronics,JPY,Large Cap,150.0
+Equity,Japan,8306,8306.T,Mitsubishi UFJ Financial Group,Financials,Diversified Banks,JPY,Large Cap,150.0
+Equity,Japan,9984,9984.T,SoftBank Group Corp.,Communication Services,Telecom Services,JPY,Large Cap,90.0
+Equity,Japan,9434,9434.T,SoftBank Corp.,Communication Services,Wireless Telecom,JPY,Large Cap,65.0
+Equity,Japan,6861,6861.T,Keyence Corporation,Information Technology,Electronic Equipment,JPY,Large Cap,130.0
+Equity,Japan,7974,7974.T,Nintendo Co. Ltd.,Communication Services,Interactive Home Entertainment,JPY,Large Cap,95.0
+Equity,Japan,9983,9983.T,Fast Retailing Co. Ltd.,Consumer Discretionary,Apparel Retail,JPY,Large Cap,95.0
+Equity,Japan,8035,8035.T,Tokyo Electron Ltd.,Information Technology,Semiconductor Equipment,JPY,Large Cap,130.0
+Equity,Japan,6501,6501.T,Hitachi Ltd.,Industrials,Industrial Conglomerates,JPY,Large Cap,130.0
+Equity,Japan,7267,7267.T,Honda Motor Co. Ltd.,Consumer Discretionary,Automobiles,JPY,Large Cap,55.0
+Equity,Japan,7201,7201.T,Nissan Motor Co. Ltd.,Consumer Discretionary,Automobiles,JPY,Mid Cap,12.0
+Equity,Japan,6752,6752.T,Panasonic Holdings Corp.,Consumer Discretionary,Consumer Electronics,JPY,Mid Cap,25.0
+Equity,Japan,7751,7751.T,Canon Inc.,Information Technology,Technology Hardware,JPY,Mid Cap,40.0
+Equity,Japan,5401,5401.T,Nippon Steel Corporation,Materials,Steel,JPY,Mid Cap,22.0
+Equity,Japan,8058,8058.T,Mitsubishi Corporation,Industrials,Trading Companies,JPY,Large Cap,90.0
+Equity,Japan,8031,8031.T,Mitsui & Co. Ltd.,Industrials,Trading Companies,JPY,Large Cap,65.0
+Equity,Japan,8001,8001.T,Itochu Corporation,Industrials,Trading Companies,JPY,Large Cap,85.0
+Equity,Japan,9433,9433.T,KDDI Corporation,Communication Services,Wireless Telecom,JPY,Large Cap,85.0
+Equity,Japan,9432,9432.T,Nippon Telegraph and Telephone,Communication Services,Telecom Services,JPY,Large Cap,90.0
+Equity,Japan,4063,4063.T,Shin-Etsu Chemical Co.,Materials,Specialty Chemicals,JPY,Large Cap,100.0
+Equity,Japan,4568,4568.T,Daiichi Sankyo Co. Ltd.,Health Care,Pharmaceuticals,JPY,Large Cap,90.0
+Equity,Japan,4502,4502.T,Takeda Pharmaceutical Co.,Health Care,Pharmaceuticals,JPY,Large Cap,55.0
+Equity,Japan,6098,6098.T,Recruit Holdings Co. Ltd.,Industrials,Human Resource Services,JPY,Large Cap,90.0
+Equity,Japan,6902,6902.T,Denso Corporation,Consumer Discretionary,Auto Parts,JPY,Large Cap,50.0
+Equity,Japan,6981,6981.T,Murata Manufacturing Co.,Information Technology,Electronic Components,JPY,Mid Cap,45.0
+Equity,Japan,5108,5108.T,Bridgestone Corporation,Consumer Discretionary,Auto Parts,JPY,Mid Cap,30.0
+Equity,Japan,4452,4452.T,Kao Corporation,Consumer Staples,Personal Products,JPY,Mid Cap,25.0
+Equity,Japan,3382,3382.T,Seven & I Holdings Co.,Consumer Staples,Food Retail,JPY,Mid Cap,35.0
+Equity,Japan,8591,8591.T,ORIX Corporation,Financials,Diversified Financial Services,JPY,Mid Cap,30.0
+Equity,Japan,8766,8766.T,Tokio Marine Holdings Inc.,Financials,Property & Casualty Insurance,JPY,Large Cap,75.0
+Equity,Japan,8725,8725.T,MS&AD Insurance Group,Financials,Property & Casualty Insurance,JPY,Mid Cap,30.0
+Equity,Japan,6367,6367.T,Daikin Industries Ltd.,Industrials,Building Products,JPY,Mid Cap,45.0
+Equity,Japan,6954,6954.T,Fanuc Corporation,Industrials,Industrial Machinery,JPY,Mid Cap,25.0
+Equity,Japan,9020,9020.T,East Japan Railway Company,Industrials,Passenger Ground Transportation,JPY,Mid Cap,30.0
